@@ -907,6 +907,11 @@ hash = "b474e65f2e96999173ec9801db95ba2f1e0c33d639ba181a760960f5d36231c3"
 metafile = true
 
 [[files]]
+file = "mods/utilities/euphoria-patches.pw.toml"
+hash = "0dc9d868c3331cb1b906bfafbe0e4a65e51e4ddefc9bb91d553ce18e3be1f61e"
+metafile = true
+
+[[files]]
 file = "mods/utilities/in-control.pw.toml"
 hash = "285bce4290e2174cb9e718267149fc698994dad1efe5ff3996bc58877becbe85"
 metafile = true
@@ -1057,4 +1062,9 @@ metafile = true
 [[files]]
 file = "resourcepacks/xalis-potion.pw.toml"
 hash = "caa9d2feb7486744c97a51da732b6714dd97fe6e09f91b92c0c99ee1ca0ab8f1"
+metafile = true
+
+[[files]]
+file = "shaderpacks/complementary-reimagined.pw.toml"
+hash = "88e40e1591ad381291207cce0d547507ae6ca44893185a1e7ef37b7b86f29e57"
 metafile = true

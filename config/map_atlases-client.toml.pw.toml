@@ -1,0 +1,7 @@
+name = "map_atlases-client.toml"
+filename = "map_atlases-client.toml"
+
+[download]
+hash = "96e630f9535491b49bcda238ee198b58dde7184417dae05b2c7ddf95fec33c56"
+hash-format = "sha256"
+url = "https://raw.githubusercontent.com/dylanxyz/minecraft/main/external/config/map_atlases-client.toml"

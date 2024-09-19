@@ -1,0 +1,7 @@
+name = "biome_replacer.properties"
+filename = "biome_replacer.properties"
+
+[download]
+hash = "a24f7b1ae6be3913530e6e6c0646c27af8ded64079e48d223d246626cb59b140"
+hash-format = "sha256"
+url = "https://raw.githubusercontent.com/dylanxyz/minecraft/main/external/config/biome_replacer.properties"

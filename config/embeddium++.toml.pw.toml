@@ -1,0 +1,7 @@
+name = "embeddium++.toml"
+filename = "embeddium++.toml"
+
+[download]
+hash = "a6f148a6516adf55b3517ab198c21fa2d39436dfb7df8128054ad2e2c44c18c0"
+hash-format = "sha256"
+url = "https://raw.githubusercontent.com/dylanxyz/minecraft/main/external/config/embeddium++.toml"

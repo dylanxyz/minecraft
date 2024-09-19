@@ -1,0 +1,37 @@
+[
+    {
+        "result"    : "deny",
+        "height"    : "range(20,60)",
+        "hostile"   : true,
+        "dimension" : "overworld"
+    },
+    {
+        "result"    : "allow",
+        "hostile"   : true,
+        "dimension" : "overworld"
+    },
+    {
+        "result" : "allow",
+        "mob"    : "fromtheshadows:nehemoth",
+        "biome"  : [
+            "terralith:ashen_savanna",
+            "terralith:caldera",
+            "terralith:desert_canyon",
+            "terralith:desert_spires",
+            "terralith:haze_mountain",
+            "terralith:lush_desert",
+            "terralith:volcanic_crater",
+            "terralith:volcanic_peaks",
+            "terralith:yellowstone",
+            "terralith:cave/crystal_caves",
+            "terralith:cave/deep_caves",
+            "terralith:cave/frostfire_caves",
+            "terralith:cave/mantle_caves",
+            "terralith:cave/tuff_caves"
+        ]
+    },
+    {
+        "result" : "deny",
+        "mob"    : "fromtheshadows:nehemoth"
+    }
+]

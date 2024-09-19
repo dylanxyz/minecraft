@@ -1,0 +1,7 @@
+name = "phases.json"
+filename = "phases.json"
+
+[download]
+hash = "e16684dd49cc5f9f0f4e6113bf2867e72be2216dcfa6ccd990e4027c3f85f5f8"
+hash-format = "sha256"
+url = "https://raw.githubusercontent.com/dylanxyz/minecraft/main/external/config/incontrol/phases.json"

@@ -1,0 +1,7 @@
+name = "events.json"
+filename = "events.json"
+
+[download]
+hash = "ca887167b7e2020f94ef93d0f4335c4f476d656eeef7dc0969558bb61a204221"
+hash-format = "sha256"
+url = "https://raw.githubusercontent.com/dylanxyz/minecraft/main/external/config/fromanotherworld/events.json"

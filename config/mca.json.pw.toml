@@ -1,0 +1,7 @@
+name = "mca.json"
+filename = "mca.json"
+
+[download]
+hash = "ff60848932fd9e6e742e1174b0f4d5ea77a053b7776058081083d160b2a67a1d"
+hash-format = "sha256"
+url = "https://raw.githubusercontent.com/dylanxyz/minecraft/main/external/config/mca.json"

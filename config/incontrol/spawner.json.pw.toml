@@ -1,0 +1,7 @@
+name = "spawner.json"
+filename = "spawner.json"
+
+[download]
+hash = "7bdbe9947acb2ed08d3b6faf859e5ba39f06524a172b209839ffc7b29dccf6de"
+hash-format = "sha256"
+url = "https://raw.githubusercontent.com/dylanxyz/minecraft/main/external/config/incontrol/spawner.json"

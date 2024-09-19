@@ -142,7 +142,7 @@ metafile = true
 
 [[files]]
 file = "mods/essentials/better-combat.pw.toml"
-hash = "b859f23a2430db3f7c2291054028c8838929adc7ab2293368fd4c99eafa98e4c"
+hash = "0939bf372a02ff10c04391f84b30459c5dbb7ed9f4a94b60e26b940617c144a0"
 metafile = true
 
 [[files]]
@@ -182,7 +182,7 @@ metafile = true
 
 [[files]]
 file = "mods/essentials/itemphysic-lite.pw.toml"
-hash = "a86b59fb6e0babde3ec56ee1e39109c40a6cadc223f5f49a8a9625d3ae0ce0da"
+hash = "96e15e4700db9af6d526f2ec51686748b3035f488d516f5d96f3e7b47203f5a1"
 metafile = true
 
 [[files]]
@@ -197,7 +197,7 @@ metafile = true
 
 [[files]]
 file = "mods/essentials/map-atlases-forge.pw.toml"
-hash = "4d5d39b3dff49e0fc5f379d144d7d3ed336558e159886402004bb60d8c539a6a"
+hash = "a00605418bb46daef01c89b7ded2c0002dbdcb1a9431c90a322dd4e7bd7c8748"
 metafile = true
 
 [[files]]
@@ -217,7 +217,7 @@ metafile = true
 
 [[files]]
 file = "mods/essentials/oculus.pw.toml"
-hash = "6bd1361e99583052f41dac17f6295ae8afa97b88065b4a055b0f9d67ed490d90"
+hash = "be98611a5c24767e985bc1e3e2bc43d11b31b41ef8a2c5b6b768dbbffd8ae06a"
 metafile = true
 
 [[files]]
@@ -637,7 +637,7 @@ metafile = true
 
 [[files]]
 file = "mods/performance/iris-flw-compat.pw.toml"
-hash = "67b08c8d8879f75272917d0374f5ea66a6ec4a1fd1c6eeddd8c5b4c1ec760622"
+hash = "304c6b33c8444590741dce6c55d6ab9105a58922898eff8fcb6417a339a94097"
 metafile = true
 
 [[files]]
@@ -682,7 +682,7 @@ metafile = true
 
 [[files]]
 file = "mods/utilities/biome-replacer.pw.toml"
-hash = "3ade0d4d946002235d03e9d9bc0a76c9fe272974a104912b6b820bc2e29e855e"
+hash = "69be3bee11515f36f2a28e7cbd121e37064e846151a9eec5abc57f948f380915"
 metafile = true
 
 [[files]]
@@ -738,6 +738,11 @@ metafile = true
 [[files]]
 file = "mods/utilities/resource-pack-overrides.pw.toml"
 hash = "5ee78edc10ec6f65703758925ec5b56b3ce5caa7e9a65dd08146c6c001a705ee"
+metafile = true
+
+[[files]]
+file = "mods/utilities/ryoamiclights.pw.toml"
+hash = "93ff74a0717a259cf31da3baa0daa361fbeedcbc6d5a25faaff731d09352d825"
 metafile = true
 
 [[files]]

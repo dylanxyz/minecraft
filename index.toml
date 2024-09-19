@@ -97,6 +97,11 @@ metafile = true
 preserve = true
 
 [[files]]
+file = "config/options.txt.pw.toml"
+hash = "564907e164a8b8f7ff14017101b7ad571cf1c220913ec49b63e4b5ecfacff8e4"
+metafile = true
+
+[[files]]
 file = "config/parcool-client.toml.pw.toml"
 hash = "ac57cdc6f8a505bf079aab46c5149d4de50f77252eb586fa1fcce69d450718d9"
 metafile = true
@@ -974,11 +979,6 @@ metafile = true
 [[files]]
 file = "mods/world/terralith.pw.toml"
 hash = "c61bb929f42718258caa48b0ee586afafc954ef5ee378b44e9dd1b2cb3f2bf41"
-metafile = true
-
-[[files]]
-file = "options.txt.pw.toml"
-hash = "c3a809a2d5ebe4e864b58092c16eb53483e52192793fe337932ac6130d8a220d"
 metafile = true
 
 [[files]]

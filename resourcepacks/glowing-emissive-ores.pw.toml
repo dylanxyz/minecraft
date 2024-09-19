@@ -1,0 +1,13 @@
+name = "Glowing Emissive Ores"
+filename = "GEO - v1.6.0.zip"
+side = "client"
+
+[download]
+url = "https://cdn.modrinth.com/data/l8XRSfMu/versions/75pr0Gb9/GEO%20-%20v1.6.0.zip"
+hash-format = "sha1"
+hash = "1ed866231d22132ecdb084bd2f10e7fff7887965"
+
+[update]
+[update.modrinth]
+mod-id = "l8XRSfMu"
+version = "75pr0Gb9"

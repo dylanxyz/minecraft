@@ -1,6 +1,10 @@
 hash-format = "sha256"
 
 [[files]]
+file = "config/resourcepackoverrides.json"
+hash = "0ed9e4fa19b781a5a64d9c9469068bde6ec4c9a560a629ee8937f67b47860511"
+
+[[files]]
 file = "kubejs/README.txt"
 hash = "989f3737ae4621b8ff6730bce4cbeeee756921e7e510e0c281c8a350501d98af"
 
@@ -862,4 +866,82 @@ metafile = true
 [[files]]
 file = "mods/world/terralith.pw.toml"
 hash = "c61bb929f42718258caa48b0ee586afafc954ef5ee378b44e9dd1b2cb3f2bf41"
+metafile = true
+
+[[files]]
+file = "resourcepacks/create_new_age_refrubished.pw.toml"
+hash = "b83b4f10794469b11497e18590c9ddc2ae97641fc9f7fed193689b6c9eed2e0e"
+metafile = true
+
+[[files]]
+file = "resourcepacks/dark-sophisticated-backpack.pw.toml"
+hash = "c4979b5e6d9c6bb79b85ca4d1f027622ee85b3b234d478ddcec60e07d0f8d114"
+metafile = true
+
+[[files]]
+file = "resourcepacks/detail-brush.pw.toml"
+hash = "bb9a83ef6abb19b50328f22c94381c72a5cba89e3fd99c2a3a40770597e198ba"
+metafile = true
+
+[[files]]
+file = "resourcepacks/fancy-beds.pw.toml"
+hash = "ff174c360b1a465869f87fd8bee51ab2b3d101a6077379d09b233ffd6949e5ff"
+metafile = true
+
+[[files]]
+file = "resourcepacks/fast-better-grass.pw.toml"
+hash = "f05dedd6fc9f8e3ace51215fb47269a4919870a15c6c166c96c79b87bb9180c4"
+metafile = true
+
+[[files]]
+file = "resourcepacks/glowing-emissive-ores.pw.toml"
+hash = "9851daf90bda44d5a6bae9ad040235cecd0181f580d2eac7a4645764c9fecd16"
+metafile = true
+
+[[files]]
+file = "resourcepacks/improved-crafting-table-squarzy.pw.toml"
+hash = "6e7ac2628d07769bb1458e91c0c00bc57e555c9b66ab7a5b2b2245ac3f9e2eff"
+metafile = true
+
+[[files]]
+file = "resourcepacks/modpackfix/assets/create_new_age/textures/block/thorium_ore_e.png"
+hash = "716a878a4d14f4c7d970218583d35ca10e99ca7edc11d97c2eda895c451c01c6"
+
+[[files]]
+file = "resourcepacks/modpackfix/pack.mcmeta"
+hash = "aa56be6f3d456e088058c70c428a5a2b3fce9654eb8a04147560feed0871e2fd"
+
+[[files]]
+file = "resourcepacks/no-enchant-glint.pw.toml"
+hash = "00974626850138f5cca69e8e7eeb8f6fbc6a5545519f69c2b6014c45936ae136"
+metafile = true
+
+[[files]]
+file = "resourcepacks/tool-belt-retextured.pw.toml"
+hash = "447a75920192f1e57ad35fc30c7803396bddbbb0cd0ac190443568c8917dddf5"
+metafile = true
+
+[[files]]
+file = "resourcepacks/unique-dark.pw.toml"
+hash = "16b096ee1b15287081cc8a83c0104b66ce5e32afbed24f70eb6b8e48c2a8b506"
+metafile = true
+
+[[files]]
+file = "resourcepacks/visual-enchantments.pw.toml"
+hash = "62102793ce460b1490d5568b753933a4c20ac2567b8c5ce7e4ee36f92d1dec25"
+metafile = true
+
+[[files]]
+file = "resourcepacks/xalis-enchanted-books.pw.toml"
+hash = "13c945a8aaa1993ffba820f02e2bd5a69655b69bba1ad043d0ae4b21fa9dc789"
+metafile = true
+
+[[files]]
+file = "resourcepacks/xalis-enhanced-vanilla.pw.toml"
+hash = "7ea46e054b0915e6534ffd28e718cba6edcece22c9829213d58eb3c12d0d36f7"
+metafile = true
+
+[[files]]
+file = "resourcepacks/xalis-potion.pw.toml"
+hash = "caa9d2feb7486744c97a51da732b6714dd97fe6e09f91b92c0c99ee1ca0ab8f1"
 metafile = true

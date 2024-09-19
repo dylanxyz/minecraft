@@ -4,86 +4,103 @@ hash-format = "sha256"
 file = "config/biome_replacer.properties.pw.toml"
 hash = "def9c2fe05b2c8637ac4b4ac29de0d7ca6cd7781dede62ee49f91f71fad7e1d7"
 metafile = true
+preserve = true
 
 [[files]]
 file = "config/curios-client.toml.pw.toml"
 hash = "112444ef959e7b6cc31b55c9c64fc6d8f15e1ca332307c5b48c68b35e11c70f7"
 metafile = true
+preserve = true
 
 [[files]]
 file = "config/curios-common.toml.pw.toml"
 hash = "551bcce23d5719a36d21eee69afec43d2e9c344bbff34c0db80590698ce6addd"
 metafile = true
+preserve = true
 
 [[files]]
 file = "config/embeddium++.toml.pw.toml"
 hash = "dd265828fa477bd5f9f9ae851ef2c85f5f96f941476462182de858028be1cde1"
 metafile = true
+preserve = true
 
 [[files]]
 file = "config/embeddium-mixins.properties.pw.toml"
 hash = "939a145ed60e764d39b2cf5c5d24ccc92f1ad22de001f027eafb344e7649ebd1"
 metafile = true
+preserve = true
 
 [[files]]
 file = "config/embeddium-options.json.pw.toml"
 hash = "906d8643a76c739c3ac6839ee6fde241bb087f219f7319a5c0202770dfc723e0"
 metafile = true
+preserve = true
 
 [[files]]
 file = "config/emi.css.pw.toml"
 hash = "d9c7577a4e5dedfe937a57e6d98c8a9d7a932bad0d39b5e019f879d6957c02f4"
 metafile = true
+preserve = true
 
 [[files]]
 file = "config/fromanotherworld/events.json.pw.toml"
 hash = "cbeb3919d4899684ef01d575e010193c446341893e2f8ce997a96425641b42a4"
 metafile = true
+preserve = true
 
 [[files]]
 file = "config/incontrol/phases.json.pw.toml"
 hash = "5d5e422b0cc0e7f32d64ec78a36c7d4a05243c9408902535cd965ba0481ebcc1"
 metafile = true
+preserve = true
 
 [[files]]
 file = "config/incontrol/spawn.json.pw.toml"
 hash = "dd04cab4af555c54ef8368c5f9c82a76e94c18d0ae76a0eb42afa3776e7dcef9"
 metafile = true
+preserve = true
 
 [[files]]
 file = "config/incontrol/spawner.json.pw.toml"
 hash = "dfaf84bae26dc7b51e05a297d3de4a64860a7f66534bcc5cf7e90677833fd0ea"
 metafile = true
+preserve = true
 
 [[files]]
 file = "config/map_atlases-client.toml.pw.toml"
 hash = "15f6f0849a6ffe2c4f13a4d28a74db0d1d542f18fbc2646075db3c747e0cf6fc"
 metafile = true
+preserve = true
 
 [[files]]
 file = "config/map_atlases-common.toml.pw.toml"
 hash = "342d6e2d22d6605ea045756eb6e21e80d708949d31b99f851cf2477112e5e15b"
 metafile = true
+preserve = true
 
 [[files]]
 file = "config/mca.json.pw.toml"
 hash = "481fad3218d8680b30d162e8705582f57b6de3a35333dfaa0f3c7e1f3141bc4d"
 metafile = true
+preserve = true
 
 [[files]]
 file = "config/notreepunching.toml.pw.toml"
 hash = "2e262e73f82c8c9550328b768dcafbe8554acdf632934c8eab5475391d6c564a"
 metafile = true
+preserve = true
 
 [[files]]
 file = "config/oculus.properties.pw.toml"
 hash = "4f161d3a56cd4809d69a4d38948e061cc467fb2be90f7406286a0fdcfa75267f"
 metafile = true
+preserve = true
 
 [[files]]
 file = "config/parcool-client.toml.pw.toml"
 hash = "ac57cdc6f8a505bf079aab46c5149d4de50f77252eb586fa1fcce69d450718d9"
 metafile = true
+preserve = true
 
 [[files]]
 file = "config/resourcepackoverrides.json"
@@ -93,6 +110,7 @@ hash = "0ed9e4fa19b781a5a64d9c9469068bde6ec4c9a560a629ee8937f67b47860511"
 file = "config/starterkit.json5.pw.toml"
 hash = "d7d3a426cbd4384f4dc78d525332e7bc613178bada0dd86c19a0f91bebbfa974"
 metafile = true
+preserve = true
 
 [[files]]
 file = "kubejs/README.txt"

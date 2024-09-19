@@ -1,6 +1,90 @@
 hash-format = "sha256"
 
 [[files]]
+file = "kubejs/README.txt"
+hash = "989f3737ae4621b8ff6730bce4cbeeee756921e7e510e0c281c8a350501d98af"
+
+[[files]]
+file = "kubejs/assets/emi/index/stacks/remove.json"
+hash = "6e1256ca3e86c924ec67b92bb04eb62e5dba208b6be0f30de85fad915a21b87e"
+
+[[files]]
+file = "kubejs/assets/emi/recipe/additions/campfire.json"
+hash = "b26241a36b5f6e992eb28425dbbbd80beefcc669d66fddd3ddf18f4acdb4c316"
+
+[[files]]
+file = "kubejs/assets/emi/recipe/additions/flint_shard.json"
+hash = "9771bfa894e68edb631035cd10b3fd6b770cc9e9eae52a2e6f9d2dfb85b04768"
+
+[[files]]
+file = "kubejs/assets/emi/recipe/additions/plant_fiber.json"
+hash = "79a4ee38aeb556bd016548b85073aaac28df907d4be93b7b63e1b0fefd032482"
+
+[[files]]
+file = "kubejs/assets/kubejs/models/block/basic_flashlight.json"
+hash = "d846eb6a69d6218b04d525145d34cf692879f6d3e04bb705bb5355e5ecda51e1"
+
+[[files]]
+file = "kubejs/assets/kubejs/models/block/basic_flashlight_lit.json"
+hash = "0ed6e1fdbda9872f53821a1f26f699b66c2d2d5a3f8700e2a00fec57b89b7578"
+
+[[files]]
+file = "kubejs/assets/kubejs/textures/block/basic_flashlight.png"
+hash = "b175ab41cbd438c8d71edc1d85eff1887c72153f4decea118da81c59e0fb22aa"
+
+[[files]]
+file = "kubejs/assets/kubejs/textures/block/basic_flashlight_lit.png"
+hash = "10b46030490793276267d4f2f0ad6bcc544c098ffa12e1e51ae5a4165ab6c789"
+
+[[files]]
+file = "kubejs/assets/kubejs/textures/block/example_block.png"
+hash = "783d78bd1ee61d3b32273670dff9d82c34cd74c5ae899a10f104f473828d5bbc"
+
+[[files]]
+file = "kubejs/assets/kubejs/textures/item/basic_flashlight.png"
+hash = "87aca7409543a899d92375abb180fd34579cf870206dd10e099b2b954fcd8552"
+
+[[files]]
+file = "kubejs/assets/kubejs/textures/item/basic_flashlight_lit.png"
+hash = "6b0c2e363d81221b0094a19ffac6657ae4ffb5de63f2b2c4a849a2108a87da68"
+
+[[files]]
+file = "kubejs/assets/kubejs/textures/item/example_item.png"
+hash = "45a5f56eba6066ad05c70988a32b72c50cfeb6e35857739bd582007011ea002b"
+
+[[files]]
+file = "kubejs/client_scripts/jsconfig.json"
+hash = "ae9e99c7689d22af5177cc88abfeac8cb2ca7a43d9a0a4aff1c43a455c91c88d"
+
+[[files]]
+file = "kubejs/config/client.properties"
+hash = "3496b3ba1199cea43b2860936f2917eb273504825b6e6cee0a20e0b1c8d4220c"
+
+[[files]]
+file = "kubejs/config/common.properties"
+hash = "1081b9d5577a80bdfb86ed8fe92a7ea21164a8825e54269ffdfadcc317a84b9e"
+
+[[files]]
+file = "kubejs/config/probe-settings.json"
+hash = "e53b55f01f52e1070eb9cb9be77f3760e7a2f14391a0c5ff3b6c88a29460cec5"
+
+[[files]]
+file = "kubejs/server_scripts/jsconfig.json"
+hash = "859b6113943be5159f47d22dacc6278c02a11f3383a60c342f8b481eca99acf6"
+
+[[files]]
+file = "kubejs/server_scripts/src/custom.js"
+hash = "16f96c22c3fc27856de16b8c88a5d0e8f84dfa4334dbe135465e2bb1368f696b"
+
+[[files]]
+file = "kubejs/startup_scripts/jsconfig.json"
+hash = "a9e6912b8515be242dd76c6c9a536a8d7c73f6b8b949787f538436ebeafbb7ee"
+
+[[files]]
+file = "kubejs/startup_scripts/src/flashlight.js"
+hash = "23507985f18375c1ff3d5750225fa6d43db9f0a751a947b2e5c691d638247098"
+
+[[files]]
 file = "mods/create/create-connected.pw.toml"
 hash = "c5a91936a936a05cf3ecd306fb6a3a9797f377ee5381fd851c101ee410f7179a"
 metafile = true

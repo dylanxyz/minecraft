@@ -1,0 +1,13 @@
+name = "From The Shadows Reborn"
+filename = "../fromtheshadowsreborn-2.1.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "293e41681a4b626bd942e6bd64745407653ea202"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 5634498
+project-id = 986907

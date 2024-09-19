@@ -1,0 +1,13 @@
+name = "Create: Structures Arise"
+filename = "../create_structures_arise-133.6.4-forge-1.20.1.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/9enMEvoc/versions/AXZoeRWy/create_structures_arise-133.6.4-forge-1.20.1.jar"
+hash-format = "sha1"
+hash = "cdf44c76f8ef5368082228a2a6113545967491c9"
+
+[update]
+[update.modrinth]
+mod-id = "9enMEvoc"
+version = "AXZoeRWy"

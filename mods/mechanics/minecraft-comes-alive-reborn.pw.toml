@@ -1,0 +1,13 @@
+name = "MCA Reborn"
+filename = "../minecraft-comes-alive-7.5.19+1.20.1-universal.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/1W98a849/versions/U8RtyZFg/minecraft-comes-alive-7.5.19%2B1.20.1-universal.jar"
+hash-format = "sha1"
+hash = "97f87dc610250a6a874627283e24b248c9c51d89"
+
+[update]
+[update.modrinth]
+mod-id = "1W98a849"
+version = "U8RtyZFg"

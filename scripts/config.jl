@@ -1,7 +1,7 @@
 using SHA
 using TOML
 
-const URL = "https://raw.githubusercontent.com/dylanxyz/minecraft/main/external"
+const URL = "https://raw.githubusercontent.com/dylanxyz/minecraft-modpack/main/external"
 const ROOT = dirname(@__DIR__)
 const EXTERNAL = joinpath(ROOT, "external")
 

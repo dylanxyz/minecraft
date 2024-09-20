@@ -5,10 +5,10 @@ const URL = "https://raw.githubusercontent.com/dylanxyz/minecraft/main/external"
 const ROOT = dirname(@__DIR__)
 const EXTERNAL = joinpath(ROOT, "external")
 
-function metafile(name, url, hash)
+function metafile(name, filename, url, hash)
     return Dict(
         "name" => name,
-        "filename" => name,
+        "filename" => filename,
         "download" => Dict(
             "url" => url,
             "hash" => hash,
@@ -25,6 +25,12 @@ function main()
             download = URL * "/" * replace(basepath, "\\" => "/")
             checksum = bytes2hex(sha256(read(filepath, String)))
             output = joinpath(ROOT, basepath) * ".pw.toml"
+            filename = file
+
+            if file == "options.txt"
+                filename = "../" * file
+                output = joinpath(ROOT, "config", "options.txt.pw.toml")
+            end
 
             if isfile(output)
                 try
@@ -41,7 +47,7 @@ function main()
             mkpath(dirname(output))
             open(output, "w") do io
                 @info "Writing meta file" output
-                TOML.print(io, metafile(file, download, checksum))
+                TOML.print(io, metafile(file, filename, download, checksum))
             end
         end
     end

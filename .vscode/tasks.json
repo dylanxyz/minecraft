@@ -30,7 +30,15 @@
             "icon": {
                 "id": "refresh",
                 "color": "terminal.ansiWhite"
-            }
+            },
+            "dependsOn": ["scripts.update"],
+            "dependsOrder": "sequence"
+        },
+        {
+            "label": "scripts.update",
+            "type": "shell",
+            "command": ["julia", "scripts/config.jl"],
+            "hide": true
         }
     ],
     "inputs": [

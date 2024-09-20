@@ -511,6 +511,11 @@ hash = "a79c953f2592b93229e17c25e706c32587165d8c01e9c477199a4595f03b5324"
 metafile = true
 
 [[files]]
+file = "mods/library/cupboard.pw.toml"
+hash = "2eb26b157c4159bfeff6a00147afa35284397d558f84b55367d1a41064d7456a"
+metafile = true
+
+[[files]]
 file = "mods/library/forge-cit.pw.toml"
 hash = "e411de7544240fe8614c53ccac5be724770a0f26fcbaf23ac39b98ed21c5750c"
 metafile = true

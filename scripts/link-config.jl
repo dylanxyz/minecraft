@@ -15,6 +15,11 @@ function main(dir)
 
             linkpath = joinpath(dir, basepath)
 
+            if file == "options.txt.pw.toml"
+                filepath = joinpath(EXTERNAL, "options.txt")
+                linkpath = joinpath(dir, "options.txt")
+            end
+
             if !isdir(dirname(linkpath))
                 mkpath(dirname(linkpath))
             end

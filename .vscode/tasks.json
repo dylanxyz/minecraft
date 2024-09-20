@@ -8,9 +8,7 @@
             "icon": {
                 "id": "cloud-download",
                 "color": "terminal.ansiGreen"
-            },
-            "dependsOn": ["Packwiz Refresh"],
-            "dependsOrder": "sequence"
+            }
         },
         {
             "label": "Add mod (CurseForge)",
@@ -19,9 +17,7 @@
             "icon": {
                 "id": "cloud-download",
                 "color": "terminal.ansiYellow"
-            },
-            "dependsOn": ["Packwiz Refresh"],
-            "dependsOrder": "sequence"
+            }
         },
         {
             "label": "Packwiz Refresh",

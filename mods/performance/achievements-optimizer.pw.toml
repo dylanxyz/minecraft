@@ -1,6 +1,6 @@
 name = "Achievements Optimizer"
 filename = "../AchievementOptimizer-1.20.1-1.0.5.jar"
-side = "server"
+side = "both"
 
 [download]
 url = "https://cdn.modrinth.com/data/SvXrP8rT/versions/EMVvP0gc/AchievementOptimizer-1.20.1-1.0.5.jar"

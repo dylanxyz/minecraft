@@ -1,5 +1,5 @@
 name = "Euphoria Patches"
-filename = "EuphoriaPatcher-0.3.4-forge.jar"
+filename = "../EuphoriaPatcher-0.3.4-forge.jar"
 side = "client"
 
 [download]

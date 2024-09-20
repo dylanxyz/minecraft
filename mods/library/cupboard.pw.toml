@@ -1,5 +1,5 @@
 name = "Cupboard"
-filename = "cupboard-1.20.1-2.7.jar"
+filename = "../cupboard-1.20.1-2.7.jar"
 side = "both"
 
 [download]

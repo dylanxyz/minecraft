@@ -347,7 +347,7 @@ metafile = true
 
 [[files]]
 file = "mods/essentials/better-combat.pw.toml"
-hash = "0939bf372a02ff10c04391f84b30459c5dbb7ed9f4a94b60e26b940617c144a0"
+hash = "2255a6b0e3932e3fc16ff05732f35ab14a4a1a6f3edb4b26ba99632a238748ad"
 metafile = true
 
 [[files]]
@@ -357,7 +357,7 @@ metafile = true
 
 [[files]]
 file = "mods/essentials/continuity.pw.toml"
-hash = "e42320a9970eac3d5438843edb5a4bc22404aa47b5aefe2e9c17557e58156f33"
+hash = "4e627c71a345ea238838491b073caca3d9739f3a645baa23171d35e587f4d386"
 metafile = true
 
 [[files]]
@@ -512,7 +512,7 @@ metafile = true
 
 [[files]]
 file = "mods/library/cupboard.pw.toml"
-hash = "2eb26b157c4159bfeff6a00147afa35284397d558f84b55367d1a41064d7456a"
+hash = "c4f6ac2e93d8185fd617fe0530ce68c38a6e78a51e4c8645a0e5ab5b508e5fac"
 metafile = true
 
 [[files]]
@@ -917,7 +917,7 @@ metafile = true
 
 [[files]]
 file = "mods/utilities/euphoria-patches.pw.toml"
-hash = "0dc9d868c3331cb1b906bfafbe0e4a65e51e4ddefc9bb91d553ce18e3be1f61e"
+hash = "c000cb7c31317e53c155d4ab51bd519376aba192cb5faadb54d4839131130dc6"
 metafile = true
 
 [[files]]

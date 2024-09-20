@@ -11,3 +11,8 @@ hash = "e89826307c2f35daf5499bd69b07bfef2c3ddfba"
 [update.modrinth]
 mod-id = "4H6sumDB"
 version = "jKEAiweG"
+
+[option]
+optional = true
+default = true
+description = "Ative se for usar o Complementary Shaders"

@@ -38,7 +38,7 @@ preserve = true
 
 [[files]]
 file = "config/emi.css.pw.toml"
-hash = "d9c7577a4e5dedfe937a57e6d98c8a9d7a932bad0d39b5e019f879d6957c02f4"
+hash = "9b59ced20f227a1513a2f668a5264e1405f49c1d04d5dd8e6aecab1e3ad91d42"
 metafile = true
 preserve = true
 
@@ -80,7 +80,7 @@ preserve = true
 
 [[files]]
 file = "config/mca.json.pw.toml"
-hash = "481fad3218d8680b30d162e8705582f57b6de3a35333dfaa0f3c7e1f3141bc4d"
+hash = "8a9cee0508f3476b09fbd62f8bbd86a57adc23e2c61f75960752be20c7db4201"
 metafile = true
 preserve = true
 
@@ -92,18 +92,18 @@ preserve = true
 
 [[files]]
 file = "config/oculus.properties.pw.toml"
-hash = "4f161d3a56cd4809d69a4d38948e061cc467fb2be90f7406286a0fdcfa75267f"
+hash = "eeb4b6eeb7c0e922c6b35e5ff2b20472124b3da074f081fa775fb3f2539aa6d3"
 metafile = true
 preserve = true
 
 [[files]]
 file = "config/options.txt.pw.toml"
-hash = "564907e164a8b8f7ff14017101b7ad571cf1c220913ec49b63e4b5ecfacff8e4"
+hash = "4056eb1740b6e2d10864f3c7ae7e65aa9ec24af200e82a2350cf323c4f941743"
 metafile = true
 
 [[files]]
 file = "config/parcool-client.toml.pw.toml"
-hash = "ac57cdc6f8a505bf079aab46c5149d4de50f77252eb586fa1fcce69d450718d9"
+hash = "93470547063b5347bb2e3fae6c2087dd2580b315770b051078e1a35b3db54c7f"
 metafile = true
 preserve = true
 
@@ -536,6 +536,11 @@ hash = "b65c0edecfeaaa0e32d3d857ef83d5fabf7e6c5b492a37fd0153c481b9b24c31"
 metafile = true
 
 [[files]]
+file = "mods/library/fzzy-config.pw.toml"
+hash = "2c86d8d196c1f6eac2235c54922319f5f33e1102ce21eba30c826acd912c961f"
+metafile = true
+
+[[files]]
 file = "mods/library/geckolib.pw.toml"
 hash = "02c83922c243d0eeeee39546779a354be8b851ba32b0b0c1087733c589469f81"
 metafile = true
@@ -846,8 +851,13 @@ hash = "1536803a2e20807d6baa8c5d65cb1f1f6485393265bc34d935178d240f3c17a8"
 metafile = true
 
 [[files]]
+file = "mods/performance/immediatelyfast.pw.toml"
+hash = "af40845c43ec3cb733798feb97cd29b5868a722723464a05911cba1ae7377529"
+metafile = true
+
+[[files]]
 file = "mods/performance/iris-flw-compat.pw.toml"
-hash = "304c6b33c8444590741dce6c55d6ab9105a58922898eff8fcb6417a339a94097"
+hash = "a547cf008085d5763d327dd26c3c3a98079660b6b26d5dbe85b660f8a45e3a07"
 metafile = true
 
 [[files]]
@@ -858,6 +868,16 @@ metafile = true
 [[files]]
 file = "mods/performance/modernfix.pw.toml"
 hash = "86a3ff47f60d47c41abe6ecc6b489b402ae655d700f3148590bf12bf414d8570"
+metafile = true
+
+[[files]]
+file = "mods/performance/particle-core.pw.toml"
+hash = "90ad9f49497f10ea22332bc005f256add5d75aa56d4575a7c1692bc5ced7641e"
+metafile = true
+
+[[files]]
+file = "mods/performance/saturn.pw.toml"
+hash = "08d38c5e78106b26a6c3e7cb3452778744d799058dd6718cc334b5cc7d75c92d"
 metafile = true
 
 [[files]]
@@ -901,11 +921,6 @@ hash = "47ecb4300f32a6ec1dab556547601d6d343b702e60c0d44723458be401081945"
 metafile = true
 
 [[files]]
-file = "mods/utilities/disable-structures.pw.toml"
-hash = "f9d65e85f75decc8ae9d08035a5a3a25515669c02d2243f61d705f8d455934d5"
-metafile = true
-
-[[files]]
 file = "mods/utilities/easy-anvils.pw.toml"
 hash = "fdf506c08a12fceede80e7fdd81db0cfa0e0e9ea65f38441bc89209c6526239f"
 metafile = true
@@ -917,7 +932,7 @@ metafile = true
 
 [[files]]
 file = "mods/utilities/euphoria-patches.pw.toml"
-hash = "c000cb7c31317e53c155d4ab51bd519376aba192cb5faadb54d4839131130dc6"
+hash = "fef42e19620fe68e8f69289bffec950fbc0adfe9a5c0e435de108ca7b03212ec"
 metafile = true
 
 [[files]]
@@ -1071,6 +1086,11 @@ metafile = true
 [[files]]
 file = "resourcepacks/xalis-potion.pw.toml"
 hash = "caa9d2feb7486744c97a51da732b6714dd97fe6e09f91b92c0c99ee1ca0ab8f1"
+metafile = true
+
+[[files]]
+file = "shaderpacks/ComplementaryReimagined_r5.2.2 + EuphoriaPatches_1.3.2.txt.pw.toml"
+hash = "e606fd525317b2d6da5d0c57f75a4022f78ac41c80d925da83ef027ee356fdc2"
 metafile = true
 
 [[files]]

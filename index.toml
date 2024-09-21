@@ -147,32 +147,8 @@ file = "kubejs/assets/emi/recipe/additions/plant_fiber.json"
 hash = "79a4ee38aeb556bd016548b85073aaac28df907d4be93b7b63e1b0fefd032482"
 
 [[files]]
-file = "kubejs/assets/kubejs/models/block/basic_flashlight.json"
-hash = "d846eb6a69d6218b04d525145d34cf692879f6d3e04bb705bb5355e5ecda51e1"
-
-[[files]]
-file = "kubejs/assets/kubejs/models/block/basic_flashlight_lit.json"
-hash = "0ed6e1fdbda9872f53821a1f26f699b66c2d2d5a3f8700e2a00fec57b89b7578"
-
-[[files]]
-file = "kubejs/assets/kubejs/textures/block/basic_flashlight.png"
-hash = "b175ab41cbd438c8d71edc1d85eff1887c72153f4decea118da81c59e0fb22aa"
-
-[[files]]
-file = "kubejs/assets/kubejs/textures/block/basic_flashlight_lit.png"
-hash = "10b46030490793276267d4f2f0ad6bcc544c098ffa12e1e51ae5a4165ab6c789"
-
-[[files]]
 file = "kubejs/assets/kubejs/textures/block/example_block.png"
 hash = "783d78bd1ee61d3b32273670dff9d82c34cd74c5ae899a10f104f473828d5bbc"
-
-[[files]]
-file = "kubejs/assets/kubejs/textures/item/basic_flashlight.png"
-hash = "87aca7409543a899d92375abb180fd34579cf870206dd10e099b2b954fcd8552"
-
-[[files]]
-file = "kubejs/assets/kubejs/textures/item/basic_flashlight_lit.png"
-hash = "6b0c2e363d81221b0094a19ffac6657ae4ffb5de63f2b2c4a849a2108a87da68"
 
 [[files]]
 file = "kubejs/assets/kubejs/textures/item/example_item.png"
@@ -215,8 +191,8 @@ file = "kubejs/startup_scripts/jsconfig.json"
 hash = "a9e6912b8515be242dd76c6c9a536a8d7c73f6b8b949787f538436ebeafbb7ee"
 
 [[files]]
-file = "kubejs/startup_scripts/src/flashlight.js"
-hash = "23507985f18375c1ff3d5750225fa6d43db9f0a751a947b2e5c691d638247098"
+file = "kubejs/startup_scripts/src/custom.js"
+hash = "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
 
 [[files]]
 file = "mods/create/create-connected.pw.toml"

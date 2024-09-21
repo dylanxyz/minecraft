@@ -1,6 +1,6 @@
 name = "Lios Overhauled Villages"
 filename = "../lios_overhauled_villages-1.18.2-1.21-v0.0.4.jar"
-side = "server"
+side = "both"
 
 [download]
 url = "https://cdn.modrinth.com/data/piqpXT8s/versions/eQkFcqio/lios_overhauled_villages-1.18.2-1.21-v0.0.4.jar"

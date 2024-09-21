@@ -15,7 +15,7 @@ ServerEvents.tags("item", (event) => {
 
     event.add("kubejs:torch_like", "minecraft:torch")
     event.add("kubejs:torch_like", "minecraft:lantern")
-    event.add("kubejs:torch_like", "supplementaries:sconce")
     event.add("kubejs:torch_like", "realistictorches:lit_torch")
     event.add("kubejs:torch_like", "realistictorches:unlit_torch")
+    event.add("kubejs:torch_like", "#supplementaries:sconces")
 })

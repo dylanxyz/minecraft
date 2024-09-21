@@ -179,7 +179,7 @@ hash = "dee1340c5e7927f5675987957c6b198f9ca2e1e731291d72396278dddc066a04"
 
 [[files]]
 file = "kubejs/client_scripts/src/tweaks.js"
-hash = "0fa505f9898a407d627b05e2581611f168b6e8f339342a8cbb98b21b5da9d53a"
+hash = "d59e7c79b996417ab4ad760e655cd350e62cbd8850755f6d8aa75ceacbc00588"
 
 [[files]]
 file = "kubejs/config/client.properties"
@@ -203,7 +203,7 @@ hash = "b3c2a35a6efc1313ce66eb88af9a8c6a9c01e9ff184dfc3d0cd1098f39b93168"
 
 [[files]]
 file = "kubejs/server_scripts/src/tags.js"
-hash = "0a9d4ac92f5f10186c6002c8d00fdb02bae3a98ea946ae8f8a6f49f39fc06ab9"
+hash = "8fd186fb99368efa9303d8ff4a67dace0b542434ab28ebf65a0c52fb5d217bd2"
 
 [[files]]
 file = "kubejs/startup_scripts/jsconfig.json"
@@ -875,7 +875,7 @@ metafile = true
 
 [[files]]
 file = "mods/performance/immediatelyfast.pw.toml"
-hash = "af40845c43ec3cb733798feb97cd29b5868a722723464a05911cba1ae7377529"
+hash = "52dd8ca76df6b395a11443e37a45dda5ad6821dc9822d4326327168c42671dff"
 metafile = true
 
 [[files]]
@@ -935,7 +935,7 @@ metafile = true
 
 [[files]]
 file = "mods/structures/lios-overhauled-villages.pw.toml"
-hash = "bd60810cda510f373d2dc2b281adb21f129519042b4b34f37705b02229d72382"
+hash = "4ab5d18e5351ee8d4ba5b99ed8f0a9bb74a9ab6f53d4908f3bf35550c9d7cb14"
 metafile = true
 
 [[files]]

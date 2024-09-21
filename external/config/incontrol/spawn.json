@@ -3,20 +3,19 @@
         "result"    : "deny",
         "minheight" : 50,
         "hostile"   : true,
-        "category"  : "monster",
         "phase"     : "safe_phase",
         "dimension" : "overworld"
     },
     {
         "result"    : "deny",
-        "mincount"  : 2,
-        "mob"       : "dawnera:tyrannosaurus"
+        "mob"       : "dawnera:tyrannosaurus",
+        "random"    : 0.8
     },
     {
         "result"    : "deny",
         "mod"       : "fromtheshadows",
         "minheight" : 50,
-        "weather"   : "winter"
+        "winter"    : true
     },
     {
         "result"    : "allow",

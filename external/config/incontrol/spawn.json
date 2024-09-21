@@ -1,19 +1,28 @@
 [
     {
         "result"    : "deny",
-        "height"    : "range(20,60)",
+        "minheight" : 50,
         "hostile"   : true,
+        "category"  : "monster",
+        "phase"     : "safe_phase",
         "dimension" : "overworld"
+    },
+    {
+        "result"    : "deny",
+        "mincount"  : 2,
+        "mob"       : "dawnera:tyrannosaurus"
+    },
+    {
+        "result"    : "deny",
+        "mod"       : "fromtheshadows",
+        "minheight" : 50,
+        "weather"   : "winter"
     },
     {
         "result"    : "allow",
-        "hostile"   : true,
-        "dimension" : "overworld"
-    },
-    {
-        "result" : "allow",
-        "mob"    : "fromtheshadows:nehemoth",
-        "biome"  : [
+        "mob"       : "fromtheshadows:nehemoth",
+        "incontrol" : true,
+        "biome"     : [
             "terralith:ashen_savanna",
             "terralith:caldera",
             "terralith:desert_canyon",
@@ -31,7 +40,12 @@
         ]
     },
     {
-        "result" : "deny",
-        "mob"    : "fromtheshadows:nehemoth"
+        "result"    : "deny",
+        "incontrol" : true,
+        "mob"       : "fromtheshadows:nehemoth"
+    },
+    {
+        "result"  : "allow",
+        "hostile" : true
     }
 ]

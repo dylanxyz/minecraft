@@ -486,6 +486,11 @@ hash = "a37050b5ca5997f384b4bb584086c7768ff0d387579cae4c8f59c8c47506e07c"
 metafile = true
 
 [[files]]
+file = "mods/library/caelus.pw.toml"
+hash = "eaa144428b42dedd12beea31db366ca686a621c9945d45a35494dca25846fc63"
+metafile = true
+
+[[files]]
 file = "mods/library/citadel.pw.toml"
 hash = "189fc45bbf8f6f3e2c64bafe025532789b529f2bd613e591fa8781d6343552ec"
 metafile = true
@@ -628,6 +633,11 @@ metafile = true
 [[files]]
 file = "mods/mechanics/exposure.pw.toml"
 hash = "062de5108e905e80c450c0e23cbd84ab71880fad41a56dd02afe6abe12c705b3"
+metafile = true
+
+[[files]]
+file = "mods/mechanics/irons-spells-n-spellbooks.pw.toml"
+hash = "d0a53c6e32e9b1004b1eef27bd7d82e391732fd9c464e7f052d142b2ca09e6c3"
 metafile = true
 
 [[files]]
@@ -791,6 +801,11 @@ hash = "fdddbe3675acaab733e73f52a46cc0deb1837701f412a75e2f71f4832c96acf6"
 metafile = true
 
 [[files]]
+file = "mods/mobs/knight-quest.pw.toml"
+hash = "3c67ef986f4fc7d903d4234d084748586e1a2ec6ccb0f36b754cc2abda732714"
+metafile = true
+
+[[files]]
 file = "mods/mobs/mob-catalog.pw.toml"
 hash = "630cefd1a9cc19bac3662cba81744e74bacf2d4ca56976e653ad2a07c964892c"
 metafile = true
@@ -871,6 +886,11 @@ hash = "86a3ff47f60d47c41abe6ecc6b489b402ae655d700f3148590bf12bf414d8570"
 metafile = true
 
 [[files]]
+file = "mods/performance/packet-fixer.pw.toml"
+hash = "28c4f7857f82a6196ca44d3ee66b2d93cda47990e9d1feae82297a0cf0d2c717"
+metafile = true
+
+[[files]]
 file = "mods/performance/particle-core.pw.toml"
 hash = "90ad9f49497f10ea22332bc005f256add5d75aa56d4575a7c1692bc5ced7641e"
 metafile = true
@@ -891,6 +911,11 @@ hash = "580f03e230dbd76d06340a589df5381fd22dd54cdff3685bca1d3dea46d029c9"
 metafile = true
 
 [[files]]
+file = "mods/structures/cherry-villages.pw.toml"
+hash = "f1c3e011addbf8f63d7bb53146308c70b50722f37fb34a7b6844a08777e74b19"
+metafile = true
+
+[[files]]
 file = "mods/structures/create-structures-arise.pw.toml"
 hash = "1deb156cb403ce85df56c29ec1074b0447235c13ddba81b693b0b018351d5d28"
 metafile = true
@@ -901,8 +926,18 @@ hash = "f63c7d026eb275f945247f5a94707a08ded70d649c21e58f94c4015961dc734f"
 metafile = true
 
 [[files]]
-file = "mods/structures/underground-villages.pw.toml"
-hash = "302ab206b710de547f0414cd441c2b31f392a1b19af63dc3e157716d772ed3c4"
+file = "mods/structures/lios-overhauled-villages.pw.toml"
+hash = "54a10e990209cfd1e11d19eaa637db6b47a5d4f220c51d12cc39a0c09246aafd"
+metafile = true
+
+[[files]]
+file = "mods/structures/simply-houses.pw.toml"
+hash = "0c4c467f9e992b4c057895fc27e7cea887d99af256d63cf8d92d2b108219c97a"
+metafile = true
+
+[[files]]
+file = "mods/structures/tidal-towns.pw.toml"
+hash = "dad9af75cac88d62ff6a811cd36217e8cd070324b74cf956780e221b8c5b588a"
 metafile = true
 
 [[files]]
@@ -983,6 +1018,11 @@ metafile = true
 [[files]]
 file = "mods/utilities/starter-kit.pw.toml"
 hash = "ca7f8ee210d57705e622d11a0e93514c04f5238060bbaf71587bf4be01b9e410"
+metafile = true
+
+[[files]]
+file = "mods/utilities/wits.pw.toml"
+hash = "9bacaa634677898501289d720a0054de5c8e224725fd03004492318638005ae9"
 metafile = true
 
 [[files]]

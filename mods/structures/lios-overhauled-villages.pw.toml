@@ -1,5 +1,5 @@
 name = "Lios Overhauled Villages"
-filename = "lios_overhauled_villages-1.18.2-1.21-v0.0.4.jar"
+filename = "../lios_overhauled_villages-1.18.2-1.21-v0.0.4.jar"
 side = "server"
 
 [download]

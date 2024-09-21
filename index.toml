@@ -175,7 +175,11 @@ hash = "45a5f56eba6066ad05c70988a32b72c50cfeb6e35857739bd582007011ea002b"
 
 [[files]]
 file = "kubejs/client_scripts/jsconfig.json"
-hash = "ae9e99c7689d22af5177cc88abfeac8cb2ca7a43d9a0a4aff1c43a455c91c88d"
+hash = "dee1340c5e7927f5675987957c6b198f9ca2e1e731291d72396278dddc066a04"
+
+[[files]]
+file = "kubejs/client_scripts/src/tweaks.js"
+hash = "0fa505f9898a407d627b05e2581611f168b6e8f339342a8cbb98b21b5da9d53a"
 
 [[files]]
 file = "kubejs/config/client.properties"
@@ -187,7 +191,7 @@ hash = "1081b9d5577a80bdfb86ed8fe92a7ea21164a8825e54269ffdfadcc317a84b9e"
 
 [[files]]
 file = "kubejs/config/probe-settings.json"
-hash = "e53b55f01f52e1070eb9cb9be77f3760e7a2f14391a0c5ff3b6c88a29460cec5"
+hash = "e40c770b7adc83e6e53288ae315887d16cebf18b876db8388ef7a5b8a673c75f"
 
 [[files]]
 file = "kubejs/server_scripts/jsconfig.json"
@@ -195,7 +199,11 @@ hash = "859b6113943be5159f47d22dacc6278c02a11f3383a60c342f8b481eca99acf6"
 
 [[files]]
 file = "kubejs/server_scripts/src/custom.js"
-hash = "16f96c22c3fc27856de16b8c88a5d0e8f84dfa4334dbe135465e2bb1368f696b"
+hash = "b3c2a35a6efc1313ce66eb88af9a8c6a9c01e9ff184dfc3d0cd1098f39b93168"
+
+[[files]]
+file = "kubejs/server_scripts/src/tags.js"
+hash = "0a9d4ac92f5f10186c6002c8d00fdb02bae3a98ea946ae8f8a6f49f39fc06ab9"
 
 [[files]]
 file = "kubejs/startup_scripts/jsconfig.json"
@@ -487,7 +495,7 @@ metafile = true
 
 [[files]]
 file = "mods/library/caelus.pw.toml"
-hash = "eaa144428b42dedd12beea31db366ca686a621c9945d45a35494dca25846fc63"
+hash = "0d073b396ec842c34f9c68285378956d857476df5dc582ab7803839af3e6c447"
 metafile = true
 
 [[files]]
@@ -637,7 +645,7 @@ metafile = true
 
 [[files]]
 file = "mods/mechanics/irons-spells-n-spellbooks.pw.toml"
-hash = "d0a53c6e32e9b1004b1eef27bd7d82e391732fd9c464e7f052d142b2ca09e6c3"
+hash = "c725379b0db02e005b782d529d171016a672f3d884c28ffbd9607045ef369831"
 metafile = true
 
 [[files]]
@@ -802,7 +810,7 @@ metafile = true
 
 [[files]]
 file = "mods/mobs/knight-quest.pw.toml"
-hash = "3c67ef986f4fc7d903d4234d084748586e1a2ec6ccb0f36b754cc2abda732714"
+hash = "5f5a74aabf4fafa2b3d8a30df0eeea3e2ceacadd381a0b9324064f3181d798e3"
 metafile = true
 
 [[files]]
@@ -887,7 +895,7 @@ metafile = true
 
 [[files]]
 file = "mods/performance/packet-fixer.pw.toml"
-hash = "28c4f7857f82a6196ca44d3ee66b2d93cda47990e9d1feae82297a0cf0d2c717"
+hash = "7a8ed6f524f0f073aadbb2103b3488d010faafbd8a84a54df854771f379076f8"
 metafile = true
 
 [[files]]
@@ -912,7 +920,7 @@ metafile = true
 
 [[files]]
 file = "mods/structures/cherry-villages.pw.toml"
-hash = "f1c3e011addbf8f63d7bb53146308c70b50722f37fb34a7b6844a08777e74b19"
+hash = "e5a76062f79ec074923307ebb61f72e670677739bd34b4fa14ff2f8547fda1d2"
 metafile = true
 
 [[files]]
@@ -927,17 +935,17 @@ metafile = true
 
 [[files]]
 file = "mods/structures/lios-overhauled-villages.pw.toml"
-hash = "54a10e990209cfd1e11d19eaa637db6b47a5d4f220c51d12cc39a0c09246aafd"
+hash = "bd60810cda510f373d2dc2b281adb21f129519042b4b34f37705b02229d72382"
 metafile = true
 
 [[files]]
 file = "mods/structures/simply-houses.pw.toml"
-hash = "0c4c467f9e992b4c057895fc27e7cea887d99af256d63cf8d92d2b108219c97a"
+hash = "993ad77e3b2dcff98a8eb10bfcf6b004a1f6fe2cfe9fb3362e54fb176e3020b0"
 metafile = true
 
 [[files]]
 file = "mods/structures/tidal-towns.pw.toml"
-hash = "dad9af75cac88d62ff6a811cd36217e8cd070324b74cf956780e221b8c5b588a"
+hash = "0db68ed368af4f983a5bacdb6348b7928a5e13d2ba29bd46a270ef57f7ea2c86"
 metafile = true
 
 [[files]]
@@ -1022,7 +1030,7 @@ metafile = true
 
 [[files]]
 file = "mods/utilities/wits.pw.toml"
-hash = "9bacaa634677898501289d720a0054de5c8e224725fd03004492318638005ae9"
+hash = "efae7db58221428950ad0f2294efb5e8040ac62fc01d8235f5681a8110cd7de6"
 metafile = true
 
 [[files]]

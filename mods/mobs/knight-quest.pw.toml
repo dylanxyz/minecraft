@@ -1,5 +1,5 @@
 name = "Knight Quest"
-filename = "knightquest-1.6.1-forge.jar"
+filename = "../knightquest-1.6.1-forge.jar"
 side = "both"
 
 [download]

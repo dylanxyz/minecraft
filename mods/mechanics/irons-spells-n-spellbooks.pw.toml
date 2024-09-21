@@ -1,5 +1,5 @@
 name = "Iron's Spells 'n Spellbooks"
-filename = "irons_spellbooks-1.20.1-3.4.0.jar"
+filename = "../irons_spellbooks-1.20.1-3.4.0.jar"
 side = "both"
 
 [download]

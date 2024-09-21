@@ -20,7 +20,7 @@ preserve = true
 
 [[files]]
 file = "config/embeddium++.toml.pw.toml"
-hash = "dd265828fa477bd5f9f9ae851ef2c85f5f96f941476462182de858028be1cde1"
+hash = "80b2e3f75d071cc66a2526e4db9b0590583b4b05dab7bec55968fb9ec3e1a538"
 metafile = true
 preserve = true
 
@@ -44,7 +44,7 @@ preserve = true
 
 [[files]]
 file = "config/fromanotherworld/events.json.pw.toml"
-hash = "cbeb3919d4899684ef01d575e010193c446341893e2f8ce997a96425641b42a4"
+hash = "334fbec227e1a93e42e2c040dddafee8ebe725896ce2172cbb3a7ca13bf383a1"
 metafile = true
 preserve = true
 
@@ -56,15 +56,20 @@ preserve = true
 
 [[files]]
 file = "config/incontrol/spawn.json.pw.toml"
-hash = "dd04cab4af555c54ef8368c5f9c82a76e94c18d0ae76a0eb42afa3776e7dcef9"
+hash = "01bec103441cd98f10a176a4c9c7e859a89ed34d59a71f941e2a1216435b66b6"
 metafile = true
 preserve = true
 
 [[files]]
 file = "config/incontrol/spawner.json.pw.toml"
-hash = "dfaf84bae26dc7b51e05a297d3de4a64860a7f66534bcc5cf7e90677833fd0ea"
+hash = "a3fe405d3ad209b07faee20b397b8ab7a1c0b1a71779ed6f867d06ce456cf914"
 metafile = true
 preserve = true
+
+[[files]]
+file = "config/integrated_villages-forge-1_20.toml.pw.toml"
+hash = "7fe45ddd07c5c9b0c48b61cc85507859d1c28670e0d24c1443210860593bcddc"
+metafile = true
 
 [[files]]
 file = "config/map_atlases-client.toml.pw.toml"
@@ -92,13 +97,13 @@ preserve = true
 
 [[files]]
 file = "config/oculus.properties.pw.toml"
-hash = "eeb4b6eeb7c0e922c6b35e5ff2b20472124b3da074f081fa775fb3f2539aa6d3"
+hash = "1856ba20b7c4f079cb1479795ff076722a98fc13ee046e9c894fe7699e833efb"
 metafile = true
 preserve = true
 
 [[files]]
 file = "config/options.txt.pw.toml"
-hash = "4056eb1740b6e2d10864f3c7ae7e65aa9ec24af200e82a2350cf323c4f941743"
+hash = "2b8cb1acd28a2640f0b4c78ef2b9671d896bf0c83ceedeb847d37bcc351e608b"
 metafile = true
 
 [[files]]
@@ -1143,7 +1148,7 @@ metafile = true
 
 [[files]]
 file = "shaderpacks/ComplementaryReimagined_r5.2.2 + EuphoriaPatches_1.3.2.txt.pw.toml"
-hash = "e606fd525317b2d6da5d0c57f75a4022f78ac41c80d925da83ef027ee356fdc2"
+hash = "bb2fe0c757b097a241f9c2c31b2504ed493f0d8d33680789064a5dcaab93579b"
 metafile = true
 
 [[files]]

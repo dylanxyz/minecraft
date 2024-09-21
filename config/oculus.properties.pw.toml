@@ -2,6 +2,6 @@ name = "oculus.properties"
 filename = "oculus.properties"
 
 [download]
-hash = "81f5a583d75b92e8e3b8ad15be3c88aede7b93ae1196ab81301bfbea8a85abb0"
+hash = "47eb5a3641ce84da96abc66f327193adc25fc255826cb64a99e196372ad782a6"
 hash-format = "sha256"
 url = "https://raw.githubusercontent.com/dylanxyz/minecraft-modpack/main/external/config/oculus.properties"

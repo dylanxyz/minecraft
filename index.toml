@@ -569,6 +569,11 @@ hash = "8ce7061350a6d018dc9bfc1f8c89dd9782b577acae25c59a16bcfb92b47d29cb"
 metafile = true
 
 [[files]]
+file = "mods/library/integrated-api.pw.toml"
+hash = "41d6f94d798b52e2992b96be297b6010589cc52fde0ce44643ab3b2b60617c84"
+metafile = true
+
+[[files]]
 file = "mods/library/kotlin-for-forge.pw.toml"
 hash = "890a6d554fe317241bb60a1894038de071d68d6a90a725fac5693dd8c82ebd36"
 metafile = true
@@ -931,6 +936,11 @@ metafile = true
 [[files]]
 file = "mods/structures/create-structures.pw.toml"
 hash = "f63c7d026eb275f945247f5a94707a08ded70d649c21e58f94c4015961dc734f"
+metafile = true
+
+[[files]]
+file = "mods/structures/integrated-villages.pw.toml"
+hash = "2b15da2e4acbd698bee814e26b8bcda600ab64a8a139ef98ea22a98b97854231"
 metafile = true
 
 [[files]]

@@ -934,11 +934,6 @@ hash = "f63c7d026eb275f945247f5a94707a08ded70d649c21e58f94c4015961dc734f"
 metafile = true
 
 [[files]]
-file = "mods/structures/lios-overhauled-villages.pw.toml"
-hash = "4ab5d18e5351ee8d4ba5b99ed8f0a9bb74a9ab6f53d4908f3bf35550c9d7cb14"
-metafile = true
-
-[[files]]
 file = "mods/structures/simply-houses.pw.toml"
 hash = "993ad77e3b2dcff98a8eb10bfcf6b004a1f6fe2cfe9fb3362e54fb176e3020b0"
 metafile = true

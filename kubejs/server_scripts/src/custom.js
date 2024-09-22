@@ -75,7 +75,7 @@ BlockEvents.rightClicked("minecraft:campfire", (event) => {
     const player = event.getPlayer()
     const heldItem = player.getHeldItem("main_hand")
     const blockState = block.getBlockState()
-    const torchInHand = Ingredient.of("minecraft:torch").test(heldItem)
+    const torchInHand = Ingredient.of("#kubejs:torch_like").test(heldItem)
 
     if (torchInHand) {
         player.swing()

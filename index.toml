@@ -147,16 +147,20 @@ file = "kubejs/assets/emi/recipe/additions/plant_fiber.json"
 hash = "79a4ee38aeb556bd016548b85073aaac28df907d4be93b7b63e1b0fefd032482"
 
 [[files]]
-file = "kubejs/assets/kubejs/textures/block/example_block.png"
+file = "kubejs/assets/kubejs/textures/block/diode.png"
 hash = "783d78bd1ee61d3b32273670dff9d82c34cd74c5ae899a10f104f473828d5bbc"
 
 [[files]]
-file = "kubejs/assets/kubejs/textures/item/example_item.png"
+file = "kubejs/assets/kubejs/textures/item/diode.png"
 hash = "45a5f56eba6066ad05c70988a32b72c50cfeb6e35857739bd582007011ea002b"
 
 [[files]]
 file = "kubejs/client_scripts/jsconfig.json"
 hash = "dee1340c5e7927f5675987957c6b198f9ca2e1e731291d72396278dddc066a04"
+
+[[files]]
+file = "kubejs/client_scripts/src/lumin.js"
+hash = "ee72fd02b2e39d8e9695242c39d06cad672dc71df6e56c17952c6d70568c009c"
 
 [[files]]
 file = "kubejs/client_scripts/src/tweaks.js"
@@ -172,7 +176,7 @@ hash = "1081b9d5577a80bdfb86ed8fe92a7ea21164a8825e54269ffdfadcc317a84b9e"
 
 [[files]]
 file = "kubejs/config/probe-settings.json"
-hash = "e40c770b7adc83e6e53288ae315887d16cebf18b876db8388ef7a5b8a673c75f"
+hash = "41c742cd326bb8152cb278d4507b58983e30a234bd25791f82bd0c573777c47d"
 
 [[files]]
 file = "kubejs/server_scripts/jsconfig.json"
@@ -180,11 +184,19 @@ hash = "859b6113943be5159f47d22dacc6278c02a11f3383a60c342f8b481eca99acf6"
 
 [[files]]
 file = "kubejs/server_scripts/src/custom.js"
-hash = "b3c2a35a6efc1313ce66eb88af9a8c6a9c01e9ff184dfc3d0cd1098f39b93168"
+hash = "b02d24d55bf87a7c7984a34ebe00c24138d9e1966ff573907335e04b4490388e"
+
+[[files]]
+file = "kubejs/server_scripts/src/loot.js"
+hash = "2ea53adfaf057b96fd3a046a4b8e88c10b532a2d9ff5585c0e37c5f5a47b2988"
+
+[[files]]
+file = "kubejs/server_scripts/src/lumin.js"
+hash = "76b23042ee2b81dd041151df0f1c592124fa755e0e5eaa854145acf789effe08"
 
 [[files]]
 file = "kubejs/server_scripts/src/tags.js"
-hash = "8fd186fb99368efa9303d8ff4a67dace0b542434ab28ebf65a0c52fb5d217bd2"
+hash = "5ba0bf1e4667048058e851fc1b7398e777ab9845ae70269ff5e9cbed55333a35"
 
 [[files]]
 file = "kubejs/startup_scripts/jsconfig.json"
@@ -192,7 +204,7 @@ hash = "a9e6912b8515be242dd76c6c9a536a8d7c73f6b8b949787f538436ebeafbb7ee"
 
 [[files]]
 file = "kubejs/startup_scripts/src/custom.js"
-hash = "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+hash = "407026733cbe7834396b6260a75c4acf6e1c08e38f8e2fca3ac7e038a1571d0d"
 
 [[files]]
 file = "mods/create/create-connected.pw.toml"
@@ -455,6 +467,11 @@ hash = "39ef739b84b2bc08b8fc2f89b61acd3116d93802de0ec94cb48d26781f0699a2"
 metafile = true
 
 [[files]]
+file = "mods/library/architectury-api.pw.toml"
+hash = "34268e187fa65d278cd7beb782bf32a719207d9e6af5a7a526e93c358388369f"
+metafile = true
+
+[[files]]
 file = "mods/library/astemirlib.pw.toml"
 hash = "172febed837a035428cfba9cdec77c17563db0b4a4d3df4e663ada3bf3a5d60d"
 metafile = true
@@ -667,11 +684,6 @@ metafile = true
 [[files]]
 file = "mods/misc/accelerated-decay.pw.toml"
 hash = "89f05714c3ddfb763a50fa7a1462da7deff3c2e30c9c431063414b12e29249c3"
-metafile = true
-
-[[files]]
-file = "mods/misc/architectury-api.pw.toml"
-hash = "64aa2ef8a6dbcd44ee8c7ab1cf6500dfdea20ee6bfdba0d77f76a198c14793da"
 metafile = true
 
 [[files]]
@@ -981,7 +993,12 @@ metafile = true
 
 [[files]]
 file = "mods/utilities/kubejs.pw.toml"
-hash = "e3be24fd404029704ef5d50b69b6b0c25b8530702591c93b1e315d9670e9acb3"
+hash = "243ca3ef09c8cc3227e8c43a7c15b615f2ab2c8776d715e9260499dd9a4404b4"
+metafile = true
+
+[[files]]
+file = "mods/utilities/lootjs.pw.toml"
+hash = "0521611d71061de91153fbfc0e2eab1ec1f1b1660299e6223e814f6f25f4e9bd"
 metafile = true
 
 [[files]]
@@ -992,6 +1009,11 @@ metafile = true
 [[files]]
 file = "mods/utilities/polymorph.pw.toml"
 hash = "f8f716c430c0553c1e609ae1e88000e4bf126666b72843a899c2139db5572d9e"
+metafile = true
+
+[[files]]
+file = "mods/utilities/powerfuljs.pw.toml"
+hash = "bd87f993bf0ce3fcb2abe3c42f8cce07efb2d0a8061131ee1285fefa1b7e39a0"
 metafile = true
 
 [[files]]
@@ -1081,7 +1103,7 @@ metafile = true
 
 [[files]]
 file = "resourcepacks/modpackfix/assets/create_new_age/textures/block/thorium_ore_e.png"
-hash = "716a878a4d14f4c7d970218583d35ca10e99ca7edc11d97c2eda895c451c01c6"
+hash = "8526ca2c9edf8cc9e90f416a5acf4827929a02b08447722a0143955c8a7e69c6"
 
 [[files]]
 file = "resourcepacks/modpackfix/pack.mcmeta"

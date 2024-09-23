@@ -906,11 +906,6 @@ hash = "1deb156cb403ce85df56c29ec1074b0447235c13ddba81b693b0b018351d5d28"
 metafile = true
 
 [[files]]
-file = "mods/structures/create-structures.pw.toml"
-hash = "f63c7d026eb275f945247f5a94707a08ded70d649c21e58f94c4015961dc734f"
-metafile = true
-
-[[files]]
 file = "mods/structures/integrated-villages.pw.toml"
 hash = "2b15da2e4acbd698bee814e26b8bcda600ab64a8a139ef98ea22a98b97854231"
 metafile = true

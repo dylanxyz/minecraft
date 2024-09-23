@@ -916,11 +916,6 @@ hash = "2b15da2e4acbd698bee814e26b8bcda600ab64a8a139ef98ea22a98b97854231"
 metafile = true
 
 [[files]]
-file = "mods/structures/simply-houses.pw.toml"
-hash = "993ad77e3b2dcff98a8eb10bfcf6b004a1f6fe2cfe9fb3362e54fb176e3020b0"
-metafile = true
-
-[[files]]
 file = "mods/structures/tidal-towns.pw.toml"
 hash = "0db68ed368af4f983a5bacdb6348b7928a5e13d2ba29bd46a270ef57f7ea2c86"
 metafile = true

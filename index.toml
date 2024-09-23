@@ -147,20 +147,8 @@ file = "kubejs/assets/emi/recipe/additions/plant_fiber.json"
 hash = "79a4ee38aeb556bd016548b85073aaac28df907d4be93b7b63e1b0fefd032482"
 
 [[files]]
-file = "kubejs/assets/kubejs/textures/block/diode.png"
-hash = "783d78bd1ee61d3b32273670dff9d82c34cd74c5ae899a10f104f473828d5bbc"
-
-[[files]]
-file = "kubejs/assets/kubejs/textures/item/diode.png"
-hash = "45a5f56eba6066ad05c70988a32b72c50cfeb6e35857739bd582007011ea002b"
-
-[[files]]
 file = "kubejs/client_scripts/jsconfig.json"
 hash = "dee1340c5e7927f5675987957c6b198f9ca2e1e731291d72396278dddc066a04"
-
-[[files]]
-file = "kubejs/client_scripts/src/lumin.js"
-hash = "ee72fd02b2e39d8e9695242c39d06cad672dc71df6e56c17952c6d70568c009c"
 
 [[files]]
 file = "kubejs/client_scripts/src/tweaks.js"
@@ -191,12 +179,8 @@ file = "kubejs/server_scripts/src/loot.js"
 hash = "2ea53adfaf057b96fd3a046a4b8e88c10b532a2d9ff5585c0e37c5f5a47b2988"
 
 [[files]]
-file = "kubejs/server_scripts/src/lumin.js"
-hash = "76b23042ee2b81dd041151df0f1c592124fa755e0e5eaa854145acf789effe08"
-
-[[files]]
 file = "kubejs/server_scripts/src/tags.js"
-hash = "5ba0bf1e4667048058e851fc1b7398e777ab9845ae70269ff5e9cbed55333a35"
+hash = "8fd186fb99368efa9303d8ff4a67dace0b542434ab28ebf65a0c52fb5d217bd2"
 
 [[files]]
 file = "kubejs/startup_scripts/jsconfig.json"
@@ -204,7 +188,7 @@ hash = "a9e6912b8515be242dd76c6c9a536a8d7c73f6b8b949787f538436ebeafbb7ee"
 
 [[files]]
 file = "kubejs/startup_scripts/src/custom.js"
-hash = "407026733cbe7834396b6260a75c4acf6e1c08e38f8e2fca3ac7e038a1571d0d"
+hash = "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
 
 [[files]]
 file = "mods/create/create-connected.pw.toml"
@@ -659,11 +643,6 @@ metafile = true
 [[files]]
 file = "mods/mechanics/no-tree-punching.pw.toml"
 hash = "97bf21e57e3cd9ede0450aad27d066057c609cd0d56dd6aae7d0c2e633ca1bbc"
-metafile = true
-
-[[files]]
-file = "mods/mechanics/realistic-torches.pw.toml"
-hash = "799a4c31baa5872c0f7fa8db9880cc113b28dcd6b34d603955e1fccd7985b87d"
 metafile = true
 
 [[files]]

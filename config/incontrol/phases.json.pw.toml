@@ -2,6 +2,6 @@ name = "phases.json"
 filename = "phases.json"
 
 [download]
-hash = "e16684dd49cc5f9f0f4e6113bf2867e72be2216dcfa6ccd990e4027c3f85f5f8"
+hash = "15f34f943d7a5204885f9023295325a8c2a9ac85d5f2dbf8ada6bff783c9fd79"
 hash-format = "sha256"
-url = "https://raw.githubusercontent.com/dylanxyz/minecraft/main/external/config/incontrol/phases.json"
+url = "https://raw.githubusercontent.com/dylanxyz/minecraft-modpack/main/external/config/incontrol/phases.json"

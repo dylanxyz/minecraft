@@ -1,0 +1,90 @@
+{
+    "type": "zillagersweararmor:slot",
+    "pools": [
+      {
+        "rolls": 1,
+        "entries": [
+          {
+            "type": "minecraft:loot_table",
+            "name": "zillagersweararmor:entities/armor_sets/rogue",
+            "conditions": [
+              {
+                "condition": "zillagersweararmor:wave",
+                "wave": 1
+              }
+            ]
+          },
+          {
+            "type": "minecraft:loot_table",
+            "name": "zillagersweararmor:entities/armor_sets/rogue",
+            "conditions": [
+              {
+                "condition": "zillagersweararmor:wave",
+                "wave": 2
+              }
+            ]
+          },
+          {
+            "type": "minecraft:loot_table",
+            "name": "zillagersweararmor:entities/armor_sets/ranger",
+            "conditions": [
+              {
+                "condition": "zillagersweararmor:wave",
+                "wave": 3
+              }
+            ]
+          },
+          {
+            "type": "minecraft:loot_table",
+            "name": "zillagersweararmor:entities/armor_sets/sniper",
+            "conditions": [
+              {
+                "condition": "zillagersweararmor:wave",
+                "wave": 4
+              }
+            ]
+          },
+          {
+            "type": "minecraft:loot_table",
+            "name": "zillagersweararmor:entities/armor_sets/sniper",
+            "conditions": [
+              {
+                "condition": "zillagersweararmor:wave",
+                "wave": 5
+              }
+            ]
+          },
+          {
+            "type": "minecraft:loot_table",
+            "name": "zillagersweararmor:entities/armor_sets/soldier",
+            "conditions": [
+              {
+                "condition": "zillagersweararmor:wave",
+                "wave": 6
+              }
+            ]
+          },
+          {
+            "type": "minecraft:loot_table",
+            "name": "zillagersweararmor:entities/armor_sets/snow_soldier",
+            "conditions": [
+              {
+                "condition": "zillagersweararmor:wave",
+                "wave": 7
+              }
+            ]
+          },
+          {
+            "type": "minecraft:loot_table",
+            "name": "zillagersweararmor:entities/armor_sets/swat",
+            "conditions": [
+              {
+                "condition": "zillagersweararmor:wave",
+                "wave": 8
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  }

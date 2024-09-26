@@ -44,19 +44,19 @@ preserve = true
 
 [[files]]
 file = "config/fromanotherworld/events.json.pw.toml"
-hash = "334fbec227e1a93e42e2c040dddafee8ebe725896ce2172cbb3a7ca13bf383a1"
+hash = "fbc889db98ef3089b23c47644943151fc2cf33673cddf7135efebf8975cea85a"
 metafile = true
 preserve = true
 
 [[files]]
 file = "config/incontrol/phases.json.pw.toml"
-hash = "5d5e422b0cc0e7f32d64ec78a36c7d4a05243c9408902535cd965ba0481ebcc1"
+hash = "0adcca170d98dff888cb6c9accde4805605f0e092d127f7ee7a176fc10d17ce9"
 metafile = true
 preserve = true
 
 [[files]]
 file = "config/incontrol/spawn.json.pw.toml"
-hash = "01bec103441cd98f10a176a4c9c7e859a89ed34d59a71f941e2a1216435b66b6"
+hash = "c41734d0a5b8386d5b2fb9a8fc276645dadd4bfd4fe7ab2279ff8c2e1639b067"
 metafile = true
 preserve = true
 
@@ -68,7 +68,7 @@ preserve = true
 
 [[files]]
 file = "config/integrated_villages-forge-1_20.toml.pw.toml"
-hash = "7fe45ddd07c5c9b0c48b61cc85507859d1c28670e0d24c1443210860593bcddc"
+hash = "21b5941874191139ab59dd9f9f7f20a3c989065617d0b77ede83022093b38620"
 metafile = true
 
 [[files]]
@@ -97,13 +97,13 @@ preserve = true
 
 [[files]]
 file = "config/oculus.properties.pw.toml"
-hash = "1856ba20b7c4f079cb1479795ff076722a98fc13ee046e9c894fe7699e833efb"
+hash = "7db29667cf5912a11700ce839d1571fd9970d027b4ae3c21e7f3575f70df3293"
 metafile = true
 preserve = true
 
 [[files]]
 file = "config/options.txt.pw.toml"
-hash = "2b8cb1acd28a2640f0b4c78ef2b9671d896bf0c83ceedeb847d37bcc351e608b"
+hash = "6d85f221fca16afc018a42b202a8bde82c593301611395d4c80dd8f18c9e87dc"
 metafile = true
 
 [[files]]
@@ -165,6 +165,38 @@ hash = "1081b9d5577a80bdfb86ed8fe92a7ea21164a8825e54269ffdfadcc317a84b9e"
 [[files]]
 file = "kubejs/config/probe-settings.json"
 hash = "41c742cd326bb8152cb278d4507b58983e30a234bd25791f82bd0c573777c47d"
+
+[[files]]
+file = "kubejs/data/zillagersweararmor/loot_tables/entities/armor_sets/ranger.json"
+hash = "533d4d30ba67b5a4cc1f81838914622f69943dfecc6357186af626f7f27f831b"
+
+[[files]]
+file = "kubejs/data/zillagersweararmor/loot_tables/entities/armor_sets/rogue.json"
+hash = "83664808302b08e0654007d45ac2663ad007c035300e9ce7e1d71ced8c2bd700"
+
+[[files]]
+file = "kubejs/data/zillagersweararmor/loot_tables/entities/armor_sets/sniper.json"
+hash = "f6c7b474d8764db93ec4cf1586e4214e74b81ef9ce6b4462e2c204dd9d210377"
+
+[[files]]
+file = "kubejs/data/zillagersweararmor/loot_tables/entities/armor_sets/snow_soldier.json"
+hash = "81e5ea49f463cee9d56f265ee7b1001a11cbf226a478b6777cb596ded3e5ebb7"
+
+[[files]]
+file = "kubejs/data/zillagersweararmor/loot_tables/entities/armor_sets/soldier.json"
+hash = "a38bbdd1d3133228e3137631d977cb148acc0ebaf11ee6a543a32242dff66d37"
+
+[[files]]
+file = "kubejs/data/zillagersweararmor/loot_tables/entities/armor_sets/swat.json"
+hash = "85b19f0dd34d440f666a8465faa1f6d7037a3649ffecb2e0f30b61e42ac602eb"
+
+[[files]]
+file = "kubejs/data/zillagersweararmor/loot_tables/entities/illager.json"
+hash = "a7ae057bba23987b6faeabf7143b8f1444d4a7f4b3b7a7b9dc5c1b84a8cff0c4"
+
+[[files]]
+file = "kubejs/data/zillagersweararmor/loot_tables/entities/illager_raid.json"
+hash = "7a910534d0dd1d559258b5750be8648e8895563732a4b2692a21ca1ffc65b00d"
 
 [[files]]
 file = "kubejs/server_scripts/jsconfig.json"
@@ -257,7 +289,7 @@ metafile = true
 
 [[files]]
 file = "mods/equipment/curios.pw.toml"
-hash = "c02bdc9eb3d55ae54073caf6de7789c264c52c32b4e6450c82d4f526970a1e16"
+hash = "3b735bf71db33f99ab378ab02d462a74adce30cc353f0e13d0a7edd6b3b69aea"
 metafile = true
 
 [[files]]
@@ -268,6 +300,11 @@ metafile = true
 [[files]]
 file = "mods/equipment/hang-glider.pw.toml"
 hash = "255a0a8ec270b2acbbb10a9d47996fbb9179dbcb721c7378aab828ca0821331d"
+metafile = true
+
+[[files]]
+file = "mods/equipment/illagers-wear-armor.pw.toml"
+hash = "608cf711d40830d5b5359a99a33fb5b4fabc3b9d3b17f4baf2fb3cf9d78cb460"
 metafile = true
 
 [[files]]
@@ -288,6 +325,11 @@ metafile = true
 [[files]]
 file = "mods/equipment/scorched-guns-2.pw.toml"
 hash = "6c011812dc2dcdc242673068a9d71aaad2620ba3449961e771e01b09fa938b03"
+metafile = true
+
+[[files]]
+file = "mods/equipment/selfexpression.pw.toml"
+hash = "7f00faaa542c6ab6976ccfb443911b2aaec99c94b9d1cbfb9345eecd9895f6d3"
 metafile = true
 
 [[files]]
@@ -462,7 +504,7 @@ metafile = true
 
 [[files]]
 file = "mods/library/azurelib.pw.toml"
-hash = "26e144f3888ce42f3dadc6282e52805092a7557edc797c997d2c1b82600bb663"
+hash = "f8caf6fad4a86157e315732aca9c83fa24b6b9be39b144c21b41c150ff2138fe"
 metafile = true
 
 [[files]]
@@ -511,6 +553,11 @@ hash = "c4f6ac2e93d8185fd617fe0530ce68c38a6e78a51e4c8645a0e5ab5b508e5fac"
 metafile = true
 
 [[files]]
+file = "mods/library/custom-portal-api-reforged.pw.toml"
+hash = "e98dace228de70d8362a42efa39509b27864fc7262e9df8d5fcd18450e52e84f"
+metafile = true
+
+[[files]]
 file = "mods/library/forge-cit.pw.toml"
 hash = "e411de7544240fe8614c53ccac5be724770a0f26fcbaf23ac39b98ed21c5750c"
 metafile = true
@@ -548,11 +595,6 @@ metafile = true
 [[files]]
 file = "mods/library/iceberg.pw.toml"
 hash = "8ce7061350a6d018dc9bfc1f8c89dd9782b577acae25c59a16bcfb92b47d29cb"
-metafile = true
-
-[[files]]
-file = "mods/library/integrated-api.pw.toml"
-hash = "41d6f94d798b52e2992b96be297b6010589cc52fde0ce44643ab3b2b60617c84"
 metafile = true
 
 [[files]]
@@ -598,6 +640,11 @@ metafile = true
 [[files]]
 file = "mods/library/searchables.pw.toml"
 hash = "97a938e790bd3e035e9d4ae72861f8dc2bd625fe83af7e126d2b2f7254152f56"
+metafile = true
+
+[[files]]
+file = "mods/library/smartbrainlib.pw.toml"
+hash = "082c909e069c352629b109b3a7a76c01c24844543f2bf9d5d1b6ac6ac862f745"
 metafile = true
 
 [[files]]
@@ -791,6 +838,11 @@ hash = "5f5a74aabf4fafa2b3d8a30df0eeea3e2ceacadd381a0b9324064f3181d798e3"
 metafile = true
 
 [[files]]
+file = "mods/mobs/mcdoom.pw.toml"
+hash = "5252bbffac4d5c376b9f90653538cab4690d9a305c8c3d0b71642cf83cc0f858"
+metafile = true
+
+[[files]]
 file = "mods/mobs/mob-catalog.pw.toml"
 hash = "630cefd1a9cc19bac3662cba81744e74bacf2d4ca56976e653ad2a07c964892c"
 metafile = true
@@ -896,23 +948,18 @@ hash = "580f03e230dbd76d06340a589df5381fd22dd54cdff3685bca1d3dea46d029c9"
 metafile = true
 
 [[files]]
-file = "mods/structures/cherry-villages.pw.toml"
-hash = "e5a76062f79ec074923307ebb61f72e670677739bd34b4fa14ff2f8547fda1d2"
-metafile = true
-
-[[files]]
 file = "mods/structures/create-structures-arise.pw.toml"
 hash = "1deb156cb403ce85df56c29ec1074b0447235c13ddba81b693b0b018351d5d28"
 metafile = true
 
 [[files]]
-file = "mods/structures/integrated-villages.pw.toml"
-hash = "2b15da2e4acbd698bee814e26b8bcda600ab64a8a139ef98ea22a98b97854231"
+file = "mods/structures/sawmill-house.pw.toml"
+hash = "8320529a46b197689952245c22d8aa6f6f5c7499028eda9f4a201d37d41fea25"
 metafile = true
 
 [[files]]
-file = "mods/structures/tidal-towns.pw.toml"
-hash = "0db68ed368af4f983a5bacdb6348b7928a5e13d2ba29bd46a270ef57f7ea2c86"
+file = "mods/structures/underground-villages.pw.toml"
+hash = "91bbf611f2464de959343830622f363d9f1dfb48cee5b1f67943fa13ca3a4c49"
 metafile = true
 
 [[files]]
@@ -928,6 +975,11 @@ metafile = true
 [[files]]
 file = "mods/utilities/bookshelf-lib.pw.toml"
 hash = "47ecb4300f32a6ec1dab556547601d6d343b702e60c0d44723458be401081945"
+metafile = true
+
+[[files]]
+file = "mods/utilities/disable-structures.pw.toml"
+hash = "f733921b08119b47a7873329c666510514468f05bf84f61a3e08b1d5701b39e0"
 metafile = true
 
 [[files]]

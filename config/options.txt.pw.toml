@@ -2,6 +2,6 @@ name = "options.txt"
 filename = "../options.txt"
 
 [download]
-hash = "00adfa5c60d20348539eccfecffe48980c62abc637b3feff7f5703880a374e48"
+hash = "e8cd7326fe3eb2579546e40fbd119156327e4b91a54f2b8fa58bbda22ee70b12"
 hash-format = "sha256"
 url = "https://raw.githubusercontent.com/dylanxyz/minecraft-modpack/main/external/options.txt"

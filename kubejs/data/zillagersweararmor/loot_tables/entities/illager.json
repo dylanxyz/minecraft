@@ -1,0 +1,70 @@
+{
+    "type": "zillagersweararmor:slot",
+    "pools": [
+      {
+        "rolls": 1,
+        "entries": [
+          {
+            "type": "minecraft:loot_table",
+            "name": "zillagersweararmor:entities/armor_sets/sniper",
+            "conditions": [
+              {
+                "condition": "minecraft:random_chance",
+                "chance": 0.30
+              }
+            ]
+          },
+          {
+            "type": "minecraft:loot_table",
+            "name": "zillagersweararmor:entities/armor_sets/soldier",
+            "conditions": [
+              {
+                "condition": "minecraft:random_chance",
+                "chance": 0.20
+              }
+            ]
+          },
+          {
+            "type": "minecraft:loot_table",
+            "name": "zillagersweararmor:entities/armor_sets/swat",
+            "conditions": [
+              {
+                "condition": "minecraft:random_chance",
+                "chance": 0.20
+              }
+            ]
+          },
+          {
+            "type": "minecraft:loot_table",
+            "name": "zillagersweararmor:entities/armor_sets/rogue",
+            "conditions": [
+              {
+                "condition": "minecraft:random_chance",
+                "chance": 0.10
+              }
+            ]
+          },
+          {
+            "type": "minecraft:loot_table",
+            "name": "zillagersweararmor:entities/armor_sets/ranger",
+            "conditions": [
+              {
+                "condition": "minecraft:random_chance",
+                "chance": 0.10
+              }
+            ]
+          },
+          {
+            "type": "minecraft:loot_table",
+            "name": "zillagersweararmor:entities/armor_sets/snow_soldier",
+            "conditions": [
+              {
+                "condition": "minecraft:random_chance",
+                "chance": 0.10
+              }
+            ]
+          }
+        ]
+      }
+    ]
+}

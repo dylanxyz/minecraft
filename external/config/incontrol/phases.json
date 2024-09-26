@@ -1,8 +1,8 @@
 [
     {
-        "name": "safe_phase",
+        "name": "is_day",
         "conditions": {
-            "maxdaycount": 8
+            "time": "range(23000,12000)"
         }
     }
 ]

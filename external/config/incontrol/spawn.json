@@ -1,9 +1,8 @@
 [
     {
         "result"    : "deny",
-        "minheight" : 50,
         "hostile"   : true,
-        "phase"     : "safe_phase",
+        "height"    : "range(20,56)",
         "dimension" : "overworld"
     },
     {

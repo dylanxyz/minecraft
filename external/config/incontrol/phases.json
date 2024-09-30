@@ -1,5 +1,11 @@
 [
     {
+        "name": "start",
+        "conditions": {
+            "maxdaycount": 7
+        }
+    },
+    {
         "name": "is_day",
         "conditions": {
             "time": "range(23000,12000)"

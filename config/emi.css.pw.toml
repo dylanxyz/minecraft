@@ -1,7 +1,0 @@
-name = "emi.css"
-filename = "emi.css"
-
-[download]
-hash = "0de8d7ae7196e32513e10b279df547587791d2aed2209fed49ca7689c761c94a"
-hash-format = "sha256"
-url = "https://raw.githubusercontent.com/dylanxyz/minecraft-modpack/main/external/config/emi.css"

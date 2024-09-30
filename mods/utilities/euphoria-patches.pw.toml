@@ -1,18 +1,18 @@
 name = "Euphoria Patches"
-filename = "../EuphoriaPatcher-0.3.4-forge.jar"
+filename = "../EuphoriaPatcher-1.4.1-r5.3-neoforge1.20.1.jar"
 side = "client"
 
 [download]
-url = "https://cdn.modrinth.com/data/4H6sumDB/versions/jKEAiweG/EuphoriaPatcher-0.3.4-forge.jar"
+url = "https://cdn.modrinth.com/data/4H6sumDB/versions/x8tRkDfx/EuphoriaPatcher-1.4.1-r5.3-neoforge1.20.1.jar"
 hash-format = "sha1"
-hash = "e89826307c2f35daf5499bd69b07bfef2c3ddfba"
+hash = "ada0a8f7ff208c0bea64a9095488784766824039"
 
 [update]
 [update.modrinth]
 mod-id = "4H6sumDB"
-version = "jKEAiweG"
+version = "x8tRkDfx"
 
 [option]
 optional = true
-default = true
 description = "Ative se for usar o Complementary Shaders"
+default = true

@@ -10,27 +10,9 @@
         },
         "conditions": {
             "dimension" : "minecraft:overworld",
-            "mindist"   : 30,
-            "maxdist"   : 60,
-            "maxthis"   : 5,
-            "maxheight" : 40
-        }
-    },
-    {
-        "mob": "fromtheshadows:nehemoth",
-        "persecond": 0.1,
-        "attempts": 2,
-        "amount": {
-            "minimum": 2,
-            "maximum": 4,
-            "groupdistance": 10
-        },
-        "conditions": {
-            "dimension" : "minecraft:overworld",
             "mindist"   : 40,
             "maxdist"   : 60,
-            "maxthis"   : 1,
-            "minheight" : 50
+            "maxthis"   : 2
         }
     }
 ]

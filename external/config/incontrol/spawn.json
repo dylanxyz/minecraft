@@ -2,7 +2,8 @@
     {
         "result"    : "deny",
         "hostile"   : true,
-        "height"    : "range(20,56)",
+        "phase"     : "start",
+        "minheight" : 48,
         "dimension" : "overworld"
     },
     {
@@ -15,6 +16,12 @@
         "mod"       : "fromtheshadows",
         "minheight" : 50,
         "winter"    : true
+    },
+    {
+        "result"    : "deny",
+        "mod"       : "fromtheshadows",
+        "minheight" : 50,
+        "random"    : 0.8
     },
     {
         "result"    : "allow",

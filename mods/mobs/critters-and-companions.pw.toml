@@ -1,13 +1,13 @@
 name = "Critters and Companions"
-filename = "../crittersandcompanions-1.20.1-2.1.6.jar"
+filename = "../crittersandcompanions-1.20.1-2.1.7.jar"
 side = "both"
 
 [download]
-url = "https://cdn.modrinth.com/data/Yd4wb5wZ/versions/PmF7dGGM/crittersandcompanions-1.20.1-2.1.6.jar"
+url = "https://cdn.modrinth.com/data/Yd4wb5wZ/versions/WwSiz3KC/crittersandcompanions-1.20.1-2.1.7.jar"
 hash-format = "sha1"
-hash = "618d5ca644bf4b0f9e276661286e11552943700a"
+hash = "768890f90c989fd792abcf29f04b47df424f9497"
 
 [update]
 [update.modrinth]
 mod-id = "Yd4wb5wZ"
-version = "PmF7dGGM"
+version = "WwSiz3KC"

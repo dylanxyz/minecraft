@@ -37,26 +37,20 @@ metafile = true
 preserve = true
 
 [[files]]
-file = "config/fromanotherworld/events.json.pw.toml"
-hash = "fbc889db98ef3089b23c47644943151fc2cf33673cddf7135efebf8975cea85a"
-metafile = true
-preserve = true
-
-[[files]]
 file = "config/incontrol/phases.json.pw.toml"
-hash = "0adcca170d98dff888cb6c9accde4805605f0e092d127f7ee7a176fc10d17ce9"
+hash = "281c587f4ee51c79eb88abb64e3d2bb1bf967f82057f35a5121813201b0a1727"
 metafile = true
 preserve = true
 
 [[files]]
 file = "config/incontrol/spawn.json.pw.toml"
-hash = "c41734d0a5b8386d5b2fb9a8fc276645dadd4bfd4fe7ab2279ff8c2e1639b067"
+hash = "9bc905c28305794fccfaf1efb6fead2ea034866c9b1c324fc8cbc44813232ef5"
 metafile = true
 preserve = true
 
 [[files]]
 file = "config/incontrol/spawner.json.pw.toml"
-hash = "a3fe405d3ad209b07faee20b397b8ab7a1c0b1a71779ed6f867d06ce456cf914"
+hash = "35e87776830fdb14a2c977097f37b109c71b9900c3a160701e074b42cac0672e"
 metafile = true
 preserve = true
 
@@ -97,7 +91,7 @@ preserve = true
 
 [[files]]
 file = "config/options.txt.pw.toml"
-hash = "85c68b16d0ea7fc00fe72a9753bbc14107049a5226bf75360adda74e6546ec21"
+hash = "0ea0d07d37b71b39de57dd785e26dc907c0491a7a27632dab64125d7e87e66db"
 metafile = true
 
 [[files]]
@@ -171,6 +165,10 @@ hash = "859b6113943be5159f47d22dacc6278c02a11f3383a60c342f8b481eca99acf6"
 [[files]]
 file = "kubejs/server_scripts/src/custom.js"
 hash = "b02d24d55bf87a7c7984a34ebe00c24138d9e1966ff573907335e04b4490388e"
+
+[[files]]
+file = "kubejs/server_scripts/src/horde.js"
+hash = "0f3925b7bf77885cc734aad7fa0358b72da36de33cf963297b526e82a2c75e53"
 
 [[files]]
 file = "kubejs/server_scripts/src/loot.js"
@@ -860,7 +858,7 @@ metafile = true
 
 [[files]]
 file = "mods/performance/immediatelyfast.pw.toml"
-hash = "af40845c43ec3cb733798feb97cd29b5868a722723464a05911cba1ae7377529"
+hash = "5b2ce5e2ba95db10a626bad323a0c9bed4f57aa6ca20708c6bbd7ec6095883cf"
 metafile = true
 
 [[files]]
@@ -1090,7 +1088,7 @@ metafile = true
 
 [[files]]
 file = "resourcepacks/modpackfix/assets/create_new_age/textures/block/thorium_ore_e.png"
-hash = "8526ca2c9edf8cc9e90f416a5acf4827929a02b08447722a0143955c8a7e69c6"
+hash = "e3bc07c530e9107e081ac136299ada339ccaad1cc5f8ab39243915a1078d58e0"
 
 [[files]]
 file = "resourcepacks/modpackfix/pack.mcmeta"
@@ -1132,8 +1130,8 @@ hash = "caa9d2feb7486744c97a51da732b6714dd97fe6e09f91b92c0c99ee1ca0ab8f1"
 metafile = true
 
 [[files]]
-file = "shaderpacks/ComplementaryReimagined_r5.2.2 + EuphoriaPatches_1.3.2.txt.pw.toml"
-hash = "bb2fe0c757b097a241f9c2c31b2504ed493f0d8d33680789064a5dcaab93579b"
+file = "shaderpacks/ComplementaryReimagined_r5.3.zip.txt.pw.toml"
+hash = "e331df857f8554feac562e332d7d06329aabcb0574912302eee5e983ae7e2837"
 metafile = true
 
 [[files]]

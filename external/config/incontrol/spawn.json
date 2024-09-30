@@ -2,26 +2,26 @@
     {
         "result"    : "deny",
         "hostile"   : true,
+        "minheight" : 58,
         "phase"     : "start",
-        "minheight" : 48,
+        "dimension" : "overworld"
+    },
+    {
+        "result"    : "allow",
+        "hostile"   : true,
+        "minheight" : 58,
+        "biometags" : ["is_cave"],
         "dimension" : "overworld"
     },
     {
         "result"    : "deny",
         "mob"       : "dawnera:tyrannosaurus",
-        "random"    : 0.8
+        "random"    : 0.9
     },
     {
-        "result"    : "deny",
-        "mod"       : "fromtheshadows",
-        "minheight" : 50,
-        "winter"    : true
-    },
-    {
-        "result"    : "deny",
-        "mod"       : "fromtheshadows",
-        "minheight" : 50,
-        "random"    : 0.8
+        "result"        : "deny",
+        "mob"           : ["dawnera:tyrannosaurus", "dawnera:ceratosaurus"],
+        "structuretags" : "minecraft:village"
     },
     {
         "result"    : "allow",
@@ -36,7 +36,6 @@
             "terralith:lush_desert",
             "terralith:volcanic_crater",
             "terralith:volcanic_peaks",
-            "terralith:yellowstone",
             "terralith:cave/crystal_caves",
             "terralith:cave/deep_caves",
             "terralith:cave/frostfire_caves",
@@ -47,7 +46,9 @@
     {
         "result"    : "deny",
         "incontrol" : true,
-        "mob"       : "fromtheshadows:nehemoth"
+        "minheight" : 50,
+        "mob"       : "fromtheshadows:nehemoth",
+        "dimension" : "overworld"
     },
     {
         "result"  : "allow",

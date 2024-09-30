@@ -1,7 +1,0 @@
-name = "ComplementaryReimagined_r5.2.2 + EuphoriaPatches_1.3.2.txt"
-filename = "ComplementaryReimagined_r5.2.2 + EuphoriaPatches_1.3.2.txt"
-
-[download]
-hash = "722285d9a7844c6f42ad3b58b0183342c25376a94311ff5c10d56eb3eedd75b9"
-hash-format = "sha256"
-url = "https://raw.githubusercontent.com/dylanxyz/minecraft-modpack/main/external/shaderpacks/ComplementaryReimagined_r5.2.2 + EuphoriaPatches_1.3.2.txt"

@@ -1,0 +1,7 @@
+name = "ComplementaryReimagined_r5.3.zip.txt"
+filename = "ComplementaryReimagined_r5.3.zip.txt"
+
+[download]
+hash = "e65100ef59e5a0876de63dcb57068b38d1fca562d34f875f25cc33bd55f2ce27"
+hash-format = "sha256"
+url = "https://raw.githubusercontent.com/dylanxyz/minecraft-modpack/main/external/shaderpacks/ComplementaryReimagined_r5.3.zip.txt"

@@ -2,6 +2,6 @@ name = "spawn.json"
 filename = "spawn.json"
 
 [download]
-hash = "375786af36cfae794cdbb5fa127f1bb560f282f781a5607954f2adeca5e8f04b"
+hash = "5f79c9a79b5eca0281cab741592742e6e638c86a3c9df35f2e7988b7f2897dee"
 hash-format = "sha256"
 url = "https://raw.githubusercontent.com/dylanxyz/minecraft-modpack/main/external/config/incontrol/spawn.json"

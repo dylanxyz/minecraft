@@ -2,7 +2,7 @@
     {
         "name": "start",
         "conditions": {
-            "maxdaycount": 7
+            "maxdaycount": 3
         }
     },
     {

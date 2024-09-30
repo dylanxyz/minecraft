@@ -1,7 +1,0 @@
-name = "events.json"
-filename = "events.json"
-
-[download]
-hash = "b37d517936310976bd594119db4cd9299f600652afecadb7e76e46cc2076bc38"
-hash-format = "sha256"
-url = "https://raw.githubusercontent.com/dylanxyz/minecraft-modpack/main/external/config/fromanotherworld/events.json"

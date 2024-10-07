@@ -2,6 +2,6 @@ name = "parcool-client.toml"
 filename = "parcool-client.toml"
 
 [download]
-hash = "fe14377686394258b301ff2d84381efee2589aab7b75e7965eb3196dcc639aee"
+hash = "37447e843b70a31848f897871236b358522a59299045518209dc00ffef86b77a"
 hash-format = "sha256"
-url = "https://raw.githubusercontent.com/dylanxyz/minecraft-modpack/main/external/config/parcool-client.toml"
+url = "https://raw.githubusercontent.com/dylanxyz/minecraft/main/external/config/parcool-client.toml"

@@ -2,7 +2,7 @@ hash-format = "sha256"
 
 [[files]]
 file = "config/biome_replacer.properties.pw.toml"
-hash = "def9c2fe05b2c8637ac4b4ac29de0d7ca6cd7781dede62ee49f91f71fad7e1d7"
+hash = "9e2c040cb941c765628106b757f27e9e760328bf2a73db18f3b7c5cc622f6677"
 metafile = true
 preserve = true
 
@@ -91,12 +91,12 @@ preserve = true
 
 [[files]]
 file = "config/options.txt.pw.toml"
-hash = "a87b4e439076c97980f0be5e65a8ec594a6ac52400e60237f69bdc8f2d2dfa50"
+hash = "76aa17d32b801047d91f23878837b39bb1b651a96d0615455bc4df494676870c"
 metafile = true
 
 [[files]]
 file = "config/parcool-client.toml.pw.toml"
-hash = "93470547063b5347bb2e3fae6c2087dd2580b315770b051078e1a35b3db54c7f"
+hash = "6f7623517fc646f61a76a155f210622c720bf5f85c10823960a0613573297d20"
 metafile = true
 preserve = true
 

@@ -20,7 +20,7 @@ preserve = true
 
 [[files]]
 file = "config/embeddium++.toml.pw.toml"
-hash = "80b2e3f75d071cc66a2526e4db9b0590583b4b05dab7bec55968fb9ec3e1a538"
+hash = "dc8c524e3cefb05fa8bf9fc19abaf1e3ec92ab47f75b6ae7c74763971a81011f"
 metafile = true
 preserve = true
 
@@ -38,25 +38,25 @@ preserve = true
 
 [[files]]
 file = "config/incontrol/phases.json.pw.toml"
-hash = "281c587f4ee51c79eb88abb64e3d2bb1bf967f82057f35a5121813201b0a1727"
+hash = "fd21774226552093e4f5b66a452a44455a5aea425f527fbcee05d14e66eab7c0"
 metafile = true
 preserve = true
 
 [[files]]
 file = "config/incontrol/spawn.json.pw.toml"
-hash = "9bc905c28305794fccfaf1efb6fead2ea034866c9b1c324fc8cbc44813232ef5"
+hash = "be83165b168a9aab9713971eed38e5f55cb843d3adcd002bd3428509952874ef"
 metafile = true
 preserve = true
 
 [[files]]
 file = "config/incontrol/spawner.json.pw.toml"
-hash = "35e87776830fdb14a2c977097f37b109c71b9900c3a160701e074b42cac0672e"
+hash = "23ef37af150c441ea08ce63f241d63344b993465e6b7d931254c7f88421ae48b"
 metafile = true
 preserve = true
 
 [[files]]
 file = "config/integrated_villages-forge-1_20.toml.pw.toml"
-hash = "21b5941874191139ab59dd9f9f7f20a3c989065617d0b77ede83022093b38620"
+hash = "2d7d9b547383a867c9d577af4f7db8378cde6b11d3409eabaf5ba7db6e51e128"
 metafile = true
 
 [[files]]
@@ -73,19 +73,13 @@ preserve = true
 
 [[files]]
 file = "config/mca.json.pw.toml"
-hash = "8a9cee0508f3476b09fbd62f8bbd86a57adc23e2c61f75960752be20c7db4201"
+hash = "30288c7f9ea7ea38baa0b1405a089c22b6ef50274f92ca604ecf6f8bbb7e1224"
 metafile = true
 preserve = true
 
 [[files]]
 file = "config/notreepunching.toml.pw.toml"
 hash = "2e262e73f82c8c9550328b768dcafbe8554acdf632934c8eab5475391d6c564a"
-metafile = true
-preserve = true
-
-[[files]]
-file = "config/oculus.properties.pw.toml"
-hash = "f2efd940630f4638c74bef012b176e26e9b31048fd9a15bc027ab4c0f4842c8e"
 metafile = true
 preserve = true
 
@@ -1126,7 +1120,7 @@ metafile = true
 
 [[files]]
 file = "shaderpacks/ComplementaryReimagined_r5.3.zip.txt.pw.toml"
-hash = "e331df857f8554feac562e332d7d06329aabcb0574912302eee5e983ae7e2837"
+hash = "f8579a3c4f4acea0c0b2ce7462964b86d9e8cf1fcb4c70af917ae8ab15e77035"
 metafile = true
 
 [[files]]

@@ -84,8 +84,13 @@ metafile = true
 preserve = true
 
 [[files]]
+file = "config/oculus.properties.pw.toml"
+hash = "f78252f3a2cfa0e787b900bea12c794870ec47347ef6d3eb5ae19788a7341d5c"
+metafile = true
+
+[[files]]
 file = "config/options.txt.pw.toml"
-hash = "76aa17d32b801047d91f23878837b39bb1b651a96d0615455bc4df494676870c"
+hash = "2c15832f721fb14cc5537fcab4aa05673ea9887d5f3cb751cec1fa93caef4f47"
 metafile = true
 
 [[files]]

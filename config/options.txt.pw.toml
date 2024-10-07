@@ -2,6 +2,6 @@ name = "options.txt"
 filename = "../options.txt"
 
 [download]
-hash = "3652e948450eb98d5008db64f5e521ca3997cf9e02d9a31f4f18cf20a03324ac"
+hash = "f0de6ac8b91e76253d9dce498d490c8b567c0e9b2486cda93960e34e0e8bc315"
 hash-format = "sha256"
 url = "https://raw.githubusercontent.com/dylanxyz/minecraft/main/external/options.txt"

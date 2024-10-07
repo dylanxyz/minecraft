@@ -91,7 +91,7 @@ preserve = true
 
 [[files]]
 file = "config/options.txt.pw.toml"
-hash = "0ea0d07d37b71b39de57dd785e26dc907c0491a7a27632dab64125d7e87e66db"
+hash = "a87b4e439076c97980f0be5e65a8ec594a6ac52400e60237f69bdc8f2d2dfa50"
 metafile = true
 
 [[files]]
@@ -103,12 +103,6 @@ preserve = true
 [[files]]
 file = "config/resourcepackoverrides.json"
 hash = "d472aac20226b9143141508170f75290853293c97afc5118e42bfdfe004d402f"
-
-[[files]]
-file = "config/starterkit.json5.pw.toml"
-hash = "d7d3a426cbd4384f4dc78d525332e7bc613178bada0dd86c19a0f91bebbfa974"
-metafile = true
-preserve = true
 
 [[files]]
 file = "defaultconfigs/hourglass-server.toml"
@@ -164,11 +158,7 @@ hash = "859b6113943be5159f47d22dacc6278c02a11f3383a60c342f8b481eca99acf6"
 
 [[files]]
 file = "kubejs/server_scripts/src/custom.js"
-hash = "b02d24d55bf87a7c7984a34ebe00c24138d9e1966ff573907335e04b4490388e"
-
-[[files]]
-file = "kubejs/server_scripts/src/horde.js"
-hash = "0f3925b7bf77885cc734aad7fa0358b72da36de33cf963297b526e82a2c75e53"
+hash = "d66d41af2d97b3de2f3d43f42afe09aace87d637c1315b058b724cc25cadabc2"
 
 [[files]]
 file = "kubejs/server_scripts/src/loot.js"
@@ -383,7 +373,7 @@ metafile = true
 
 [[files]]
 file = "mods/essentials/jade.pw.toml"
-hash = "a6703ce6f525cbaf24d03458dd99c65a945c236a7187e1f9e6a64b17760acd8d"
+hash = "ba12bf7cc4958f2ae15bc3158b27eec1f8caae5173966342f69078727e76bf4e"
 metafile = true
 
 [[files]]
@@ -473,7 +463,7 @@ metafile = true
 
 [[files]]
 file = "mods/library/azurelib.pw.toml"
-hash = "f8caf6fad4a86157e315732aca9c83fa24b6b9be39b144c21b41c150ff2138fe"
+hash = "163008280b3992090941715f6a9e58b64ca6d8cebdd903231b9d03113ca309da"
 metafile = true
 
 [[files]]
@@ -502,18 +492,13 @@ hash = "64abcce089fb56fcc285547fb2367d2eec3ac68758c88712474da7ddc17d16b5"
 metafile = true
 
 [[files]]
-file = "mods/library/collective.pw.toml"
-hash = "ba39d47f77e5d297d797d67f2da603caff49bdf46ee7fc959be3fc7fb74e4842"
-metafile = true
-
-[[files]]
 file = "mods/library/connector.pw.toml"
 hash = "adda7e73f4c76864de430dc66204d00eacb0340f110bf38deece354f53e1fcf0"
 metafile = true
 
 [[files]]
 file = "mods/library/creativecore.pw.toml"
-hash = "039813535c4aaecd13e9ce5350907ec6cc708d2e15079e01cb81c515bedb1f51"
+hash = "9127936893a5af9607d2890ae103a255a004ba452690fee653227cb9ce8323ce"
 metafile = true
 
 [[files]]
@@ -538,7 +523,7 @@ metafile = true
 
 [[files]]
 file = "mods/library/fzzy-config.pw.toml"
-hash = "20cb8f6fc05812f4194969f8e09bb95b34392ef27e5a2952b3cd538936d7ddf3"
+hash = "297035a1c7f6d3be5f5962d0ea80aacf55076fe222469865a15398ce3787afd6"
 metafile = true
 
 [[files]]
@@ -563,7 +548,7 @@ metafile = true
 
 [[files]]
 file = "mods/library/modonomicon.pw.toml"
-hash = "3c2c6881610dcc44936d9bcb8ab9649d8b296fbd7dda3344eb58f7f3682c2546"
+hash = "5b8a564c355296eb31198762c8b6e11a84d4300e591e1851f5a260f560206ed6"
 metafile = true
 
 [[files]]
@@ -618,7 +603,7 @@ metafile = true
 
 [[files]]
 file = "mods/mechanics/cold-sweat.pw.toml"
-hash = "8ac2c4f36ff20224f59a7ba6bb63171370a1ae55f82c8982cb4c613aa24389bf"
+hash = "f610bffaa735f05b6427620c7202d1b5bd59bce3413b6b5f171310ff1863c66c"
 metafile = true
 
 [[files]]
@@ -677,8 +662,18 @@ hash = "e446581dd7a2cdab0af94549aa8bb5728396f426176107b678e0acc3c6500686"
 metafile = true
 
 [[files]]
+file = "mods/misc/armourers-workshop.pw.toml"
+hash = "6dbb0b065296ad41b93b8a227e7218d5dbd44256be354530631e6c6363ee8fb6"
+metafile = true
+
+[[files]]
 file = "mods/misc/automobility.pw.toml"
 hash = "4e969399064d3cd8962adc2f8a52b1172aaa5f69fc97b56557213c14f48155ee"
+metafile = true
+
+[[files]]
+file = "mods/misc/cave-dust.pw.toml"
+hash = "84c45075d274350b1e6416fd7e14fb4b29d9a6f5d87f730f3f4081bcbe260983"
 metafile = true
 
 [[files]]
@@ -702,6 +697,11 @@ hash = "d27f3fe7da40ac6be06d617228c5d7901024e995656f84143d71133c7fc58ea9"
 metafile = true
 
 [[files]]
+file = "mods/misc/just-outdoor-stuffs.pw.toml"
+hash = "182ce4e5b392671d11e7f97eaf959cfb3d3235be25050221ab511606eb121f1e"
+metafile = true
+
+[[files]]
 file = "mods/misc/lunar.pw.toml"
 hash = "2aca5c9e820f586ed96438943e129c9f017da5adde69db0d5e89da2550db503d"
 metafile = true
@@ -709,6 +709,11 @@ metafile = true
 [[files]]
 file = "mods/misc/macaws-holidays.pw.toml"
 hash = "166adb8b672bc4068a180a8e98fbc5ca6a02f6b09af362a8fd3743016a05768c"
+metafile = true
+
+[[files]]
+file = "mods/misc/miners-delight.pw.toml"
+hash = "9fde9c990dbfd29deb05b0471efd57164c7c1c0863740e8941ad6e3692abd6aa"
 metafile = true
 
 [[files]]
@@ -792,6 +797,11 @@ hash = "fdddbe3675acaab733e73f52a46cc0deb1837701f412a75e2f71f4832c96acf6"
 metafile = true
 
 [[files]]
+file = "mods/mobs/fungal-infectionspore.pw.toml"
+hash = "2051fe387a1133db1778b7f9b82f28d2d1603f0383e5e4e7350ac032b9b6cbc8"
+metafile = true
+
+[[files]]
 file = "mods/mobs/mob-catalog.pw.toml"
 hash = "630cefd1a9cc19bac3662cba81744e74bacf2d4ca56976e653ad2a07c964892c"
 metafile = true
@@ -799,11 +809,6 @@ metafile = true
 [[files]]
 file = "mods/mobs/naturalist.pw.toml"
 hash = "0ab446667638a5db5e5de73fe852ef0d0ebb1cd5021feb13bb32d6fa17fe1e9f"
-metafile = true
-
-[[files]]
-file = "mods/mobs/sculk-horde.pw.toml"
-hash = "b9abffcbac87ad0b94e1788524afba2ae82a45c5e8fe108d3348ffe49c115fd2"
 metafile = true
 
 [[files]]
@@ -962,11 +967,6 @@ hash = "b474e65f2e96999173ec9801db95ba2f1e0c33d639ba181a760960f5d36231c3"
 metafile = true
 
 [[files]]
-file = "mods/utilities/euphoria-patches.pw.toml"
-hash = "bf824f62e9491ba96593ba319d09c700f69dcf2e40e0af0954b8336ca169d3d5"
-metafile = true
-
-[[files]]
 file = "mods/utilities/in-control.pw.toml"
 hash = "1eba88c8a4a395c0356f26571cc8b463d857f57e1193219a2c3c1d4a5a53dd23"
 metafile = true
@@ -1014,11 +1014,6 @@ metafile = true
 [[files]]
 file = "mods/utilities/shipping-bin.pw.toml"
 hash = "c6c986636b666e54bfb8fc237669e6ffc57ea22dd6cfa014df07ba0406fd168a"
-metafile = true
-
-[[files]]
-file = "mods/utilities/starter-kit.pw.toml"
-hash = "ca7f8ee210d57705e622d11a0e93514c04f5238060bbaf71587bf4be01b9e410"
 metafile = true
 
 [[files]]

@@ -72,7 +72,7 @@
 	#Enable Roll when creative mode (experimental)
 	enable_roll_creative = false
 	#Make Vault Need Vault Key Pressed
-	vault_needs_key_pressed = false
+	vault_needs_key_pressed = true
 	#enable players to do actions needing Fast-Running by sprint
 	substitute_sprint = false
 	#How long duration of dodge is deal as successive dodge
@@ -169,7 +169,7 @@
 	can_BreakfallReady = true
 	can_CatLeap = true
 	can_ChargeJump = true
-	can_ClimbPoles = true
+	can_ClimbPoles = false
 	can_ClimbUp = true
 	can_ClingToCliff = true
 	can_Crawl = true

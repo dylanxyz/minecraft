@@ -55,6 +55,12 @@ ServerEvents.recipes((event) => {
         "~": ["#minecraft:saplings", "#minecraft:planks", "mincraft:stick", "notreepunching:plant_fiber"],
         "=": "#minecraft:logs_that_burn"
     })
+
+    event.shaped("map_atlases:atlas", ["~/^"], {
+        "~": "minecraft:map",
+        "/": "minecraft:paper",
+        "^": "minecraft:lapis_lazuli"
+    })
 })
 
 /**
@@ -76,13 +82,14 @@ BlockEvents.rightClicked("minecraft:campfire", (event) => {
     const heldItem = player.getHeldItem("main_hand")
     const blockState = block.getBlockState()
     const torchInHand = Ingredient.of("#kubejs:torch_like").test(heldItem)
+    const isLit = blockState.getValue(BlockProperties.LIT)
 
-    if (torchInHand) {
+    if (torchInHand && !isLit) {
         player.swing()
         block.setBlockState(blockState.setValue(BlockProperties.LIT, Utils.copy(true)), 0)
         playsound(event.level, "item.flintandsteel.use", "block", block.getPos(), 1)
         event.cancel()
-    } else if (heldItem.isEmpty()) {
+    } else if (heldItem.isEmpty() && isLit) {
         player.swing()
         block.setBlockState(blockState.setValue(BlockProperties.LIT, Utils.copy(false)), 0)
         playsound(event.level, "block.fire.extinguish", "block", block.getPos(), 0.5)

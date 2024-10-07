@@ -1,7 +1,0 @@
-name = "starterkit.json5"
-filename = "starterkit.json5"
-
-[download]
-hash = "ed18501fad8911026af6621ab5a90382a195a915dc547d2a988d1fd9992f9ddf"
-hash-format = "sha256"
-url = "https://raw.githubusercontent.com/dylanxyz/minecraft/main/external/config/starterkit.json5"

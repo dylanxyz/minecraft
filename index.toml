@@ -96,7 +96,7 @@ preserve = true
 
 [[files]]
 file = "config/resourcepackoverrides.json"
-hash = "d472aac20226b9143141508170f75290853293c97afc5118e42bfdfe004d402f"
+hash = "8578b139e5fd7faee341941834af5347157608f3f08f9992e3d281126d597dfc"
 
 [[files]]
 file = "defaultconfigs/hourglass-server.toml"
@@ -1105,17 +1105,17 @@ metafile = true
 
 [[files]]
 file = "resourcepacks/xalis-enchanted-books.pw.toml"
-hash = "13c945a8aaa1993ffba820f02e2bd5a69655b69bba1ad043d0ae4b21fa9dc789"
+hash = "84721cf963fc8097847aef5712a0f1c854e1f538a4888c3c2028f0f1050b76fa"
 metafile = true
 
 [[files]]
 file = "resourcepacks/xalis-enhanced-vanilla.pw.toml"
-hash = "7ea46e054b0915e6534ffd28e718cba6edcece22c9829213d58eb3c12d0d36f7"
+hash = "c2547216926ff189662129488a7a4fea7c88d89686f22811ff32b292a3ac5a88"
 metafile = true
 
 [[files]]
 file = "resourcepacks/xalis-potion.pw.toml"
-hash = "caa9d2feb7486744c97a51da732b6714dd97fe6e09f91b92c0c99ee1ca0ab8f1"
+hash = "f2b132ba460c85a6d20f905d727725e590f0578c8b2078a1702f6ca78304a69e"
 metafile = true
 
 [[files]]

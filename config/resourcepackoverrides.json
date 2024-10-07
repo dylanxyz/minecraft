@@ -4,9 +4,9 @@
     "failed_reloads_per_session": 5,
 
     "default_packs": [
-        "file/xali's Enhanced Vanilla -1.11.2b-rev.54d51d4.zip",
-        "file/xali's enchanted books v0.13.0.zip",
-        "file/xali's Potions v1.0.0.zip",
+        "file/xalis-vanilla.zip",
+        "file/xalis-books.zip",
+        "file/xalis-potions.zip",
         "file/3.3.1v_VisualEnchantments.zip",
         "file/GEO - v1.3.0.zip",
         "file/Detail-Brush-1.6-1.20.zip",
@@ -27,9 +27,9 @@
 
     "pack_overrides": {
         "1": [
-            "file/xali's Enhanced Vanilla -1.11.2b-rev.54d51d4.zip",
-            "file/xali's enchanted books v0.13.0.zip",
-            "file/xali's Potions v1.0.0.zip",
+            "file/xalis-vanilla.zip",
+            "file/xalis-books.zip",
+            "file/xalis-potions.zip",
             "file/3.3.1v_VisualEnchantments.zip",
             "file/GEO - v1.3.0.zip",
             "file/Detail-Brush-1.6-1.20.zip",

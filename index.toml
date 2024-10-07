@@ -996,11 +996,6 @@ hash = "f8f716c430c0553c1e609ae1e88000e4bf126666b72843a899c2139db5572d9e"
 metafile = true
 
 [[files]]
-file = "mods/utilities/resource-pack-overrides.pw.toml"
-hash = "5ee78edc10ec6f65703758925ec5b56b3ce5caa7e9a65dd08146c6c001a705ee"
-metafile = true
-
-[[files]]
 file = "mods/utilities/ryoamiclights.pw.toml"
 hash = "93ff74a0717a259cf31da3baa0daa361fbeedcbc6d5a25faaff731d09352d825"
 metafile = true

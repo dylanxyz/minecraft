@@ -90,7 +90,7 @@ metafile = true
 
 [[files]]
 file = "config/options.txt.pw.toml"
-hash = "2c15832f721fb14cc5537fcab4aa05673ea9887d5f3cb751cec1fa93caef4f47"
+hash = "104aab418f78264d47c768e9c254338f300652c7f2a80f95ddc620311b03bfa4"
 metafile = true
 
 [[files]]

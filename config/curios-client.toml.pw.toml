@@ -4,4 +4,4 @@ filename = "curios-client.toml"
 [download]
 hash = "39bb7f1fe0ade67096862baf348f2e28b84fd5226c165552fbc88d049c9d179e"
 hash-format = "sha256"
-url = "https://raw.githubusercontent.com/dylanxyz/minecraft/main/external/config/curios-client.toml"
+url = "https://raw.githubusercontent.com/dylanxyz/minecraft/optimized/external/config/curios-client.toml"

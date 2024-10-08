@@ -4,4 +4,4 @@ filename = "notreepunching.toml"
 [download]
 hash = "3abb174adece0a1755cfc95ebda24981ba8e10b03128741aa1753fadf8caf018"
 hash-format = "sha256"
-url = "https://raw.githubusercontent.com/dylanxyz/minecraft/main/external/config/notreepunching.toml"
+url = "https://raw.githubusercontent.com/dylanxyz/minecraft/optimized/external/config/notreepunching.toml"

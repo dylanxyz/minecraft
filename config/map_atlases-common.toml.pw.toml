@@ -4,4 +4,4 @@ filename = "map_atlases-common.toml"
 [download]
 hash = "2d764d15022660b21c6eb62f6255a832067dbc309dc6005ba14a0c3d76d3a1ef"
 hash-format = "sha256"
-url = "https://raw.githubusercontent.com/dylanxyz/minecraft/main/external/config/map_atlases-common.toml"
+url = "https://raw.githubusercontent.com/dylanxyz/minecraft/optimized/external/config/map_atlases-common.toml"

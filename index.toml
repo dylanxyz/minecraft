@@ -1022,7 +1022,7 @@ metafile = true
 
 [[files]]
 file = "mods/world/serene-seasons.pw.toml"
-hash = "7dc8906b725313613766eee817accc53bce5516837cc5ad55b0f883abee16da1"
+hash = "f6d9c94beadb339060a0162c7876b6fb26812c99519aad59b03d38a3b912d048"
 metafile = true
 
 [[files]]

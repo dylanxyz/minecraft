@@ -100,6 +100,10 @@ metafile = true
 preserve = true
 
 [[files]]
+file = "config/resourcepackoverrides.json"
+hash = "8578b139e5fd7faee341941834af5347157608f3f08f9992e3d281126d597dfc"
+
+[[files]]
 file = "defaultconfigs/hourglass-server.toml"
 hash = "49273a00f74ddd44caf9c717f5dd644165a3d441c613692561625d27d430ced4"
 
@@ -160,6 +164,10 @@ file = "kubejs/server_scripts/src/loot.js"
 hash = "2ea53adfaf057b96fd3a046a4b8e88c10b532a2d9ff5585c0e37c5f5a47b2988"
 
 [[files]]
+file = "kubejs/server_scripts/src/lunar.js"
+hash = "f631c3c2aabc6757aea1ce7c0f56e556afb6e3616fccfd5e6450b8e38fecd11d"
+
+[[files]]
 file = "kubejs/server_scripts/src/tags.js"
 hash = "8fd186fb99368efa9303d8ff4a67dace0b542434ab28ebf65a0c52fb5d217bd2"
 
@@ -183,12 +191,12 @@ metafile = true
 
 [[files]]
 file = "mods/create/create-food.pw.toml"
-hash = "f1e0050eb8abf85a6189966264b3bd5c86d26d54719a3a048a884154baa7436a"
+hash = "bda9c3f6ac8c3533dc0f344aab523fbb2f2a6e2d2d8144458e1ddcb593505816"
 metafile = true
 
 [[files]]
 file = "mods/create/create-ironworks.pw.toml"
-hash = "97eebb2f6af2fc8fec7cf7606a95181959769cc41625436f81e4e4bdc568304a"
+hash = "548428c1f729dcf2f831f076143751f3e46c5a7b0efbd10fa033e7505e54af99"
 metafile = true
 
 [[files]]
@@ -213,12 +221,12 @@ metafile = true
 
 [[files]]
 file = "mods/create/create-steam-n-rails.pw.toml"
-hash = "d5159a7982971cb2552646adc0ab132d089b6393c775bcafbcf5c7f8fb9c1bf7"
+hash = "a74570116aada4c5b3adef142b64166639881b29e7953f700337accf98ef3bdb"
 metafile = true
 
 [[files]]
 file = "mods/create/create.pw.toml"
-hash = "b050c760a1924090a97b88bdeef873422718d5436184bece9b34339f7d88e901"
+hash = "72042e323171379decdd170635f1f84a693420f9c4bcb0bb69e9e9b5f2511800"
 metafile = true
 
 [[files]]
@@ -282,13 +290,13 @@ hash = "9363cd05dd71c3ac14296d15f51eda098ad5805488ead7ca7d97edfb8ff83f17"
 metafile = true
 
 [[files]]
-file = "mods/equipment/sophisticated-backpacks.pw.toml"
-hash = "9ca085aff0a0eacb85044253966e1676b69ef7d18674134735b02b3d522ffa9d"
+file = "mods/equipment/tool-belt.pw.toml"
+hash = "88c6ea3ad66db4a8bfcc6056891793c5d8baa75bef2b2a95b682d10ec00b65cf"
 metafile = true
 
 [[files]]
-file = "mods/equipment/tool-belt.pw.toml"
-hash = "88c6ea3ad66db4a8bfcc6056891793c5d8baa75bef2b2a95b682d10ec00b65cf"
+file = "mods/equipment/travelersbackpack.pw.toml"
+hash = "b1f5df837aca98cb0625db3ba4a98dc3636365df1cab6c0a860eae54429741a3"
 metafile = true
 
 [[files]]
@@ -333,12 +341,7 @@ metafile = true
 
 [[files]]
 file = "mods/essentials/corpse.pw.toml"
-hash = "0605b409fc1099a42426c306b4bf9c217dd4bef8214fb1c52653a839e9d465e6"
-metafile = true
-
-[[files]]
-file = "mods/essentials/essential.pw.toml"
-hash = "14c90495cf8c8267befe6419692d883e89b5cfb32fffa80bd423dad115b89b4c"
+hash = "75552d89afd0da0cea011a6c91bd0682a13f3fc891563cb5236bd66c13e2090e"
 metafile = true
 
 [[files]]
@@ -448,7 +451,7 @@ metafile = true
 
 [[files]]
 file = "mods/library/azurelib.pw.toml"
-hash = "163008280b3992090941715f6a9e58b64ca6d8cebdd903231b9d03113ca309da"
+hash = "807f77afd3b17324b521801eaf923d0cb62e3db7531ece8feaab4a3c70cf2654"
 metafile = true
 
 [[files]]
@@ -498,7 +501,7 @@ metafile = true
 
 [[files]]
 file = "mods/library/fzzy-config.pw.toml"
-hash = "297035a1c7f6d3be5f5962d0ea80aacf55076fe222469865a15398ce3787afd6"
+hash = "567b538f724c3f73cff4b5710ae28005cf10392903e44bb4394b1e417e777496"
 metafile = true
 
 [[files]]
@@ -523,12 +526,12 @@ metafile = true
 
 [[files]]
 file = "mods/library/modonomicon.pw.toml"
-hash = "5b8a564c355296eb31198762c8b6e11a84d4300e591e1851f5a260f560206ed6"
+hash = "e79f0776cc204a6851aabe75586df0650b2562aa2dbbef38ef1b3d3c8446f818"
 metafile = true
 
 [[files]]
 file = "mods/library/moonlight.pw.toml"
-hash = "84c50ac598695b288b3cb80a6fda2c8f508bca4c9455baa2180355ef764f1bff"
+hash = "216175aa6b40186250be99af0338fbddb7e147cbc93e8a87e5df95aa260c2af6"
 metafile = true
 
 [[files]]
@@ -548,7 +551,7 @@ metafile = true
 
 [[files]]
 file = "mods/library/puzzles-lib.pw.toml"
-hash = "b14a76a71b2a6dbfa0374bd33d9b7eb0ddd65a00b98a97fbcfdc103081a71022"
+hash = "3e8cd235c8501a338a7db862310b61f2b6fe7bd1f876c7578c641f29ccdd0dc5"
 metafile = true
 
 [[files]]
@@ -564,11 +567,6 @@ metafile = true
 [[files]]
 file = "mods/library/searchables.pw.toml"
 hash = "97a938e790bd3e035e9d4ae72861f8dc2bd625fe83af7e126d2b2f7254152f56"
-metafile = true
-
-[[files]]
-file = "mods/library/sophisticated-core.pw.toml"
-hash = "2d2b2a69f71245dd8a2956a29444cda5d2a3c12240fac1b1f298d8130bee1a4d"
 metafile = true
 
 [[files]]
@@ -638,17 +636,12 @@ metafile = true
 
 [[files]]
 file = "mods/misc/armourers-workshop.pw.toml"
-hash = "6dbb0b065296ad41b93b8a227e7218d5dbd44256be354530631e6c6363ee8fb6"
+hash = "8a5189b70281c696b5dd0625da8185fbf88df8933ceb63afc8a2d0434afc2b8f"
 metafile = true
 
 [[files]]
 file = "mods/misc/automobility.pw.toml"
 hash = "4e969399064d3cd8962adc2f8a52b1172aaa5f69fc97b56557213c14f48155ee"
-metafile = true
-
-[[files]]
-file = "mods/misc/comforts.pw.toml"
-hash = "8efb6623291e71c7afabd7b3f822b800ce55bbfbb1ee6c6f095db3ff513b8749"
 metafile = true
 
 [[files]]
@@ -718,7 +711,7 @@ metafile = true
 
 [[files]]
 file = "mods/misc/storagedrawers.pw.toml"
-hash = "d299d06bac091e54172ff74ce4192e40647b5ce4570a84b2ff86204af4705213"
+hash = "5f12d23b24a50445492ade7811bdde998bcedd397c9775a1c442382049dbf087"
 metafile = true
 
 [[files]]
@@ -734,6 +727,11 @@ metafile = true
 [[files]]
 file = "mods/misc/visual-workbench.pw.toml"
 hash = "0656bf0e828c3de761c373b87455e1aa3ebad8eda995a132c2757cade776a185"
+metafile = true
+
+[[files]]
+file = "mods/misc/what-are-they-up-to.pw.toml"
+hash = "d3eb6aba383f7901ab0f979a247d9af5d05e6b66e2e021892f1c67da402c0f0d"
 metafile = true
 
 [[files]]
@@ -768,7 +766,7 @@ metafile = true
 
 [[files]]
 file = "mods/mobs/fungal-infectionspore.pw.toml"
-hash = "2051fe387a1133db1778b7f9b82f28d2d1603f0383e5e4e7350ac032b9b6cbc8"
+hash = "78e837035dffb3ee4ab269ab072821eee3b2e10b6f83dc3d5677ad9382549ce8"
 metafile = true
 
 [[files]]
@@ -838,12 +836,12 @@ metafile = true
 
 [[files]]
 file = "mods/performance/iris-flw-compat.pw.toml"
-hash = "a547cf008085d5763d327dd26c3c3a98079660b6b26d5dbe85b660f8a45e3a07"
+hash = "49f722607108cab903c1c5b346419d7571cd67ce1c2043140855256911837b15"
 metafile = true
 
 [[files]]
 file = "mods/performance/lmd.pw.toml"
-hash = "485e62138e0fa25e8b7aa955a8797e980e0e7110b28cfe7cb1053e35811fa139"
+hash = "aa6d70b02b58801209e7c9ff064a5245a284ecdd2ad3042ac9cd2e6e9b0fd6fa"
 metafile = true
 
 [[files]]
@@ -883,7 +881,7 @@ metafile = true
 
 [[files]]
 file = "mods/structures/create-structures-arise.pw.toml"
-hash = "1deb156cb403ce85df56c29ec1074b0447235c13ddba81b693b0b018351d5d28"
+hash = "4d1de15ee9c22e39cfe37216fcc7cae0832de21a80b371aa9be497cc9cc91df8"
 metafile = true
 
 [[files]]
@@ -914,6 +912,16 @@ metafile = true
 [[files]]
 file = "mods/utilities/bookshelf-lib.pw.toml"
 hash = "47ecb4300f32a6ec1dab556547601d6d343b702e60c0d44723458be401081945"
+metafile = true
+
+[[files]]
+file = "mods/utilities/brb.pw.toml"
+hash = "0f8d91b2299eef4e90cca99c581c4fb92f1bcbe3de1859a76db4ffe0ee866a63"
+metafile = true
+
+[[files]]
+file = "mods/utilities/disable-structures.pw.toml"
+hash = "f733921b08119b47a7873329c666510514468f05bf84f61a3e08b1d5701b39e0"
 metafile = true
 
 [[files]]
@@ -978,7 +986,7 @@ metafile = true
 
 [[files]]
 file = "mods/world/serene-seasons.pw.toml"
-hash = "4d3a7b889c40cb210a524210a9e55944a4656e039f9f74fe32a734b387249fae"
+hash = "bd164edd784053ac31238599eda293df5027cf731f48ebdecb1f6ff1d0897801"
 metafile = true
 
 [[files]]
@@ -994,11 +1002,6 @@ metafile = true
 [[files]]
 file = "resourcepacks/create_new_age_refrubished.pw.toml"
 hash = "b83b4f10794469b11497e18590c9ddc2ae97641fc9f7fed193689b6c9eed2e0e"
-metafile = true
-
-[[files]]
-file = "resourcepacks/dark-sophisticated-backpack.pw.toml"
-hash = "c4979b5e6d9c6bb79b85ca4d1f027622ee85b3b234d478ddcec60e07d0f8d114"
 metafile = true
 
 [[files]]
@@ -1040,13 +1043,18 @@ hash = "00974626850138f5cca69e8e7eeb8f6fbc6a5545519f69c2b6014c45936ae136"
 metafile = true
 
 [[files]]
+file = "resourcepacks/shrimps-immersive-interfaces.pw.toml"
+hash = "b1c486ee7c214363770f8645f65e91589e92d5ebd616da7b299c9c3285874e41"
+metafile = true
+
+[[files]]
 file = "resourcepacks/tool-belt-retextured.pw.toml"
 hash = "447a75920192f1e57ad35fc30c7803396bddbbb0cd0ac190443568c8917dddf5"
 metafile = true
 
 [[files]]
 file = "resourcepacks/unique-dark.pw.toml"
-hash = "adfcf17510ca8908b4cf76708a656f91bf130c036828c90f9d3f2b0b0411b0c8"
+hash = "5ea28aeb403f83abc3d7a60fbdda8f568d847642800ea213c7363c9e05fedd10"
 metafile = true
 
 [[files]]

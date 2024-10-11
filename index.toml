@@ -97,6 +97,7 @@ metafile = true
 file = "config/options.txt.pw.toml"
 hash = "025194aed989d9b645fe11c68ead66c9b014b61b43b824ecfabe57f0f6eeb6a9"
 metafile = true
+preserve = true
 
 [[files]]
 file = "config/parcool-client.toml.pw.toml"
@@ -447,7 +448,7 @@ metafile = true
 
 [[files]]
 file = "mods/library/almanac-lib.pw.toml"
-hash = "dc17f94dfc17849fa3b024f5b0210725a07fde3364a8845410f92f663c88df7d"
+hash = "0b0fb87b6dfe67ee12a4f7519f525b872ff4b69d77789d9624f3d32f8a7681a5"
 metafile = true
 
 [[files]]

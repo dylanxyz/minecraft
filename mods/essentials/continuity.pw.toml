@@ -15,3 +15,4 @@ version = "84Zs6tNo"
 [option]
 optional = true
 default = true
+description = "Ative esse mod para ter texturas conectadas."

@@ -58,6 +58,7 @@ preserve = true
 file = "config/integrated_villages-forge-1_20.toml.pw.toml"
 hash = "2d7d9b547383a867c9d577af4f7db8378cde6b11d3409eabaf5ba7db6e51e128"
 metafile = true
+preserve = true
 
 [[files]]
 file = "config/map_atlases-client.toml.pw.toml"
@@ -87,6 +88,7 @@ preserve = true
 file = "config/oculus.properties.pw.toml"
 hash = "f78252f3a2cfa0e787b900bea12c794870ec47347ef6d3eb5ae19788a7341d5c"
 metafile = true
+preserve = true
 
 [[files]]
 file = "config/options.txt.pw.toml"

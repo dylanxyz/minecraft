@@ -40,6 +40,7 @@ preserve = true
 file = "config/incontrol/areas.json.pw.toml"
 hash = "e48170ad4e2bf77126b2ace24ca97b73fe85661a2a2642b3a6857f0396ffefff"
 metafile = true
+preserve = true
 
 [[files]]
 file = "config/incontrol/phases.json.pw.toml"
@@ -92,6 +93,7 @@ preserve = true
 file = "config/oculus.properties.pw.toml"
 hash = "c3b9c14433d1ca3a2cd12fdcade6cfc94d3c62ea698e776180759a76f55a0592"
 metafile = true
+preserve = true
 
 [[files]]
 file = "config/options.txt.pw.toml"

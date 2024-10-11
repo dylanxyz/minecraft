@@ -95,7 +95,7 @@ metafile = true
 
 [[files]]
 file = "config/options.txt.pw.toml"
-hash = "9d407b5abf66baa7f87eae384c95c7a6e175e72d227741109eca1a7d46ade525"
+hash = "025194aed989d9b645fe11c68ead66c9b014b61b43b824ecfabe57f0f6eeb6a9"
 metafile = true
 
 [[files]]
@@ -371,6 +371,11 @@ hash = "a00605418bb46daef01c89b7ded2c0002dbdcb1a9431c90a322dd4e7bd7c8748"
 metafile = true
 
 [[files]]
+file = "mods/essentials/mindful-darkness.pw.toml"
+hash = "ef3d41a05d7695b279f8cef2c7c546cd7b10e2f6925bd8ce44ede59388e71771"
+metafile = true
+
+[[files]]
 file = "mods/essentials/more-mob-variants.pw.toml"
 hash = "dc120cee5bfc34accc5a9389e3858355ee802a8b79927cb92cc6b7341c48a144"
 metafile = true
@@ -438,6 +443,11 @@ metafile = true
 [[files]]
 file = "mods/interface/overflowing-bars.pw.toml"
 hash = "94d03f560b2b67fa27191283d0a362b173ebde7fa51f106c74e3889fdfd68f60"
+metafile = true
+
+[[files]]
+file = "mods/library/almanac-lib.pw.toml"
+hash = "dc17f94dfc17849fa3b024f5b0210725a07fde3364a8845410f92f663c88df7d"
 metafile = true
 
 [[files]]
@@ -547,7 +557,7 @@ metafile = true
 
 [[files]]
 file = "mods/library/puzzles-lib.pw.toml"
-hash = "3e8cd235c8501a338a7db862310b61f2b6fe7bd1f876c7578c641f29ccdd0dc5"
+hash = "a9af9425a1e749af5f000c62728363eb89705a984b720b5502256394db3ba14e"
 metafile = true
 
 [[files]]
@@ -1018,11 +1028,6 @@ metafile = true
 [[files]]
 file = "resourcepacks/shrimps-immersive-interfaces.pw.toml"
 hash = "b1c486ee7c214363770f8645f65e91589e92d5ebd616da7b299c9c3285874e41"
-metafile = true
-
-[[files]]
-file = "resourcepacks/unique-dark.pw.toml"
-hash = "5ea28aeb403f83abc3d7a60fbdda8f568d847642800ea213c7363c9e05fedd10"
 metafile = true
 
 [[files]]

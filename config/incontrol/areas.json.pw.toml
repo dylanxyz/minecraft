@@ -1,0 +1,7 @@
+name = "areas.json"
+filename = "areas.json"
+
+[download]
+hash = "0445b17c31769e5b7f9523ed2b882fa77d5dc9665a4a5ad05dd14f3b6b566a42"
+hash-format = "sha256"
+url = "https://raw.githubusercontent.com/dylanxyz/minecraft/optimized/external/config/incontrol/areas.json"

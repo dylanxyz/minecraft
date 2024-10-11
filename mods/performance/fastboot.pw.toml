@@ -1,0 +1,13 @@
+name = "FastBoot"
+filename = "../fastboot-1.20.x-1.1.jar"
+side = "client"
+
+[download]
+url = "https://cdn.modrinth.com/data/nRL5uFe0/versions/aQPUPRB3/fastboot-1.20.x-1.1.jar"
+hash-format = "sha1"
+hash = "af34ffcf3e4eb46b13906b522bc33fccdd2b4c45"
+
+[update]
+[update.modrinth]
+mod-id = "nRL5uFe0"
+version = "aQPUPRB3"

@@ -526,11 +526,6 @@ hash = "890a6d554fe317241bb60a1894038de071d68d6a90a725fac5693dd8c82ebd36"
 metafile = true
 
 [[files]]
-file = "mods/library/modonomicon.pw.toml"
-hash = "e79f0776cc204a6851aabe75586df0650b2562aa2dbbef38ef1b3d3c8446f818"
-metafile = true
-
-[[files]]
 file = "mods/library/moonlight.pw.toml"
 hash = "216175aa6b40186250be99af0338fbddb7e147cbc93e8a87e5df95aa260c2af6"
 metafile = true
@@ -992,7 +987,7 @@ metafile = true
 
 [[files]]
 file = "mods/world/serene-seasons.pw.toml"
-hash = "bd164edd784053ac31238599eda293df5027cf731f48ebdecb1f6ff1d0897801"
+hash = "7dc8906b725313613766eee817accc53bce5516837cc5ad55b0f883abee16da1"
 metafile = true
 
 [[files]]

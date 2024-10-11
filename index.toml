@@ -337,7 +337,7 @@ metafile = true
 
 [[files]]
 file = "mods/essentials/continuity.pw.toml"
-hash = "4e627c71a345ea238838491b073caca3d9739f3a645baa23171d35e587f4d386"
+hash = "9e00b82e75d53686b4d463f9b02d74f9a7348f33709761519d561d995ccbdeff"
 metafile = true
 
 [[files]]
@@ -538,11 +538,6 @@ metafile = true
 [[files]]
 file = "mods/library/kotlin-for-forge.pw.toml"
 hash = "890a6d554fe317241bb60a1894038de071d68d6a90a725fac5693dd8c82ebd36"
-metafile = true
-
-[[files]]
-file = "mods/library/modonomicon.pw.toml"
-hash = "e79f0776cc204a6851aabe75586df0650b2562aa2dbbef38ef1b3d3c8446f818"
 metafile = true
 
 [[files]]
@@ -1027,7 +1022,7 @@ metafile = true
 
 [[files]]
 file = "mods/world/serene-seasons.pw.toml"
-hash = "bd164edd784053ac31238599eda293df5027cf731f48ebdecb1f6ff1d0897801"
+hash = "7dc8906b725313613766eee817accc53bce5516837cc5ad55b0f883abee16da1"
 metafile = true
 
 [[files]]

@@ -37,14 +37,19 @@ metafile = true
 preserve = true
 
 [[files]]
+file = "config/incontrol/areas.json.pw.toml"
+hash = "e48170ad4e2bf77126b2ace24ca97b73fe85661a2a2642b3a6857f0396ffefff"
+metafile = true
+
+[[files]]
 file = "config/incontrol/phases.json.pw.toml"
-hash = "1ad09e59cde5b48559d7a8b9be28938a95b3fe2b3e04dddde2a24e2b5922d32f"
+hash = "6bb215e5d37ac341c2f15c306947835ccf0050f959d18d26cefc050d4870417c"
 metafile = true
 preserve = true
 
 [[files]]
 file = "config/incontrol/spawn.json.pw.toml"
-hash = "ae6fff0f32a1e3d1a751f2f51edd5f540cd7a08743d53f833485865235e91b5a"
+hash = "84eac6755adb895820d86c79f95fe4e0e64c9627c4903a1a72563182acfeea86"
 metafile = true
 preserve = true
 
@@ -90,7 +95,7 @@ metafile = true
 
 [[files]]
 file = "config/options.txt.pw.toml"
-hash = "e742d52dd34a395f4a98615956aa044fbb6dee724d7db5e231f6107c5ca36e0c"
+hash = "9d407b5abf66baa7f87eae384c95c7a6e175e72d227741109eca1a7d46ade525"
 metafile = true
 
 [[files]]
@@ -98,10 +103,6 @@ file = "config/parcool-client.toml.pw.toml"
 hash = "390e2170a2d6d124d1eedecacc6754b9af3c50c6043a421283f3dab188676b70"
 metafile = true
 preserve = true
-
-[[files]]
-file = "config/resourcepackoverrides.json"
-hash = "8578b139e5fd7faee341941834af5347157608f3f08f9992e3d281126d597dfc"
 
 [[files]]
 file = "defaultconfigs/hourglass-server.toml"
@@ -645,6 +646,11 @@ hash = "4e969399064d3cd8962adc2f8a52b1172aaa5f69fc97b56557213c14f48155ee"
 metafile = true
 
 [[files]]
+file = "mods/misc/coroutil.pw.toml"
+hash = "1034709134af8d51dcc3b098d567bb4cc9a96eff05c74ba86d587b23fd0b487f"
+metafile = true
+
+[[files]]
 file = "mods/misc/easy-magic.pw.toml"
 hash = "8de2d0f40a946fe898a45f0602403ebd1bc76242f321e0ec92f4fb550b90618f"
 metafile = true
@@ -825,6 +831,11 @@ hash = "95e42adf485a2c533ad42a3f914f198ab85484ddcae0cbdd3e7adc63a66a55da"
 metafile = true
 
 [[files]]
+file = "mods/performance/fastboot.pw.toml"
+hash = "d3da173fe3e7146b1182ec91044762e84623fbaa08c90a2fb8e5605723d01496"
+metafile = true
+
+[[files]]
 file = "mods/performance/ferrite-core.pw.toml"
 hash = "1536803a2e20807d6baa8c5d65cb1f1f6485393265bc34d935178d240f3c17a8"
 metafile = true
@@ -920,11 +931,6 @@ hash = "0f8d91b2299eef4e90cca99c581c4fb92f1bcbe3de1859a76db4ffe0ee866a63"
 metafile = true
 
 [[files]]
-file = "mods/utilities/disable-structures.pw.toml"
-hash = "f733921b08119b47a7873329c666510514468f05bf84f61a3e08b1d5701b39e0"
-metafile = true
-
-[[files]]
 file = "mods/utilities/easy-anvils.pw.toml"
 hash = "fdf506c08a12fceede80e7fdd81db0cfa0e0e9ea65f38441bc89209c6526239f"
 metafile = true
@@ -1000,16 +1006,6 @@ hash = "c61bb929f42718258caa48b0ee586afafc954ef5ee378b44e9dd1b2cb3f2bf41"
 metafile = true
 
 [[files]]
-file = "resourcepacks/create_new_age_refrubished.pw.toml"
-hash = "b83b4f10794469b11497e18590c9ddc2ae97641fc9f7fed193689b6c9eed2e0e"
-metafile = true
-
-[[files]]
-file = "resourcepacks/detail-brush.pw.toml"
-hash = "bb9a83ef6abb19b50328f22c94381c72a5cba89e3fd99c2a3a40770597e198ba"
-metafile = true
-
-[[files]]
 file = "resourcepacks/fancy-beds.pw.toml"
 hash = "780757ae82c554472159fdd8a06b5eb7c9ab7799bc3eed80eb03d65412c6a807"
 metafile = true
@@ -1020,26 +1016,8 @@ hash = "f05dedd6fc9f8e3ace51215fb47269a4919870a15c6c166c96c79b87bb9180c4"
 metafile = true
 
 [[files]]
-file = "resourcepacks/glowing-emissive-ores.pw.toml"
-hash = "9851daf90bda44d5a6bae9ad040235cecd0181f580d2eac7a4645764c9fecd16"
-metafile = true
-
-[[files]]
 file = "resourcepacks/improved-crafting-table-squarzy.pw.toml"
 hash = "6e7ac2628d07769bb1458e91c0c00bc57e555c9b66ab7a5b2b2245ac3f9e2eff"
-metafile = true
-
-[[files]]
-file = "resourcepacks/modpackfix/assets/create_new_age/textures/block/thorium_ore_e.png"
-hash = "e3bc07c530e9107e081ac136299ada339ccaad1cc5f8ab39243915a1078d58e0"
-
-[[files]]
-file = "resourcepacks/modpackfix/pack.mcmeta"
-hash = "aa56be6f3d456e088058c70c428a5a2b3fce9654eb8a04147560feed0871e2fd"
-
-[[files]]
-file = "resourcepacks/no-enchant-glint.pw.toml"
-hash = "00974626850138f5cca69e8e7eeb8f6fbc6a5545519f69c2b6014c45936ae136"
 metafile = true
 
 [[files]]
@@ -1048,41 +1026,11 @@ hash = "b1c486ee7c214363770f8645f65e91589e92d5ebd616da7b299c9c3285874e41"
 metafile = true
 
 [[files]]
-file = "resourcepacks/tool-belt-retextured.pw.toml"
-hash = "447a75920192f1e57ad35fc30c7803396bddbbb0cd0ac190443568c8917dddf5"
-metafile = true
-
-[[files]]
 file = "resourcepacks/unique-dark.pw.toml"
 hash = "5ea28aeb403f83abc3d7a60fbdda8f568d847642800ea213c7363c9e05fedd10"
 metafile = true
 
 [[files]]
-file = "resourcepacks/visual-enchantments.pw.toml"
-hash = "62102793ce460b1490d5568b753933a4c20ac2567b8c5ce7e4ee36f92d1dec25"
-metafile = true
-
-[[files]]
-file = "resourcepacks/xalis-enchanted-books.pw.toml"
-hash = "84721cf963fc8097847aef5712a0f1c854e1f538a4888c3c2028f0f1050b76fa"
-metafile = true
-
-[[files]]
-file = "resourcepacks/xalis-enhanced-vanilla.pw.toml"
-hash = "c2547216926ff189662129488a7a4fea7c88d89686f22811ff32b292a3ac5a88"
-metafile = true
-
-[[files]]
-file = "resourcepacks/xalis-potion.pw.toml"
-hash = "f2b132ba460c85a6d20f905d727725e590f0578c8b2078a1702f6ca78304a69e"
-metafile = true
-
-[[files]]
-file = "shaderpacks/ComplementaryReimagined_r5.3.zip.txt.pw.toml"
-hash = "f8579a3c4f4acea0c0b2ce7462964b86d9e8cf1fcb4c70af917ae8ab15e77035"
-metafile = true
-
-[[files]]
-file = "shaderpacks/complementary-reimagined.pw.toml"
-hash = "f18e6196d79be05795c41658af6ea9ad77457bb65058bdd65a0ef5d3c6f30ca0"
+file = "shaderpacks/potato-shaders.pw.toml"
+hash = "8d82e4d8a24d901d5607eb5e329e7618e50d6f3f95806b61dac7a8edee999d3a"
 metafile = true

@@ -1088,6 +1088,10 @@ file = "resourcepacks/modpackfix/assets/create_new_age/textures/block/thorium_or
 hash = "e3bc07c530e9107e081ac136299ada339ccaad1cc5f8ab39243915a1078d58e0"
 
 [[files]]
+file = "resourcepacks/modpackfix/assets/minecraft/textures/gui/container/villager2.png"
+hash = "9b919d3d58576f015f26bfe4e40da384b390812d0a8c23b252c271244a189e47"
+
+[[files]]
 file = "resourcepacks/modpackfix/pack.mcmeta"
 hash = "aa56be6f3d456e088058c70c428a5a2b3fce9654eb8a04147560feed0871e2fd"
 

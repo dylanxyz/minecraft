@@ -7,6 +7,12 @@ metafile = true
 preserve = true
 
 [[files]]
+file = "config/brb.toml.pw.toml"
+hash = "7c8fc4bbdcb9949691d7bbb57030a00637ebf915fcd238eb821beab4b1e3e36b"
+metafile = true
+preserve = true
+
+[[files]]
 file = "config/curios-client.toml.pw.toml"
 hash = "112444ef959e7b6cc31b55c9c64fc6d8f15e1ca332307c5b48c68b35e11c70f7"
 metafile = true
@@ -37,14 +43,19 @@ metafile = true
 preserve = true
 
 [[files]]
+file = "config/incontrol/areas.json.pw.toml"
+hash = "cd40eee8990e7ee1663519cd4b92fef553d518a9e9cc43c0580109990dab285e"
+metafile = true
+
+[[files]]
 file = "config/incontrol/phases.json.pw.toml"
-hash = "fd21774226552093e4f5b66a452a44455a5aea425f527fbcee05d14e66eab7c0"
+hash = "e4456ab7e6efb1fbc16c7fe9fec14a53451afb60b119f6781cbd6d5d7a72b9bd"
 metafile = true
 preserve = true
 
 [[files]]
 file = "config/incontrol/spawn.json.pw.toml"
-hash = "be83165b168a9aab9713971eed38e5f55cb843d3adcd002bd3428509952874ef"
+hash = "aaa71095a2e435ada7c6022893a4463320a97309fae19882cd7a6ee36aa3206a"
 metafile = true
 preserve = true
 
@@ -92,7 +103,7 @@ preserve = true
 
 [[files]]
 file = "config/options.txt.pw.toml"
-hash = "104aab418f78264d47c768e9c254338f300652c7f2a80f95ddc620311b03bfa4"
+hash = "a6ce4a970a442a2ba5260bc8873e099c2bea3e410b6b9de2091d7804467a0a0d"
 metafile = true
 preserve = true
 

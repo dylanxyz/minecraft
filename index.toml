@@ -7,6 +7,12 @@ metafile = true
 preserve = true
 
 [[files]]
+file = "config/brb.toml.pw.toml"
+hash = "ee51b11baf6e69b865dabd5ed933e450237b83f1029f25523446dcf2fc3a50d6"
+metafile = true
+preserve = true
+
+[[files]]
 file = "config/curios-client.toml.pw.toml"
 hash = "88eeb0e2c42588f6a449b37b18d8aa8bca8b2cbb71d57e81e6adeaf1cd45f0b8"
 metafile = true
@@ -979,6 +985,11 @@ hash = "f8f716c430c0553c1e609ae1e88000e4bf126666b72843a899c2139db5572d9e"
 metafile = true
 
 [[files]]
+file = "mods/utilities/rrls.pw.toml"
+hash = "b0f85a16c26539cc82bcb6288a8a61f073c725a7151930e09392e0861ecf661c"
+metafile = true
+
+[[files]]
 file = "mods/utilities/ryoamiclights.pw.toml"
 hash = "93ff74a0717a259cf31da3baa0daa361fbeedcbc6d5a25faaff731d09352d825"
 metafile = true
@@ -1027,6 +1038,14 @@ metafile = true
 file = "resourcepacks/improved-crafting-table-squarzy.pw.toml"
 hash = "6e7ac2628d07769bb1458e91c0c00bc57e555c9b66ab7a5b2b2245ac3f9e2eff"
 metafile = true
+
+[[files]]
+file = "resourcepacks/modpackfix/assets/minecraft/textures/gui/container/villager2.png"
+hash = "9b919d3d58576f015f26bfe4e40da384b390812d0a8c23b252c271244a189e47"
+
+[[files]]
+file = "resourcepacks/modpackfix/pack.mcmeta"
+hash = "aa56be6f3d456e088058c70c428a5a2b3fce9654eb8a04147560feed0871e2fd"
 
 [[files]]
 file = "resourcepacks/shrimps-immersive-interfaces.pw.toml"

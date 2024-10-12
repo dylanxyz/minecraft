@@ -1,0 +1,7 @@
+name = "brb.toml"
+filename = "brb.toml"
+
+[download]
+hash = "f8ad72ddb37e9182439d0b144192946e6cfe378ba9e2d4f29658b674e85f7df4"
+hash-format = "sha256"
+url = "https://raw.githubusercontent.com/dylanxyz/minecraft/optimized/external/config/brb.toml"

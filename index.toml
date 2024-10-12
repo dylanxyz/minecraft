@@ -375,16 +375,6 @@ hash = "26899e3ef8107f42065c5a639c6e6349f0d471c74c88c36951cc32e6c663e00e"
 metafile = true
 
 [[files]]
-file = "mods/essentials/jade-addons-forge.pw.toml"
-hash = "45728f2c96cf67390f3c7448dc314bdfc29dc8d5869364b718756527f3c1392a"
-metafile = true
-
-[[files]]
-file = "mods/essentials/jade.pw.toml"
-hash = "ba12bf7cc4958f2ae15bc3158b27eec1f8caae5173966342f69078727e76bf4e"
-metafile = true
-
-[[files]]
 file = "mods/essentials/map-atlases-forge.pw.toml"
 hash = "a00605418bb46daef01c89b7ded2c0002dbdcb1a9431c90a322dd4e7bd7c8748"
 metafile = true
@@ -712,6 +702,11 @@ metafile = true
 [[files]]
 file = "mods/misc/macaws-holidays.pw.toml"
 hash = "166adb8b672bc4068a180a8e98fbc5ca6a02f6b09af362a8fd3743016a05768c"
+metafile = true
+
+[[files]]
+file = "mods/misc/mindful-darkness.pw.toml"
+hash = "ef3d41a05d7695b279f8cef2c7c546cd7b10e2f6925bd8ce44ede59388e71771"
 metafile = true
 
 [[files]]
@@ -1100,6 +1095,11 @@ hash = "aa56be6f3d456e088058c70c428a5a2b3fce9654eb8a04147560feed0871e2fd"
 [[files]]
 file = "resourcepacks/no-enchant-glint.pw.toml"
 hash = "00974626850138f5cca69e8e7eeb8f6fbc6a5545519f69c2b6014c45936ae136"
+metafile = true
+
+[[files]]
+file = "resourcepacks/shrimps-immersive-interfaces.pw.toml"
+hash = "b1c486ee7c214363770f8645f65e91589e92d5ebd616da7b299c9c3285874e41"
 metafile = true
 
 [[files]]

@@ -42,8 +42,8 @@ ao:true
 prioritizeChunkUpdates:0
 biomeBlendRadius:2
 renderClouds:"true"
-resourcePacks:["vanilla","mod_resources","Moonlight Mods Dynamic Assets","fabric","file/xalis-potions.zip","file/xalis-books.zip","file/xalis-vanilla.zip","file/3.3.1v_VisualEnchantments.zip","file/Tool_Belt_Retextured_1.20.x_V3.zip","file/Detail-Brush-1.6-1.20.zip","file/Improved Crafting Table V1.0.zip","file/Unique Dark 1.20.1 (free).zip","file/No Enchant Glint 1.20.1.zip","file/Fancy_Beds-v3.4.zip","file/GEO - v1.6.0.zip","file/cna-refrubished-0.2.zip","file/darkGuiSBP1.1.zip","file/Fast Better Grass.zip","file/modpackfix"]
-incompatibleResourcePacks:["file/xalis-potions.zip","file/xalis-books.zip","file/xalis-vanilla.zip","file/GEO - v1.6.0.zip","file/darkGuiSBP1.1.zip"]
+resourcePacks:["vanilla","mod_resources","Moonlight Mods Dynamic Assets","fabric","file/xalis-potions.zip","file/xalis-books.zip","file/xalis-vanilla.zip","file/3.3.1v_VisualEnchantments.zip","file/Immersive§0_§fInterfaces§0.zip","file/Tool_Belt_Retextured_1.20.x_V3.zip","file/Detail-Brush-1.6-1.20.zip","file/Improved Crafting Table V1.0.zip","file/No Enchant Glint 1.20.1.zip","file/Fancy_Beds-v3.4.zip","file/GEO - v1.6.0.zip","file/cna-refrubished-0.2.zip","file/Fast Better Grass.zip","file/modpackfix"]
+incompatibleResourcePacks:["file/xalis-potions.zip","file/xalis-books.zip","file/xalis-vanilla.zip","file/GEO - v1.6.0.zip"]
 lastServer:
 lang:pt_br
 soundDevice:""
@@ -135,6 +135,11 @@ key_key.scguns.unload:key.keyboard.u
 key_key.scguns.attachments:key.keyboard.z
 key_key.scguns.melee:key.mouse.middle
 key_key.veinmining.activate.desc:key.keyboard.unknown
+key_key.travelersbackpack.inventory:key.keyboard.b
+key_key.travelersbackpack.sort:key.keyboard.unknown
+key_key.travelersbackpack.ability:key.keyboard.unknown
+key_key.travelersbackpack.cycle_tool:key.keyboard.z
+key_key.travelersbackpack.toggle_tank:key.keyboard.n
 key_keybinds.bettercombat.feint:key.keyboard.unknown
 key_keybinds.bettercombat.toggle_mine_with_weapons:key.keyboard.unknown
 key_key.valkyrienskies.ship_down:key.keyboard.left.shift
@@ -146,15 +151,6 @@ key_treechop.key.cycle_sneak_behavior:key.keyboard.keypad.decimal
 key_treechop.key.open_settings_overlay:key.keyboard.unknown
 key_key.inventoryessentials.single_transfer:key.mouse.left:CONTROL
 key_key.inventoryessentials.screen_bulk_drop:key.mouse.left:SHIFT
-key_keybind.sophisticatedbackpacks.open_backpack:key.keyboard.b
-key_keybind.sophisticatedbackpacks.inventory_interaction:key.keyboard.unknown
-key_keybind.sophisticatedbackpacks.tool_swap:key.keyboard.unknown
-key_keybind.sophisticatedbackpacks.sort:key.mouse.middle
-key_keybind.sophisticatedbackpacks.toggle_upgrade_3:key.keyboard.unknown
-key_keybind.sophisticatedbackpacks.toggle_upgrade_2:key.keyboard.unknown
-key_keybind.sophisticatedbackpacks.toggle_upgrade_1:key.keyboard.unknown
-key_keybind.sophisticatedbackpacks.toggle_upgrade_5:key.keyboard.unknown
-key_keybind.sophisticatedbackpacks.toggle_upgrade_4:key.keyboard.unknown
 key_railways.keyinfo.bogey_menu:key.keyboard.left.alt
 key_railways.keyinfo.cycle_menu:key.keyboard.left.alt
 key_key.carry.desc:key.keyboard.left.alt
@@ -163,6 +159,7 @@ key_key.protection_pixel.wingfly:key.keyboard.space
 key_key.protection_pixel.flyfoward:key.keyboard.w
 key_key.deeperdarker.boost:key.keyboard.unknown
 key_key.deeperdarker.transmit:key.keyboard.unknown
+key_key.brb.pin:key.keyboard.r
 key_orthocamera.key.toggle:key.keyboard.y
 key_orthocamera.key.scale_increase:key.keyboard.left.shift
 key_orthocamera.key.scale_decrease:key.keyboard.left.control
@@ -172,9 +169,9 @@ key_orthocamera.key.fixed_camera_rotate_up:key.keyboard.unknown
 key_orthocamera.key.fixed_camera_rotate_down:key.keyboard.unknown
 key_orthocamera.key.fixed_camera_rotate_left:key.keyboard.unknown
 key_orthocamera.key.fixed_camera_rotate_right:key.keyboard.unknown
-key_key.inventorysorter.itemin:key.mouse.100
 key_key.inventorysorter.sort:key.mouse.middle
 key_key.inventorysorter.itemout:key.mouse.102
+key_key.inventorysorter.itemin:key.mouse.100
 key_key.mca.skin_library:key.keyboard.p
 key_ping-wheel.key.ping-location:key.mouse.5
 key_ping-wheel.key.open-settings:key.keyboard.unknown
@@ -197,13 +194,6 @@ key_key.toolbelt.open:key.keyboard.tab
 key_key.toolbelt.cycle.left:key.keyboard.unknown
 key_key.toolbelt.cycle.right:key.keyboard.unknown
 key_key.toolbelt.slot:key.keyboard.x
-key_key.jade.config:key.keyboard.keypad.0
-key_key.jade.show_overlay:key.keyboard.keypad.1
-key_key.jade.toggle_liquid:key.keyboard.keypad.2
-key_key.jade.show_recipes:key.keyboard.keypad.3
-key_key.jade.show_uses:key.keyboard.keypad.4
-key_key.jade.narrate:key.keyboard.keypad.5
-key_key.jade.show_details:key.keyboard.left.shift
 key_key.parcool.Enable:key.keyboard.unknown
 key_key.parcool.Crawl:key.keyboard.c
 key_key.parcool.ClingToCliff:key.mouse.4

@@ -705,11 +705,6 @@ hash = "166adb8b672bc4068a180a8e98fbc5ca6a02f6b09af362a8fd3743016a05768c"
 metafile = true
 
 [[files]]
-file = "mods/misc/mindful-darkness.pw.toml"
-hash = "ef3d41a05d7695b279f8cef2c7c546cd7b10e2f6925bd8ce44ede59388e71771"
-metafile = true
-
-[[files]]
 file = "mods/misc/miners-delight.pw.toml"
 hash = "9fde9c990dbfd29deb05b0471efd57164c7c1c0863740e8941ad6e3692abd6aa"
 metafile = true
@@ -1095,11 +1090,6 @@ hash = "aa56be6f3d456e088058c70c428a5a2b3fce9654eb8a04147560feed0871e2fd"
 [[files]]
 file = "resourcepacks/no-enchant-glint.pw.toml"
 hash = "00974626850138f5cca69e8e7eeb8f6fbc6a5545519f69c2b6014c45936ae136"
-metafile = true
-
-[[files]]
-file = "resourcepacks/shrimps-immersive-interfaces.pw.toml"
-hash = "b1c486ee7c214363770f8645f65e91589e92d5ebd616da7b299c9c3285874e41"
 metafile = true
 
 [[files]]

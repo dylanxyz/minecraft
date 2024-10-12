@@ -1048,11 +1048,6 @@ file = "resourcepacks/modpackfix/pack.mcmeta"
 hash = "aa56be6f3d456e088058c70c428a5a2b3fce9654eb8a04147560feed0871e2fd"
 
 [[files]]
-file = "resourcepacks/shrimps-immersive-interfaces.pw.toml"
-hash = "b1c486ee7c214363770f8645f65e91589e92d5ebd616da7b299c9c3285874e41"
-metafile = true
-
-[[files]]
 file = "shaderpacks/potato-shaders.pw.toml"
 hash = "8d82e4d8a24d901d5607eb5e329e7618e50d6f3f95806b61dac7a8edee999d3a"
 metafile = true

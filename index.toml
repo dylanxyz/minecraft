@@ -1040,14 +1040,6 @@ hash = "6e7ac2628d07769bb1458e91c0c00bc57e555c9b66ab7a5b2b2245ac3f9e2eff"
 metafile = true
 
 [[files]]
-file = "resourcepacks/modpackfix/assets/minecraft/textures/gui/container/villager2.png"
-hash = "9b919d3d58576f015f26bfe4e40da384b390812d0a8c23b252c271244a189e47"
-
-[[files]]
-file = "resourcepacks/modpackfix/pack.mcmeta"
-hash = "aa56be6f3d456e088058c70c428a5a2b3fce9654eb8a04147560feed0871e2fd"
-
-[[files]]
 file = "shaderpacks/potato-shaders.pw.toml"
 hash = "8d82e4d8a24d901d5607eb5e329e7618e50d6f3f95806b61dac7a8edee999d3a"
 metafile = true

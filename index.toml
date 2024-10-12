@@ -1040,6 +1040,11 @@ hash = "6e7ac2628d07769bb1458e91c0c00bc57e555c9b66ab7a5b2b2245ac3f9e2eff"
 metafile = true
 
 [[files]]
+file = "resourcepacks/unique-dark-refined.pw.toml"
+hash = "da35fc37535bd0ae8ef046a52589b5150a416ebc292c9e6dfd7ed722ff2e1693"
+metafile = true
+
+[[files]]
 file = "shaderpacks/potato-shaders.pw.toml"
 hash = "8d82e4d8a24d901d5607eb5e329e7618e50d6f3f95806b61dac7a8edee999d3a"
 metafile = true

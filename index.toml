@@ -1113,6 +1113,11 @@ hash = "447a75920192f1e57ad35fc30c7803396bddbbb0cd0ac190443568c8917dddf5"
 metafile = true
 
 [[files]]
+file = "resourcepacks/unique-dark-refined.pw.toml"
+hash = "da35fc37535bd0ae8ef046a52589b5150a416ebc292c9e6dfd7ed722ff2e1693"
+metafile = true
+
+[[files]]
 file = "resourcepacks/visual-enchantments.pw.toml"
 hash = "62102793ce460b1490d5568b753933a4c20ac2567b8c5ce7e4ee36f92d1dec25"
 metafile = true

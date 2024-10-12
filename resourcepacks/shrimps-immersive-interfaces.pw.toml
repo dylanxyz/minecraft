@@ -1,0 +1,13 @@
+name = "Shrimp's Immersive Interfaces"
+filename = "Immersive§0_§fInterfaces§0.zip"
+side = "client"
+
+[download]
+url = "https://cdn.modrinth.com/data/3sV1gvyJ/versions/PaMf3ZKD/Immersive%C2%A70_%C2%A7fInterfaces%C2%A70.zip"
+hash-format = "sha1"
+hash = "f100c32d7a545f9efeb60b7b0506a918d8ad6520"
+
+[update]
+[update.modrinth]
+mod-id = "3sV1gvyJ"
+version = "PaMf3ZKD"

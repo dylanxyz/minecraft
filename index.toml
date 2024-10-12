@@ -375,6 +375,16 @@ hash = "26899e3ef8107f42065c5a639c6e6349f0d471c74c88c36951cc32e6c663e00e"
 metafile = true
 
 [[files]]
+file = "mods/essentials/jade-addons-forge.pw.toml"
+hash = "b42414a6e02f09e5c626e32ae2429785dc9294fa2bc689956a59a10fdba5be89"
+metafile = true
+
+[[files]]
+file = "mods/essentials/jade.pw.toml"
+hash = "e8898a30f64231c01586d60f642bda223a03c0ba7edd107fbbc21c21fe09a9c0"
+metafile = true
+
+[[files]]
 file = "mods/essentials/map-atlases-forge.pw.toml"
 hash = "a00605418bb46daef01c89b7ded2c0002dbdcb1a9431c90a322dd4e7bd7c8748"
 metafile = true

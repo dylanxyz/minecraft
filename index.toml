@@ -1108,8 +1108,8 @@ hash = "447a75920192f1e57ad35fc30c7803396bddbbb0cd0ac190443568c8917dddf5"
 metafile = true
 
 [[files]]
-file = "resourcepacks/unique-dark-refined.pw.toml"
-hash = "da35fc37535bd0ae8ef046a52589b5150a416ebc292c9e6dfd7ed722ff2e1693"
+file = "resourcepacks/unique-dark.pw.toml"
+hash = "5ea28aeb403f83abc3d7a60fbdda8f568d847642800ea213c7363c9e05fedd10"
 metafile = true
 
 [[files]]

@@ -1009,6 +1009,11 @@ hash = "f8f716c430c0553c1e609ae1e88000e4bf126666b72843a899c2139db5572d9e"
 metafile = true
 
 [[files]]
+file = "mods/utilities/rrls.pw.toml"
+hash = "b0f85a16c26539cc82bcb6288a8a61f073c725a7151930e09392e0861ecf661c"
+metafile = true
+
+[[files]]
 file = "mods/utilities/ryoamiclights.pw.toml"
 hash = "93ff74a0717a259cf31da3baa0daa361fbeedcbc6d5a25faaff731d09352d825"
 metafile = true

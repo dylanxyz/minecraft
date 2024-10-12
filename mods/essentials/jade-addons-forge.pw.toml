@@ -1,5 +1,5 @@
 name = "Jade Addons (Forge)"
-filename = "JadeAddons-1.20.1-Forge-5.3.1.jar"
+filename = "../JadeAddons-1.20.1-Forge-5.3.1.jar"
 side = "both"
 
 [download]

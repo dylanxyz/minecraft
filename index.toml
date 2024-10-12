@@ -376,12 +376,12 @@ metafile = true
 
 [[files]]
 file = "mods/essentials/jade-addons-forge.pw.toml"
-hash = "b42414a6e02f09e5c626e32ae2429785dc9294fa2bc689956a59a10fdba5be89"
+hash = "45728f2c96cf67390f3c7448dc314bdfc29dc8d5869364b718756527f3c1392a"
 metafile = true
 
 [[files]]
 file = "mods/essentials/jade.pw.toml"
-hash = "e8898a30f64231c01586d60f642bda223a03c0ba7edd107fbbc21c21fe09a9c0"
+hash = "ba12bf7cc4958f2ae15bc3158b27eec1f8caae5173966342f69078727e76bf4e"
 metafile = true
 
 [[files]]

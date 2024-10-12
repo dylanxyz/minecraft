@@ -390,11 +390,6 @@ hash = "a00605418bb46daef01c89b7ded2c0002dbdcb1a9431c90a322dd4e7bd7c8748"
 metafile = true
 
 [[files]]
-file = "mods/essentials/mindful-darkness.pw.toml"
-hash = "ef3d41a05d7695b279f8cef2c7c546cd7b10e2f6925bd8ce44ede59388e71771"
-metafile = true
-
-[[files]]
 file = "mods/essentials/more-mob-variants.pw.toml"
 hash = "dc120cee5bfc34accc5a9389e3858355ee802a8b79927cb92cc6b7341c48a144"
 metafile = true

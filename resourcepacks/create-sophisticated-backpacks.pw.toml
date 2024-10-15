@@ -1,0 +1,13 @@
+name = "Lopy's Create Style Sophisticated Backpacks"
+filename = "Lopy-Create-Sophisticated-Backpacks.zip"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "bb2779435871f059a6bfc3d35823c10d45fe268d"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 4684561
+project-id = 899330

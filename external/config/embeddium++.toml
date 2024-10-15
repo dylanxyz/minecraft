@@ -141,7 +141,7 @@
 				[embeddiumplus.performance.distanceCulling.entities.monsters]
 					#Toggles distance culling for monsters (or hostile entities, whatever you want to call it), doesn't affect neutral/pacific entities
 					#Check the options above
-					enable = false
+					enable = true
 					#Configure horizontal max distance before cull monster entities
 					#Value is squared, default was 64^2 (or 64x64)
 					#Range: > 0

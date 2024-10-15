@@ -300,13 +300,13 @@ hash = "9363cd05dd71c3ac14296d15f51eda098ad5805488ead7ca7d97edfb8ff83f17"
 metafile = true
 
 [[files]]
-file = "mods/equipment/tool-belt.pw.toml"
-hash = "88c6ea3ad66db4a8bfcc6056891793c5d8baa75bef2b2a95b682d10ec00b65cf"
+file = "mods/equipment/sophisticated-backpacks.pw.toml"
+hash = "750ad5c1c349d35676d630c7988f4539d09f60b7e9ac7dccb349a5910d4fc76e"
 metafile = true
 
 [[files]]
-file = "mods/equipment/travelersbackpack.pw.toml"
-hash = "b1f5df837aca98cb0625db3ba4a98dc3636365df1cab6c0a860eae54429741a3"
+file = "mods/equipment/tool-belt.pw.toml"
+hash = "88c6ea3ad66db4a8bfcc6056891793c5d8baa75bef2b2a95b682d10ec00b65cf"
 metafile = true
 
 [[files]]
@@ -600,6 +600,11 @@ hash = "97a938e790bd3e035e9d4ae72861f8dc2bd625fe83af7e126d2b2f7254152f56"
 metafile = true
 
 [[files]]
+file = "mods/library/sophisticated-core.pw.toml"
+hash = "1d08e6891d2aee7c4c6149fc7d19880c7245a66d54c1ab20991575b0d632b42d"
+metafile = true
+
+[[files]]
 file = "mods/mechanics/aquaculture.pw.toml"
 hash = "3c496a0cdc1711ffef3baa036c046ad5cf09600958b75966d595959fa616f137"
 metafile = true
@@ -662,11 +667,6 @@ metafile = true
 [[files]]
 file = "mods/misc/another-furniture.pw.toml"
 hash = "e446581dd7a2cdab0af94549aa8bb5728396f426176107b678e0acc3c6500686"
-metafile = true
-
-[[files]]
-file = "mods/misc/armourers-workshop.pw.toml"
-hash = "8a5189b70281c696b5dd0625da8185fbf88df8933ceb63afc8a2d0434afc2b8f"
 metafile = true
 
 [[files]]
@@ -1060,8 +1060,18 @@ hash = "c61bb929f42718258caa48b0ee586afafc954ef5ee378b44e9dd1b2cb3f2bf41"
 metafile = true
 
 [[files]]
+file = "resourcepacks/create-sophisticated-backpacks.pw.toml"
+hash = "a1e1317a225bfb0a8396bb4399ec62682d380d868de222c12c1ed2417aca3853"
+metafile = true
+
+[[files]]
 file = "resourcepacks/create_new_age_refrubished.pw.toml"
 hash = "b83b4f10794469b11497e18590c9ddc2ae97641fc9f7fed193689b6c9eed2e0e"
+metafile = true
+
+[[files]]
+file = "resourcepacks/dark-sophisticated-backpack.pw.toml"
+hash = "c4979b5e6d9c6bb79b85ca4d1f027622ee85b3b234d478ddcec60e07d0f8d114"
 metafile = true
 
 [[files]]

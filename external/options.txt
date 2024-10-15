@@ -169,9 +169,9 @@ key_orthocamera.key.fixed_camera_rotate_up:key.keyboard.unknown
 key_orthocamera.key.fixed_camera_rotate_down:key.keyboard.unknown
 key_orthocamera.key.fixed_camera_rotate_left:key.keyboard.unknown
 key_orthocamera.key.fixed_camera_rotate_right:key.keyboard.unknown
-key_key.inventorysorter.itemout:key.mouse.102
 key_key.inventorysorter.sort:key.mouse.middle
 key_key.inventorysorter.itemin:key.mouse.100
+key_key.inventorysorter.itemout:key.mouse.102
 key_key.mca.skin_library:key.keyboard.p
 key_ping-wheel.key.ping-location:key.mouse.5
 key_ping-wheel.key.open-settings:key.keyboard.unknown
@@ -194,6 +194,13 @@ key_key.toolbelt.open:key.keyboard.tab
 key_key.toolbelt.cycle.left:key.keyboard.unknown
 key_key.toolbelt.cycle.right:key.keyboard.unknown
 key_key.toolbelt.slot:key.keyboard.x
+key_key.jade.config:key.keyboard.keypad.0
+key_key.jade.show_overlay:key.keyboard.keypad.1
+key_key.jade.toggle_liquid:key.keyboard.keypad.2
+key_key.jade.show_recipes:key.keyboard.keypad.3
+key_key.jade.show_uses:key.keyboard.keypad.4
+key_key.jade.narrate:key.keyboard.keypad.5
+key_key.jade.show_details:key.keyboard.left.shift
 key_key.parcool.Enable:key.keyboard.unknown
 key_key.parcool.Crawl:key.keyboard.c
 key_key.parcool.ClingToCliff:key.mouse.4

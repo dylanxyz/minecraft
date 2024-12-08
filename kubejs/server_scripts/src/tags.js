@@ -1,0 +1,21 @@
+ServerEvents.tags("item", (event) => {
+    event.add("forge:tools/axe", "create_ironworks:brass_axe")
+    event.add("forge:tools/axe", "create_ironworks:copper_axe")
+    event.add("forge:tools/axe", "create_ironworks:bronze_axe")
+    event.add("forge:tools/axe", "create_ironworks:steel_axe")
+    event.add("notreepunching:h/weak_saws", "#forge:tools/axe")
+
+    event.add("notreepunching:h/mattocks", "create_ironworks:netherite_paxel")
+    event.add("notreepunching:h/mattocks", "create_ironworks:diamond_paxel")
+    event.add("notreepunching:h/mattocks", "create_ironworks:iron_paxel")
+    event.add("notreepunching:h/mattocks", "create_ironworks:brass_paxel")
+    event.add("notreepunching:h/mattocks", "create_ironworks:copper_paxel")
+    event.add("notreepunching:h/mattocks", "create_ironworks:bronze_paxel")
+    event.add("notreepunching:h/mattocks", "create_ironworks:steel_paxel")
+
+    event.add("kubejs:torch_like", "minecraft:torch")
+    event.add("kubejs:torch_like", "minecraft:lantern")
+    event.add("kubejs:torch_like", "realistictorches:lit_torch")
+    event.add("kubejs:torch_like", "realistictorches:unlit_torch")
+    event.add("kubejs:torch_like", "#supplementaries:sconces")
+})

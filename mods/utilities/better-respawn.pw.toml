@@ -1,0 +1,13 @@
+name = "Better Respawn"
+filename = "../better-respawn-forge-1.20.1-2.0.4.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/ZUQINcGy/versions/8jy5CAJM/better-respawn-forge-1.20.1-2.0.4.jar"
+hash-format = "sha1"
+hash = "d295352c18e2fdf1f6168d33eca3af7a7183ad92"
+
+[update]
+[update.modrinth]
+mod-id = "ZUQINcGy"
+version = "8jy5CAJM"

@@ -1,0 +1,13 @@
+name = "PaperDoll"
+filename = "../paperdoll-forge-1.2.5-mc1.20.1.jar"
+side = "client"
+
+[download]
+url = "https://cdn.modrinth.com/data/edwFXb9k/versions/stMYZR7P/paperdoll-forge-1.2.5-mc1.20.1.jar"
+hash-format = "sha1"
+hash = "7e55b195d3d36f98b2049cfe1e88fd4bddb51a63"
+
+[update]
+[update.modrinth]
+mod-id = "edwFXb9k"
+version = "stMYZR7P"

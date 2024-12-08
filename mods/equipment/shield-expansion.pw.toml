@@ -1,0 +1,13 @@
+name = "Shield Expansion"
+filename = "../ShieldExpansion-1.20.1-1.1.7a.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/sjxWxSao/versions/8mpKmudC/ShieldExpansion-1.20.1-1.1.7a.jar"
+hash-format = "sha1"
+hash = "70534f52698508a4995f7d3aa62d75a231c01d46"
+
+[update]
+[update.modrinth]
+mod-id = "sjxWxSao"
+version = "8mpKmudC"

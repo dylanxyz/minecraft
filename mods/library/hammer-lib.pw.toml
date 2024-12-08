@@ -1,0 +1,13 @@
+name = "HammerLib"
+filename = "../HammerLib-1.20.1-20.1.33.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/PlkSuVtM/versions/wCwGFxoH/HammerLib-1.20.1-20.1.33.jar"
+hash-format = "sha1"
+hash = "035e93987f5a094f7bd88d7a4765b1f4c671ed8f"
+
+[update]
+[update.modrinth]
+mod-id = "PlkSuVtM"
+version = "wCwGFxoH"

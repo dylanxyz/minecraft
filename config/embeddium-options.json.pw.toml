@@ -1,0 +1,7 @@
+name = "embeddium-options.json"
+filename = "embeddium-options.json"
+
+[download]
+hash = "1e4739675f1b835bd30752ba9959bcea335a2200110ba6491e290564687e0561"
+hash-format = "sha256"
+url = "https://raw.githubusercontent.com/dylanxyz/minecraft/main/external/config/embeddium-options.json"

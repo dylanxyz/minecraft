@@ -1,0 +1,7 @@
+name = "embeddium-mixins.properties"
+filename = "embeddium-mixins.properties"
+
+[download]
+hash = "09ff183e061d93b79514bc171bf9118497578757e7a5c45946039487656e2619"
+hash-format = "sha256"
+url = "https://raw.githubusercontent.com/dylanxyz/minecraft/main/external/config/embeddium-mixins.properties"

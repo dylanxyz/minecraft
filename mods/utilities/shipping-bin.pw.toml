@@ -1,0 +1,13 @@
+name = "Shipping Bin"
+filename = "../ShippingBin-forge-1.20.1-4.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/z4LpKjxY/versions/8uRbP1Qr/ShippingBin-forge-1.20.1-4.jar"
+hash-format = "sha1"
+hash = "3467709775e63054b0c1a544e3dbf998ebac3f9a"
+
+[update]
+[update.modrinth]
+mod-id = "z4LpKjxY"
+version = "8uRbP1Qr"

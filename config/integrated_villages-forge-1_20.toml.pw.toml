@@ -1,0 +1,7 @@
+name = "integrated_villages-forge-1_20.toml"
+filename = "integrated_villages-forge-1_20.toml"
+
+[download]
+hash = "44e3e7b7a0cfe5b2c7f9424de4d64a7a269d8eb51684e7b74c03d620e3285868"
+hash-format = "sha256"
+url = "https://raw.githubusercontent.com/dylanxyz/minecraft/main/external/config/integrated_villages-forge-1_20.toml"

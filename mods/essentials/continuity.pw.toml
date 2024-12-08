@@ -1,0 +1,18 @@
+name = "Continuity"
+filename = "../continuity-3.0.0+1.20.1.jar"
+side = "client"
+
+[download]
+url = "https://cdn.modrinth.com/data/1IjD5062/versions/v5neXlrJ/continuity-3.0.0%2B1.20.1.jar"
+hash-format = "sha1"
+hash = "b9b3908c93efed3da5ad7caaf733b9d5b678c85f"
+
+[update]
+[update.modrinth]
+mod-id = "1IjD5062"
+version = "v5neXlrJ"
+
+[option]
+optional = true
+description = "Ative esse mod para ter texturas conectadas."
+default = true

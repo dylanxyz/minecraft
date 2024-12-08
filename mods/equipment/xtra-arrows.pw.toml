@@ -1,0 +1,13 @@
+name = "Xtra Arrows"
+filename = "../xtraarrows-3.0.10.1-forge-mc1.20.1.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/NROnqTK4/versions/rYk8pTxQ/xtraarrows-3.0.10.1-forge-mc1.20.1.jar"
+hash-format = "sha1"
+hash = "d2b70ab50f7793626754dcb50bfb049859328474"
+
+[update]
+[update.modrinth]
+mod-id = "NROnqTK4"
+version = "rYk8pTxQ"

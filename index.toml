@@ -49,20 +49,8 @@ metafile = true
 preserve = true
 
 [[files]]
-file = "config/incontrol/phases.json.pw.toml"
-hash = "e4456ab7e6efb1fbc16c7fe9fec14a53451afb60b119f6781cbd6d5d7a72b9bd"
-metafile = true
-preserve = true
-
-[[files]]
 file = "config/incontrol/spawn.json.pw.toml"
 hash = "65f562d5a6a56944292a68758f3e784eb1e5c773d002de31200424c35f992899"
-metafile = true
-preserve = true
-
-[[files]]
-file = "config/incontrol/spawner.json.pw.toml"
-hash = "23ef37af150c441ea08ce63f241d63344b993465e6b7d931254c7f88421ae48b"
 metafile = true
 preserve = true
 
@@ -1027,7 +1015,7 @@ metafile = true
 
 [[files]]
 file = "mods/utilities/ryoamiclights.pw.toml"
-hash = "93ff74a0717a259cf31da3baa0daa361fbeedcbc6d5a25faaff731d09352d825"
+hash = "bf909fe5cb4e7f3dce95f596e23d6ff0a3cc9e94149a5035b60fead7d56047ca"
 metafile = true
 
 [[files]]

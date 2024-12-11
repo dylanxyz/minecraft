@@ -1,0 +1,10 @@
+{
+    "type": "emi:world_interaction",
+    "left": "item:minecraft:flint",
+    "right": "#item:forge:stone",
+    "output": {
+        "id": "notreepunching:flint_shard",
+        "type": "item",
+        "chance": 0.5
+    }
+}

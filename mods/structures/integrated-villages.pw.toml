@@ -1,0 +1,13 @@
+name = "Integrated Villages"
+filename = "../integrated_villages-1.0.1+1.20.1-forge.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/o1qh5qIF/versions/B2prsD6p/integrated_villages-1.0.1%2B1.20.1-forge.jar"
+hash-format = "sha1"
+hash = "a9b33d211c7dca475829702222055e70207b2fe7"
+
+[update]
+[update.modrinth]
+mod-id = "o1qh5qIF"
+version = "B2prsD6p"

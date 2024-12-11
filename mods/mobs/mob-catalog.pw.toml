@@ -1,0 +1,13 @@
+name = "Mob Catalog"
+filename = "../mobcatalog-1.0.8+1.20.1.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/mzD0SMDk/versions/xuMt3nEc/mobcatalog-1.0.8%2B1.20.1.jar"
+hash-format = "sha1"
+hash = "96b5114c40d4af211ba09b80c65ac52dbe3afbba"
+
+[update]
+[update.modrinth]
+mod-id = "mzD0SMDk"
+version = "xuMt3nEc"

@@ -1,0 +1,6 @@
+{
+    "type": "emi:world_interaction",
+    "left": "#item:forge:tools/knives",
+    "right": "item:minecraft:grass",
+    "output": "item:notreepunching:plant_fiber"
+}

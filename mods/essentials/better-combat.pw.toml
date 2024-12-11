@@ -5,9 +5,8 @@ side = "both"
 [download]
 url = "https://cdn.modrinth.com/data/5sy6g3kz/versions/UjlaL0Fm/bettercombat-forge-1.8.6%2B1.20.1.jar"
 hash-format = "sha1"
-hash = "b191f3f95c9d75f552508b683d0a1dccdcfc4026"
+hash = "70c20cd81a4051b2ad4289ff6522e80b397d7b3d"
 
-[update]
 [update.modrinth]
 mod-id = "5sy6g3kz"
 version = "UjlaL0Fm"

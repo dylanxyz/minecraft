@@ -2,40 +2,79 @@
     "version": "2.0.0",
     "tasks": [
         {
-            "label": "Add mod (Modrinth)",
+            "label": "Modrinth: Add addon",
             "type": "shell",
-            "command": ["packwiz", "-y", "modrinth", "install", "${input:modspec}", "--meta-folder", "mods/${input:category}"],
+            "command": [
+                "deno", "--allow-env", "--allow-read", "--allow-write", "--allow-sys", "--allow-run",
+                "${workspaceFolder}/scripts/install.ts",
+                "modrinth", "${input:category}", "${input:modspec}"
+            ],
             "icon": {
                 "id": "cloud-download",
                 "color": "terminal.ansiGreen"
             }
         },
         {
-            "label": "Add mod (CurseForge)",
+            "label": "CurseForge: Add addon",
             "type": "shell",
-            "command": ["packwiz", "-y", "curseforge", "add", "${input:modspec}", "--meta-folder", "mods/${input:category}"],
+            "command": [
+                "deno", "--allow-env", "--allow-read", "--allow-write", "--allow-sys", "--allow-run",
+                "${workspaceFolder}/scripts/install.ts",
+                "curseforge", "${input:category}", "${input:modspec}"
+            ],
             "icon": {
                 "id": "cloud-download",
                 "color": "terminal.ansiYellow"
             }
         },
         {
-            "label": "Packwiz Refresh",
+            "label": "Packwiz: Refresh",
             "type": "shell",
             "command": ["packwiz", "refresh"],
             "icon": {
                 "id": "refresh",
-                "color": "terminal.ansiWhite"
+                "color": "terminal.ansiMagenta"
             },
             "dependsOn": ["scripts.update"],
             "dependsOrder": "sequence"
         },
         {
+            "label": "Packwiz: Update",
+            "type": "shell",
+            "command": ["packwiz", "update", "--all"],
+            "icon": {
+                "id": "repo-pull",
+                "color": "terminal.ansiMagenta"
+            },
+            "dependsOn": ["packwiz.update", "scripts.update"],
+            "dependsOrder": "sequence"
+        },
+        {
+            "label": "Packwiz: Serve",
+            "type": "shell",
+            "command": ["packwiz", "serve", "-p", "8000"],
+            "icon": {
+                "id": "flame",
+                "color": "terminal.ansiMagenta"
+            },
+            "dependsOn": ["packwiz.update", "scripts.update"],
+            "dependsOrder": "sequence"
+        },
+        {
             "label": "scripts.update",
             "type": "shell",
-            "command": ["julia", "scripts/config.jl"],
+            "command": [
+                "deno", "--allow-env", "--allow-read", "--allow-write", "--allow-sys", "--allow-run",
+                "${workspaceFolder}/scripts/update.ts"
+            ],
             "hide": true
-        }
+        },
+        {
+            "label": "packwiz.update",
+            "type": "shell",
+            "command": ["packwiz", "-y", "update", "--all"],
+            "hide": true
+        },
     ],
     "inputs": [
         {

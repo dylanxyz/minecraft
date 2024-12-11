@@ -1,0 +1,66 @@
+{
+    "version": "2.0.0",
+    "tasks": [
+        {
+            "label": "Add mod (Modrinth)",
+            "type": "shell",
+            "command": ["packwiz", "-y", "modrinth", "install", "${input:modspec}", "--meta-folder", "mods/${input:category}"],
+            "icon": {
+                "id": "cloud-download",
+                "color": "terminal.ansiGreen"
+            }
+        },
+        {
+            "label": "Add mod (CurseForge)",
+            "type": "shell",
+            "command": ["packwiz", "-y", "curseforge", "add", "${input:modspec}", "--meta-folder", "mods/${input:category}"],
+            "icon": {
+                "id": "cloud-download",
+                "color": "terminal.ansiYellow"
+            }
+        },
+        {
+            "label": "Packwiz Refresh",
+            "type": "shell",
+            "command": ["packwiz", "refresh"],
+            "icon": {
+                "id": "refresh",
+                "color": "terminal.ansiWhite"
+            },
+            "dependsOn": ["scripts.update"],
+            "dependsOrder": "sequence"
+        },
+        {
+            "label": "scripts.update",
+            "type": "shell",
+            "command": ["julia", "scripts/config.jl"],
+            "hide": true
+        }
+    ],
+    "inputs": [
+        {
+            "id": "modspec",
+            "type": "promptString",
+            "description": "Mod source (ID, URL, Slug...)"
+        },
+        {
+            "id": "category",
+            "type": "pickString",
+            "description": "The category to add to",
+            "options": [
+                "create",
+                "equipment",
+                "essentials",
+                "interface",
+                "library",
+                "mechanics",
+                "misc",
+                "mobs",
+                "performance",
+                "structures",
+                "utilities",
+                "world"
+            ]
+        }
+    ]
+}

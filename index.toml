@@ -1,0 +1,116 @@
+hash-format = "sha256"
+
+[[files]]
+file = "mods/essentials/ambientsounds.pw.toml"
+hash = "3a08d3d7ffc6283b21985e4492accbc5c8964fbc8796562bbf886cd3c775364d"
+metafile = true
+
+[[files]]
+file = "mods/essentials/amendments.pw.toml"
+hash = "7061bb10d1f171d4004583bd33b34d9c4996c9f09fc8129a5a15efcbe9b888f0"
+metafile = true
+
+[[files]]
+file = "mods/essentials/architectury-api.pw.toml"
+hash = "64aa2ef8a6dbcd44ee8c7ab1cf6500dfdea20ee6bfdba0d77f76a198c14793da"
+metafile = true
+
+[[files]]
+file = "mods/essentials/better-animations-collection.pw.toml"
+hash = "6994598c91006698c4b01d9f3532b989d5da0ca594345ea65e97f01bd301e11a"
+metafile = true
+
+[[files]]
+file = "mods/essentials/better-combat.pw.toml"
+hash = "d6eeaecdf975ff4afc924d2aa95687741598d82d8b1cbb989c6a2e769b9ac23f"
+metafile = true
+
+[[files]]
+file = "mods/essentials/carry-on.pw.toml"
+hash = "188b54dc995936a318ed71d4510bc1c4b07da3a38b3e5adc64d5c2e69382aaa9"
+metafile = true
+
+[[files]]
+file = "mods/essentials/cloth-config.pw.toml"
+hash = "64abcce089fb56fcc285547fb2367d2eec3ac68758c88712474da7ddc17d16b5"
+metafile = true
+
+[[files]]
+file = "mods/essentials/corpse.pw.toml"
+hash = "927c153cf3b52880fb4fe758a8c74115655747f2db1eaba60a659559f54da31d"
+metafile = true
+
+[[files]]
+file = "mods/essentials/farmers-delight.pw.toml"
+hash = "de1a6e176ee24cb9c8b4723bdba507cab1b28c296d26a2d862956fd455db025e"
+metafile = true
+
+[[files]]
+file = "mods/essentials/inventory-essentials.pw.toml"
+hash = "1b13640069d088b368cdeaaed5abcfcbfa5f1c96796702642fc049aae75c6bc4"
+metafile = true
+
+[[files]]
+file = "mods/essentials/itemphysic-lite.pw.toml"
+hash = "26899e3ef8107f42065c5a639c6e6349f0d471c74c88c36951cc32e6c663e00e"
+metafile = true
+
+[[files]]
+file = "mods/essentials/jade-addons-forge.pw.toml"
+hash = "45728f2c96cf67390f3c7448dc314bdfc29dc8d5869364b718756527f3c1392a"
+metafile = true
+
+[[files]]
+file = "mods/essentials/jade.pw.toml"
+hash = "7276cdb6b116a545e425d0d1bf201b2a8190891fa0e9b677cfbbe3e625104938"
+metafile = true
+
+[[files]]
+file = "mods/essentials/map-atlases-forge.pw.toml"
+hash = "a00605418bb46daef01c89b7ded2c0002dbdcb1a9431c90a322dd4e7bd7c8748"
+metafile = true
+
+[[files]]
+file = "mods/essentials/more-mob-variants.pw.toml"
+hash = "dc120cee5bfc34accc5a9389e3858355ee802a8b79927cb92cc6b7341c48a144"
+metafile = true
+
+[[files]]
+file = "mods/essentials/mouse-tweaks.pw.toml"
+hash = "fa3c9c407b1d9766929f5aa822e7873b4abe671ffc7ebcdc5031ef208accb409"
+metafile = true
+
+[[files]]
+file = "mods/essentials/not-enough-animations.pw.toml"
+hash = "3810f805df1a23f751e3985c1fe3206809f972719d228ddf69e0ee38cb7c5456"
+metafile = true
+
+[[files]]
+file = "mods/essentials/oculus.pw.toml"
+hash = "be98611a5c24767e985bc1e3e2bc43d11b31b41ef8a2c5b6b768dbbffd8ae06a"
+metafile = true
+
+[[files]]
+file = "mods/essentials/parcool.pw.toml"
+hash = "45d35f74c6cedc3a6b0dfd2d6686ba484ea0188123d659508616cb3a50b95a0c"
+metafile = true
+
+[[files]]
+file = "mods/essentials/rei.pw.toml"
+hash = "6581f075787992520b76304c1433f704887807a405f92f2c99658c7e6ae2f1c3"
+metafile = true
+
+[[files]]
+file = "mods/essentials/roughly-enough-items-hacks.pw.toml"
+hash = "034cc2003186c1911df61f7a36469d7e8b84f7d92c15f6e4e81fec464902d510"
+metafile = true
+
+[[files]]
+file = "mods/essentials/thirst-was-taken.pw.toml"
+hash = "9f6ba386032e73d205c870b7a71d6c06575088306be0b74cbfc1481ec24a283e"
+metafile = true
+
+[[files]]
+file = "mods/essentials/treechop.pw.toml"
+hash = "28338683a820169965b741c5bf8c331b5c3d0e77ec0da681f6c64face100ca85"
+metafile = true

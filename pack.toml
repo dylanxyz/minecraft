@@ -1,0 +1,13 @@
+name = "Modpack"
+author = "Jorge Pereira"
+version = "0.0.1"
+pack-format = "packwiz:1.1.0"
+
+[index]
+file = "index.toml"
+hash-format = "sha256"
+hash = "f03cdd058bffe3aea2b04b8dddccd45532c3899b805419239a0298b25d7a7a63"
+
+[versions]
+forge = "47.3.12"
+minecraft = "1.20.1"

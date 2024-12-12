@@ -22,7 +22,7 @@ preserve = true
 
 [[files]]
 file = "config/embeddium++.toml"
-hash = "add38532ee3a87a9735e077f193ad73ba206eb1de76a35fe8f1b7f33a62dc020"
+hash = "ff489e0e216629c3adaf3b6d9f92047be7d13e26c12238923cc2be42c981421c"
 preserve = true
 
 [[files]]
@@ -32,7 +32,7 @@ preserve = true
 
 [[files]]
 file = "config/embeddium-options.json"
-hash = "7acb6f00adc70fefec0b470fdd90f15ab871e23ba82c14e018ac53711c4a1154"
+hash = "b78e1a745d5080dc2e50dd192982aeb59f32b1645626b77ac38a2b725ea52122"
 preserve = true
 
 [[files]]
@@ -802,11 +802,6 @@ hash = "beca9dc64c3735c027d25251a4de33f4fd00bd9a3abeb774cc50f4c7aacf575f"
 metafile = true
 
 [[files]]
-file = "mods/mobs/the-doppelganger.pw.toml"
-hash = "f2a003686b1a2a5ab18063c291531f55fd6f4f1dc057f01ebd2e888d186197e5"
-metafile = true
-
-[[files]]
 file = "mods/performance/achievements-optimizer.pw.toml"
 hash = "150a4120db05ba03739f5c5a5961d5bf2c12e432d5bf5ee9f407d1af8de0610a"
 metafile = true
@@ -1043,7 +1038,7 @@ metafile = true
 
 [[files]]
 file = "options.txt"
-hash = "9f2b6d0297ebf2dcea6e578b2622ca22361c6c9ad31e2c10478076bf9e7cb7c3"
+hash = "d44a83e20a0b7dcc69d2e82576fc62c5e1a34eb3a61ee02de6566e0f48dcaccf"
 preserve = true
 
 [[files]]
@@ -1113,3 +1108,13 @@ metafile = true
 file = "shaderpacks/ComplementaryReimagined_r5.3.zip.txt"
 hash = "e65100ef59e5a0876de63dcb57068b38d1fca562d34f875f25cc33bd55f2ce27"
 preserve = true
+
+[[files]]
+file = "shaderpacks/complementary-reimagined.pw.toml"
+hash = "f18e6196d79be05795c41658af6ea9ad77457bb65058bdd65a0ef5d3c6f30ca0"
+metafile = true
+
+[[files]]
+file = "shaderpacks/potato-shaders.pw.toml"
+hash = "8d82e4d8a24d901d5607eb5e329e7618e50d6f3f95806b61dac7a8edee999d3a"
+metafile = true

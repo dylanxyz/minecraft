@@ -4,4 +4,7 @@
 /scripts
 /external
 /mods/.disabled
+/node_modules
+deno.json
+deno.lock
 README.md

@@ -90,14 +90,6 @@ hash = "49273a00f74ddd44caf9c717f5dd644165a3d441c613692561625d27d430ced4"
 preserve = true
 
 [[files]]
-file = "deno.json"
-hash = "da86596410f70bd8ec2c4a4a1873baebff7c3e32a2e1a1e7e07d07e17d35f341"
-
-[[files]]
-file = "deno.lock"
-hash = "c5dea80f8995a77ebe474408299bec047fa8974294e8b0d2bdc4bc45e8b44ab2"
-
-[[files]]
 file = "kubejs/README.txt"
 hash = "989f3737ae4621b8ff6730bce4cbeeee756921e7e510e0c281c8a350501d98af"
 
@@ -595,11 +587,6 @@ hash = "538a237153f1f8c087d2f12af99395a0c9306b242545eea73c6d73a15eb5d7a7"
 metafile = true
 
 [[files]]
-file = "mods/mechanics/butchery.pw.toml"
-hash = "9fe2d3c91cb239a56ef68b6318919d43b4816f6ff5a6789ee55cedfb0732513c"
-metafile = true
-
-[[files]]
 file = "mods/mechanics/cold-sweat.pw.toml"
 hash = "e686af728b75ad10d97c4a12f153f9728ee3d8fca7c1ce42f1f6219c46ff13f6"
 metafile = true
@@ -667,11 +654,6 @@ metafile = true
 [[files]]
 file = "mods/misc/accelerated-decay.pw.toml"
 hash = "89f05714c3ddfb763a50fa7a1462da7deff3c2e30c9c431063414b12e29249c3"
-metafile = true
-
-[[files]]
-file = "mods/misc/another-furniture.pw.toml"
-hash = "e446581dd7a2cdab0af94549aa8bb5728396f426176107b678e0acc3c6500686"
 metafile = true
 
 [[files]]
@@ -1051,7 +1033,7 @@ metafile = true
 
 [[files]]
 file = "options.txt"
-hash = "1570df44c1b57b47f3a8fab2caea81d64b9917a1c972ff92a807025633fc3df6"
+hash = "cc057422e75573dd880b7a60c41f4694fa8862c8a9e4f2167ef6758f9d086e7a"
 preserve = true
 
 [[files]]

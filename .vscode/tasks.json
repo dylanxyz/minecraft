@@ -3,43 +3,29 @@
     "tasks": [
         {
             "label": "Modrinth: Add addon",
-            "type": "shell",
-            "command": [
-                "deno",
-                "--allow-env",
-                "--allow-read",
-                "--allow-write",
-                "--allow-sys",
-                "--allow-run",
-                "${workspaceFolder}/scripts/install.ts",
-                "modrinth",
-                "${input:category}",
-                "${input:modspec}"
-            ],
             "icon": {
                 "id": "cloud-download",
                 "color": "terminal.ansiGreen"
-            }
+            },
+            "dependsOn": [
+                "scripts.modrinth.add",
+                "packwiz.refresh"
+            ],
+            "dependsOrder": "sequence",
+            "problemMatcher": []
         },
         {
             "label": "CurseForge: Add addon",
-            "type": "shell",
-            "command": [
-                "deno",
-                "--allow-env",
-                "--allow-read",
-                "--allow-write",
-                "--allow-sys",
-                "--allow-run",
-                "${workspaceFolder}/scripts/install.ts",
-                "curseforge",
-                "${input:category}",
-                "${input:modspec}"
-            ],
             "icon": {
                 "id": "cloud-download",
                 "color": "terminal.ansiYellow"
-            }
+            },
+            "dependsOn": [
+                "scripts.curseforge.add",
+                "packwiz.refresh"
+            ],
+            "dependsOrder": "sequence",
+            "problemMatcher": []
         },
         {
             "label": "Packwiz: Refresh",
@@ -118,6 +104,40 @@
             "command": [
                 "packwiz",
                 "refresh"
+            ],
+            "hide": true
+        },
+        {
+            "label": "scripts.modrinth.add",
+            "type": "shell",
+            "command": [
+                "deno",
+                "--allow-env",
+                "--allow-read",
+                "--allow-write",
+                "--allow-sys",
+                "--allow-run",
+                "${workspaceFolder}/scripts/install.ts",
+                "modrinth",
+                "${input:category}",
+                "${input:modspec}"
+            ],
+            "hide": true
+        },
+        {
+            "label": "scripts.curseforge.add",
+            "type": "shell",
+            "command": [
+                "deno",
+                "--allow-env",
+                "--allow-read",
+                "--allow-write",
+                "--allow-sys",
+                "--allow-run",
+                "${workspaceFolder}/scripts/install.ts",
+                "curseforge",
+                "${input:category}",
+                "${input:modspec}"
             ],
             "hide": true
         }

@@ -2,3 +2,4 @@
 * -text
 index.toml merge=ours
 pack.toml merge=ours
+config\resourcepackoverrides.json merge=ours

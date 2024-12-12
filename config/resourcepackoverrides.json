@@ -1,15 +1,7 @@
 {
     "schema_version": 2,
     "failed_reloads_per_session": 5,
-    "default_packs": [
-        "file/cna-refrubished-0.2.zip",
-        "file/Detail-Brush-1.6-1.20.zip",
-        "file/waystones_1.20.zip",
-        "file/Improved Crafting Table V1.0.zip",
-        "file/No Enchant Glint 1.20.1.zip",
-        "file/Fast Better Grass.zip",
-        "file/modpackfix"
-    ],
+    "default_packs": [],
     "default_overrides": {
         "force_compatible": true
     },
@@ -22,19 +14,6 @@
             "default_position": "BOTTOM",
             "force_compatible": true,
             "fixed_position": false
-        },
-        "1": [
-            "file/cna-refrubished-0.2.zip",
-            "file/Detail-Brush-1.6-1.20.zip",
-            "file/waystones_1.20.zip",
-            "file/Improved Crafting Table V1.0.zip",
-            "file/No Enchant Glint 1.20.1.zip",
-            "file/Fast Better Grass.zip",
-            "file/modpackfix"
-        ],
-        "$$1": {
-            "hidden": true,
-            "required": true
         }
     }
 }

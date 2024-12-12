@@ -5,7 +5,7 @@ autoSuggestions:true
 chatColors:true
 chatLinks:true
 chatLinksPrompt:true
-enableVsync:true
+enableVsync:false
 entityShadows:true
 forceUnicodeFont:false
 discrete_mouse_scroll:false
@@ -31,18 +31,18 @@ glintStrength:0.75
 damageTiltStrength:1.0
 highContrast:false
 gamma:0.6
-renderDistance:18
+renderDistance:12
 simulationDistance:10
-entityDistanceScaling:1.0
-guiScale:3
-particles:0
+entityDistanceScaling:0.75
+guiScale:2
+particles:2
 maxFps:260
-graphicsMode:1
-ao:true
+graphicsMode:0
+ao:false
 prioritizeChunkUpdates:0
 biomeBlendRadius:2
-renderClouds:"true"
-resourcePacks:["vanilla","mod_resources","Moonlight Mods Dynamic Assets","file/3.3.1v_VisualEnchantments.zip","file/Fancy_Beds-v3.4.zip","file/Detail-Brush-1.6-1.20.zip","file/Improved Crafting Table V1.0.zip","file/GEO - v1.23.0.zip","file/No Enchant Glint 1.20.1.zip","file/cna-refrubished-0.2.zip","file/Fast Better Grass.zip","file/modpackfix","file/Unique Dark 1.20.1 (free).zip","file/waystones_1.20.zip","fabric"]
+renderClouds:"false"
+resourcePacks:["vanilla","mod_resources","Moonlight Mods Dynamic Assets","file/Fast Better Grass.zip"]
 incompatibleResourcePacks:[]
 lastServer:
 lang:pt_br
@@ -63,7 +63,7 @@ chatHeightUnfocused:0.4375
 chatScale:1.0
 chatWidth:1.0
 notificationDisplayTime:1.0
-mipmapLevels:3
+mipmapLevels:2
 useNativeTransport:true
 mainHand:"right"
 attackIndicator:1
@@ -129,10 +129,6 @@ key_key.curios.open.desc:key.keyboard.unknown
 key_iris.keybind.reload:key.keyboard.unknown
 key_iris.keybind.toggleShaders:key.keyboard.unknown
 key_iris.keybind.shaderPackSelection:key.keyboard.o
-key_key.scguns.reload:key.keyboard.r
-key_key.scguns.unload:key.keyboard.u
-key_key.scguns.attachments:key.keyboard.z
-key_key.scguns.melee:key.mouse.middle
 key_key.veinmining.activate.desc:key.keyboard.unknown
 key_key.travelersbackpack.inventory:key.keyboard.b
 key_key.travelersbackpack.sort:key.keyboard.unknown
@@ -176,8 +172,6 @@ key_artifacts.key.universal_attractor.toggle:key.keyboard.unknown
 key_key.inventorysorter.itemin:key.mouse.100
 key_key.inventorysorter.itemout:key.mouse.102
 key_key.inventorysorter.sort:key.mouse.middle
-key_key.butcher.villagernosepress:key.keyboard.backslash
-key_key.butcher.pillagernosepress:key.keyboard.apostrophe
 key_key.mca.skin_library:key.keyboard.p
 key_ping-wheel.key.ping-location:key.mouse.5
 key_ping-wheel.key.open-settings:key.keyboard.unknown

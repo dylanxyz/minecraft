@@ -22,7 +22,7 @@ preserve = true
 
 [[files]]
 file = "config/embeddium++.toml"
-hash = "add38532ee3a87a9735e077f193ad73ba206eb1de76a35fe8f1b7f33a62dc020"
+hash = "c45cbf0970a60ce28be5637d88a34e04d3594110176d886639343524d1bdcd1b"
 preserve = true
 
 [[files]]
@@ -32,7 +32,7 @@ preserve = true
 
 [[files]]
 file = "config/embeddium-options.json"
-hash = "1e4739675f1b835bd30752ba9959bcea335a2200110ba6491e290564687e0561"
+hash = "2d6b0cc746a7524c55237472e3186f85357104c5c3a19a10defb66f6112bf778"
 preserve = true
 
 [[files]]
@@ -82,7 +82,7 @@ preserve = true
 
 [[files]]
 file = "config/resourcepackoverrides.json"
-hash = "676bb18e491e7b890c0b71ff2ca922bc903ab041ebf64bb807a0f16619064fe3"
+hash = "dafe5830bcfa72bd47cbeb7cbe720128f26fa61ae0f38cd44155a09309491142"
 
 [[files]]
 file = "defaultconfigs/hourglass-server.toml"
@@ -257,11 +257,6 @@ hash = "969d8daec1544fdfb4466538515a53114e5c31eab38b66bb7b1e7281c46ad867"
 metafile = true
 
 [[files]]
-file = "mods/equipment/scorched-guns-2.pw.toml"
-hash = "a7e179e36fe97fa7c152860827043204ddd262310a726a6c900ce44877967b85"
-metafile = true
-
-[[files]]
 file = "mods/equipment/shield-expansion.pw.toml"
 hash = "532f608a38703fdf86e5243e957629304f80ee2bf708c6c7e37aa9735758e58a"
 metafile = true
@@ -309,11 +304,6 @@ metafile = true
 [[files]]
 file = "mods/essentials/carry-on.pw.toml"
 hash = "188b54dc995936a318ed71d4510bc1c4b07da3a38b3e5adc64d5c2e69382aaa9"
-metafile = true
-
-[[files]]
-file = "mods/essentials/continuity.pw.toml"
-hash = "66d7043c66f09b249011cb555462687854c5c6f7111aad243a2c29a358b6256d"
 metafile = true
 
 [[files]]
@@ -368,7 +358,7 @@ metafile = true
 
 [[files]]
 file = "mods/essentials/oculus.pw.toml"
-hash = "6bd1361e99583052f41dac17f6295ae8afa97b88065b4a055b0f9d67ed490d90"
+hash = "4fa6c5527ab25eb7cc2097183f68fda9513832e56fd30df8e75519a51eb39804"
 metafile = true
 
 [[files]]
@@ -467,11 +457,6 @@ hash = "0aa28b4588606cb80966697f4a8201cf940594f26b4b0bf882b9ec5225789adc"
 metafile = true
 
 [[files]]
-file = "mods/library/connector.pw.toml"
-hash = "85dd2965ba267e1cdc84e8504f0740a5ce430152166a427ae7d99cc1e004f971"
-metafile = true
-
-[[files]]
 file = "mods/library/creativecore.pw.toml"
 hash = "8fabff2554779bf685085ce8a7a1d250068b6a29a7a7ac7e517615e2da3c7188"
 metafile = true
@@ -484,21 +469,6 @@ metafile = true
 [[files]]
 file = "mods/library/curios.pw.toml"
 hash = "189a8b53a9d78345804171a599a77bccce389a7b96863c0541929ba3af472f83"
-metafile = true
-
-[[files]]
-file = "mods/library/forge-cit.pw.toml"
-hash = "e411de7544240fe8614c53ccac5be724770a0f26fcbaf23ac39b98ed21c5750c"
-metafile = true
-
-[[files]]
-file = "mods/library/forgified-fabric-api.pw.toml"
-hash = "0e413f1eab9f5c0e5c5cf872e5a5cea654fcd1491900ffd80e13c0ffd5318b93"
-metafile = true
-
-[[files]]
-file = "mods/library/framework.pw.toml"
-hash = "bc7880e2aa71e4d759bcb99dc9a3baef647d6ed6aaed83dc1d15c719bbb7c849"
 metafile = true
 
 [[files]]
@@ -659,11 +629,6 @@ metafile = true
 [[files]]
 file = "mods/misc/automobility.pw.toml"
 hash = "4e969399064d3cd8962adc2f8a52b1172aaa5f69fc97b56557213c14f48155ee"
-metafile = true
-
-[[files]]
-file = "mods/misc/cave-dust.pw.toml"
-hash = "84c45075d274350b1e6416fd7e14fb4b29d9a6f5d87f730f3f4081bcbe260983"
 metafile = true
 
 [[files]]
@@ -832,6 +797,11 @@ hash = "210d01af05ce9747984e360f4775fedb7a24024b132fbd9138858ebf78f2bf71"
 metafile = true
 
 [[files]]
+file = "mods/performance/fastboot.pw.toml"
+hash = "6f2effdd571122d8bfc773b7320902e8266db51020f0b019f93739b10ce55a82"
+metafile = true
+
+[[files]]
 file = "mods/performance/ferrite-core.pw.toml"
 hash = "1536803a2e20807d6baa8c5d65cb1f1f6485393265bc34d935178d240f3c17a8"
 metafile = true
@@ -843,7 +813,7 @@ metafile = true
 
 [[files]]
 file = "mods/performance/iris-flw-compat.pw.toml"
-hash = "a1e98d26682ec503ec09b467b70c2acd788c3348c5978ca454a0d24b16306891"
+hash = "15eb327f371b82c6a1cd9b3f9ac5e3c982dfa6fa49b0e83c9af7c8c9cbc83fc3"
 metafile = true
 
 [[files]]
@@ -917,11 +887,6 @@ hash = "388cc190e2d94bdab422b0ade04c5e3531268a5c576b5087bab44d3fbdd86b49"
 metafile = true
 
 [[files]]
-file = "mods/utilities/biome-replacer.pw.toml"
-hash = "3b8e1760d5d2aa16547b6f240a99baab7f4e5de3cd9c2ba4b8c22bd77ba12516"
-metafile = true
-
-[[files]]
 file = "mods/utilities/bookshelf-lib.pw.toml"
 hash = "47ecb4300f32a6ec1dab556547601d6d343b702e60c0d44723458be401081945"
 metafile = true
@@ -932,18 +897,8 @@ hash = "0f8d91b2299eef4e90cca99c581c4fb92f1bcbe3de1859a76db4ffe0ee866a63"
 metafile = true
 
 [[files]]
-file = "mods/utilities/disable-structures.pw.toml"
-hash = "f733921b08119b47a7873329c666510514468f05bf84f61a3e08b1d5701b39e0"
-metafile = true
-
-[[files]]
 file = "mods/utilities/easy-anvils.pw.toml"
 hash = "fdf506c08a12fceede80e7fdd81db0cfa0e0e9ea65f38441bc89209c6526239f"
-metafile = true
-
-[[files]]
-file = "mods/utilities/easylan.pw.toml"
-hash = "1ca08a045d849685f6667f72183aac20523133c1027539c90ac1997cbc415c49"
 metafile = true
 
 [[files]]
@@ -983,7 +938,7 @@ metafile = true
 
 [[files]]
 file = "mods/utilities/resource-pack-overrides.pw.toml"
-hash = "653ff0a5357c4103fcf5fb04b2f64648472e74781f25bbbafa274633a19f05bd"
+hash = "e09781b654ab7072a5ea1f0ecfe35af51bc60840949fd0e926b3c91fc7d97a83"
 metafile = true
 
 [[files]]
@@ -1033,18 +988,8 @@ metafile = true
 
 [[files]]
 file = "options.txt"
-hash = "cc057422e75573dd880b7a60c41f4694fa8862c8a9e4f2167ef6758f9d086e7a"
+hash = "f63cb3cf551063a1f6c8d6ad0d83ff2cdea4a3315d54cf6d42b76a09fdd98116"
 preserve = true
-
-[[files]]
-file = "resourcepacks/create_new_age_refrubished.pw.toml"
-hash = "b83b4f10794469b11497e18590c9ddc2ae97641fc9f7fed193689b6c9eed2e0e"
-metafile = true
-
-[[files]]
-file = "resourcepacks/detail-brush.pw.toml"
-hash = "bb9a83ef6abb19b50328f22c94381c72a5cba89e3fd99c2a3a40770597e198ba"
-metafile = true
 
 [[files]]
 file = "resourcepacks/fancy-beds.pw.toml"
@@ -1057,46 +1002,8 @@ hash = "f71396b186ce5ecec39923831d890c2e70edc4dc2c65a6c07d70a77db9e77aa1"
 metafile = true
 
 [[files]]
-file = "resourcepacks/fresh-waystones-texture.pw.toml"
-hash = "1c5e6ffa19e42635cee1c67ddcb733dd2ec51d4abdd2f9a97230327d0982d160"
-metafile = true
-
-[[files]]
-file = "resourcepacks/glowing-emissive-ores.pw.toml"
-hash = "c36e117310ef2c3a57bff3d03e96d56c5d2ef24c93c3dd5641b2873c629f4a21"
-metafile = true
-
-[[files]]
-file = "resourcepacks/improved-crafting-table-squarzy.pw.toml"
-hash = "6e7ac2628d07769bb1458e91c0c00bc57e555c9b66ab7a5b2b2245ac3f9e2eff"
-metafile = true
-
-[[files]]
-file = "resourcepacks/modpackfix/assets/create_new_age/textures/block/thorium_ore_e.png"
-hash = "e3bc07c530e9107e081ac136299ada339ccaad1cc5f8ab39243915a1078d58e0"
-
-[[files]]
-file = "resourcepacks/modpackfix/pack.mcmeta"
-hash = "aa56be6f3d456e088058c70c428a5a2b3fce9654eb8a04147560feed0871e2fd"
-
-[[files]]
-file = "resourcepacks/no-enchant-glint.pw.toml"
-hash = "00974626850138f5cca69e8e7eeb8f6fbc6a5545519f69c2b6014c45936ae136"
-metafile = true
-
-[[files]]
 file = "resourcepacks/unique-dark.pw.toml"
 hash = "a125c5546e1f9784b3748fe6fcf44c897e5fd0545f2ad1a24fea9ce05f65bc50"
-metafile = true
-
-[[files]]
-file = "resourcepacks/visual-enchantments.pw.toml"
-hash = "62102793ce460b1490d5568b753933a4c20ac2567b8c5ce7e4ee36f92d1dec25"
-metafile = true
-
-[[files]]
-file = "resourcepacks/xalis-enhanced-vanilla.pw.toml"
-hash = "7ea46e054b0915e6534ffd28e718cba6edcece22c9829213d58eb3c12d0d36f7"
 metafile = true
 
 [[files]]

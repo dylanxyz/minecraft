@@ -983,7 +983,7 @@ metafile = true
 
 [[files]]
 file = "mods/utilities/resource-pack-overrides.pw.toml"
-hash = "e09781b654ab7072a5ea1f0ecfe35af51bc60840949fd0e926b3c91fc7d97a83"
+hash = "653ff0a5357c4103fcf5fb04b2f64648472e74781f25bbbafa274633a19f05bd"
 metafile = true
 
 [[files]]

@@ -10,3 +10,7 @@ hash = "fa3d92461bceb63439d33ab634e894d4b342599c"
 [update.modrinth]
 mod-id = "YsFycamt"
 version = "fw5ouviG"
+
+[option]
+optional = true
+default = true

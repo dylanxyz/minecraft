@@ -32,12 +32,12 @@ preserve = true
 
 [[files]]
 file = "config/embeddium-options.json"
-hash = "1e4739675f1b835bd30752ba9959bcea335a2200110ba6491e290564687e0561"
+hash = "7acb6f00adc70fefec0b470fdd90f15ab871e23ba82c14e018ac53711c4a1154"
 preserve = true
 
 [[files]]
 file = "config/incontrol/areas.json"
-hash = "0445b17c31769e5b7f9523ed2b882fa77d5dc9665a4a5ad05dd14f3b6b566a42"
+hash = "0239ab6b2c70e9d45a8aaeac92fcf375fcbea74838236dcafe12d469b00678b2"
 preserve = true
 
 [[files]]
@@ -254,11 +254,6 @@ metafile = true
 [[files]]
 file = "mods/equipment/nyfs-quivers.pw.toml"
 hash = "969d8daec1544fdfb4466538515a53114e5c31eab38b66bb7b1e7281c46ad867"
-metafile = true
-
-[[files]]
-file = "mods/equipment/scorched-guns-2.pw.toml"
-hash = "a7e179e36fe97fa7c152860827043204ddd262310a726a6c900ce44877967b85"
 metafile = true
 
 [[files]]
@@ -497,11 +492,6 @@ hash = "0e413f1eab9f5c0e5c5cf872e5a5cea654fcd1491900ffd80e13c0ffd5318b93"
 metafile = true
 
 [[files]]
-file = "mods/library/framework.pw.toml"
-hash = "bc7880e2aa71e4d759bcb99dc9a3baef647d6ed6aaed83dc1d15c719bbb7c849"
-metafile = true
-
-[[files]]
 file = "mods/library/fzzy-config.pw.toml"
 hash = "f1ee27776a5eacba786223c71fd00d56e945a42cd16eb139e0db478d455f1930"
 metafile = true
@@ -529,6 +519,11 @@ metafile = true
 [[files]]
 file = "mods/library/kotlin-for-forge.pw.toml"
 hash = "890a6d554fe317241bb60a1894038de071d68d6a90a725fac5693dd8c82ebd36"
+metafile = true
+
+[[files]]
+file = "mods/library/majrusz-library.pw.toml"
+hash = "9c5639291dc6056ef748ae3cc4ebaac17e675ce9e67fb5c8a2e7ade015f49bf6"
 metafile = true
 
 [[files]]
@@ -614,6 +609,11 @@ metafile = true
 [[files]]
 file = "mods/mechanics/irons-spells-n-spellbooks.pw.toml"
 hash = "c725379b0db02e005b782d529d171016a672f3d884c28ffbd9607045ef369831"
+metafile = true
+
+[[files]]
+file = "mods/mechanics/majruszs-progressive-difficulty.pw.toml"
+hash = "d0d60447ea6879db6297cac6f0b89bebeb5ffd41ac06731b5afae59f7da0558e"
 metafile = true
 
 [[files]]
@@ -782,6 +782,11 @@ hash = "9bbabace13a84584abacf3481acb3e6f5208921d7dd3ca836935b7e02cfa62c7"
 metafile = true
 
 [[files]]
+file = "mods/mobs/lethal-company-mobs.pw.toml"
+hash = "7966ed6ca574a4e856bd977667500c1cbe09396c68c13aa85d17fb500ebd065a"
+metafile = true
+
+[[files]]
 file = "mods/mobs/mob-catalog.pw.toml"
 hash = "630cefd1a9cc19bac3662cba81744e74bacf2d4ca56976e653ad2a07c964892c"
 metafile = true
@@ -794,6 +799,11 @@ metafile = true
 [[files]]
 file = "mods/mobs/spawn-mod.pw.toml"
 hash = "beca9dc64c3735c027d25251a4de33f4fd00bd9a3abeb774cc50f4c7aacf575f"
+metafile = true
+
+[[files]]
+file = "mods/mobs/the-doppelganger.pw.toml"
+hash = "f2a003686b1a2a5ab18063c291531f55fd6f4f1dc057f01ebd2e888d186197e5"
 metafile = true
 
 [[files]]
@@ -983,7 +993,7 @@ metafile = true
 
 [[files]]
 file = "mods/utilities/resource-pack-overrides.pw.toml"
-hash = "653ff0a5357c4103fcf5fb04b2f64648472e74781f25bbbafa274633a19f05bd"
+hash = "e09781b654ab7072a5ea1f0ecfe35af51bc60840949fd0e926b3c91fc7d97a83"
 metafile = true
 
 [[files]]
@@ -1033,7 +1043,7 @@ metafile = true
 
 [[files]]
 file = "options.txt"
-hash = "cc057422e75573dd880b7a60c41f4694fa8862c8a9e4f2167ef6758f9d086e7a"
+hash = "9f2b6d0297ebf2dcea6e578b2622ca22361c6c9ad31e2c10478076bf9e7cb7c3"
 preserve = true
 
 [[files]]

@@ -42,7 +42,7 @@ ao:true
 prioritizeChunkUpdates:0
 biomeBlendRadius:2
 renderClouds:"true"
-resourcePacks:["vanilla","mod_resources","Moonlight Mods Dynamic Assets","file/3.3.1v_VisualEnchantments.zip","file/Fancy_Beds-v3.4.zip","file/Detail-Brush-1.6-1.20.zip","file/Improved Crafting Table V1.0.zip","file/GEO - v1.23.0.zip","file/No Enchant Glint 1.20.1.zip","file/cna-refrubished-0.2.zip","file/Fast Better Grass.zip","file/modpackfix","file/Unique Dark 1.20.1 (free).zip","file/waystones_1.20.zip","fabric"]
+resourcePacks:["vanilla","mod_resources","Moonlight Mods Dynamic Assets","file/3.3.1v_VisualEnchantments.zip","file/Fancy_Beds-v3.4.zip","file/Detail-Brush-1.6-1.20.zip","file/Improved Crafting Table V1.0.zip","file/No Enchant Glint 1.20.1.zip","file/cna-refrubished-0.2.zip","file/Fast Better Grass.zip","file/modpackfix","file/Unique Dark 1.20.1 (free).zip","file/waystones_1.20.zip","fabric"]
 incompatibleResourcePacks:[]
 lastServer:
 lang:pt_br
@@ -176,8 +176,6 @@ key_artifacts.key.universal_attractor.toggle:key.keyboard.unknown
 key_key.inventorysorter.itemin:key.mouse.100
 key_key.inventorysorter.itemout:key.mouse.102
 key_key.inventorysorter.sort:key.mouse.middle
-key_key.butcher.villagernosepress:key.keyboard.backslash
-key_key.butcher.pillagernosepress:key.keyboard.apostrophe
 key_key.mca.skin_library:key.keyboard.p
 key_ping-wheel.key.ping-location:key.mouse.5
 key_ping-wheel.key.open-settings:key.keyboard.unknown

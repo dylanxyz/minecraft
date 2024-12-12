@@ -1,0 +1,12 @@
+name = "The Doppelganger"
+filename = "../Doppelganger_V6.2_1.20.1_forge.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/JQmYQYXE/versions/5DXddPsn/Doppelganger_V6.2_1.20.1_forge.jar"
+hash-format = "sha1"
+hash = "ba49803e492cfdbabf4c03ae731aa27a5ccf585f"
+
+[update.modrinth]
+mod-id = "JQmYQYXE"
+version = "5DXddPsn"

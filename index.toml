@@ -81,6 +81,10 @@ hash = "37447e843b70a31848f897871236b358522a59299045518209dc00ffef86b77a"
 preserve = true
 
 [[files]]
+file = "config/resourcepackoverrides.json"
+hash = "676bb18e491e7b890c0b71ff2ca922bc903ab041ebf64bb807a0f16619064fe3"
+
+[[files]]
 file = "defaultconfigs/hourglass-server.toml"
 hash = "49273a00f74ddd44caf9c717f5dd644165a3d441c613692561625d27d430ced4"
 preserve = true
@@ -996,6 +1000,11 @@ hash = "f8f716c430c0553c1e609ae1e88000e4bf126666b72843a899c2139db5572d9e"
 metafile = true
 
 [[files]]
+file = "mods/utilities/resource-pack-overrides.pw.toml"
+hash = "e09781b654ab7072a5ea1f0ecfe35af51bc60840949fd0e926b3c91fc7d97a83"
+metafile = true
+
+[[files]]
 file = "mods/utilities/resourcify.pw.toml"
 hash = "1976d51ea0d2621bbff8ece063422376979bd3878ab72b487df6cfc3346c3c74"
 metafile = true
@@ -1003,11 +1012,6 @@ metafile = true
 [[files]]
 file = "mods/utilities/rrls.pw.toml"
 hash = "b0f85a16c26539cc82bcb6288a8a61f073c725a7151930e09392e0861ecf661c"
-metafile = true
-
-[[files]]
-file = "mods/utilities/ryoamiclights.pw.toml"
-hash = "210c7a648eae7311e40d1c5d3d8d11808932c941caa3063f9db87efa267c05a4"
 metafile = true
 
 [[files]]

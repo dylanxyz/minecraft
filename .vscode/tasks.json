@@ -5,9 +5,16 @@
             "label": "Modrinth: Add addon",
             "type": "shell",
             "command": [
-                "deno", "--allow-env", "--allow-read", "--allow-write", "--allow-sys", "--allow-run",
+                "deno",
+                "--allow-env",
+                "--allow-read",
+                "--allow-write",
+                "--allow-sys",
+                "--allow-run",
                 "${workspaceFolder}/scripts/install.ts",
-                "modrinth", "${input:category}", "${input:modspec}"
+                "modrinth",
+                "${input:category}",
+                "${input:modspec}"
             ],
             "icon": {
                 "id": "cloud-download",
@@ -18,9 +25,16 @@
             "label": "CurseForge: Add addon",
             "type": "shell",
             "command": [
-                "deno", "--allow-env", "--allow-read", "--allow-write", "--allow-sys", "--allow-run",
+                "deno",
+                "--allow-env",
+                "--allow-read",
+                "--allow-write",
+                "--allow-sys",
+                "--allow-run",
                 "${workspaceFolder}/scripts/install.ts",
-                "curseforge", "${input:category}", "${input:modspec}"
+                "curseforge",
+                "${input:category}",
+                "${input:modspec}"
             ],
             "icon": {
                 "id": "cloud-download",
@@ -30,41 +44,59 @@
         {
             "label": "Packwiz: Refresh",
             "type": "shell",
-            "command": ["packwiz", "refresh"],
             "icon": {
                 "id": "refresh",
                 "color": "terminal.ansiMagenta"
             },
-            "dependsOn": ["scripts.update"],
+            "dependsOn": [
+                "scripts.update",
+                "packwiz.refresh"
+            ],
             "dependsOrder": "sequence"
         },
         {
             "label": "Packwiz: Update",
-            "type": "shell",
-            "command": ["packwiz", "update", "--all"],
             "icon": {
                 "id": "repo-pull",
                 "color": "terminal.ansiMagenta"
             },
-            "dependsOn": ["packwiz.update", "scripts.update"],
-            "dependsOrder": "sequence"
+            "dependsOn": [
+                "packwiz.update",
+                "scripts.update",
+                "packwiz.refresh"
+            ],
+            "dependsOrder": "sequence",
+            "problemMatcher": []
         },
         {
             "label": "Packwiz: Serve",
             "type": "shell",
-            "command": ["packwiz", "serve", "-p", "8000"],
+            "command": [
+                "packwiz",
+                "serve",
+                "-p",
+                "8000"
+            ],
             "icon": {
                 "id": "flame",
                 "color": "terminal.ansiMagenta"
             },
-            "dependsOn": ["packwiz.update", "scripts.update"],
+            "dependsOn": [
+                "scripts.update",
+                "packwiz.refresh"
+            ],
             "dependsOrder": "sequence"
         },
         {
             "label": "scripts.update",
             "type": "shell",
             "command": [
-                "deno", "--allow-env", "--allow-read", "--allow-write", "--allow-sys", "--allow-run",
+                "deno",
+                "--allow-env",
+                "--allow-read",
+                "--allow-write",
+                "--allow-sys",
+                "--allow-run",
                 "${workspaceFolder}/scripts/update.ts"
             ],
             "hide": true
@@ -72,9 +104,23 @@
         {
             "label": "packwiz.update",
             "type": "shell",
-            "command": ["packwiz", "-y", "update", "--all"],
+            "command": [
+                "packwiz",
+                "-y",
+                "update",
+                "--all"
+            ],
             "hide": true
         },
+        {
+            "label": "packwiz.refresh",
+            "type": "shell",
+            "command": [
+                "packwiz",
+                "refresh"
+            ],
+            "hide": true
+        }
     ],
     "inputs": [
         {
@@ -87,6 +133,8 @@
             "type": "pickString",
             "description": "The category to add to",
             "options": [
+                "resourcepacks",
+                "shaderpacks",
                 "create",
                 "equipment",
                 "essentials",

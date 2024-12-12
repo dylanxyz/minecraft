@@ -1,0 +1,16 @@
+name = "EasyLAN"
+filename = "../[1.20.1] EasyLAN-1.5.jar"
+side = "client"
+
+[download]
+url = "https://cdn.modrinth.com/data/GwNdY4Sy/versions/sLUqgnlO/%5B1.20.1%5D%20EasyLAN-1.5.jar"
+hash-format = "sha1"
+hash = "503cfb8da43cabf372626de40159d07f87e57bb3"
+
+[update.modrinth]
+mod-id = "GwNdY4Sy"
+version = "sLUqgnlO"
+
+[option]
+optional = true
+default = false

@@ -11,8 +11,3 @@ hash = "8f79b9c4e0ac809b5310b59ad812a7325a6c7f1e"
 [update.modrinth]
 mod-id = "ndHYMY2K"
 version = "j26FjsSe"
-
-[option]
-optional = true
-description = "Ative esse mod se for usar Shaders"
-default = true

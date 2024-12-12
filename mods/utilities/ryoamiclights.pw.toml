@@ -11,7 +11,3 @@ url = 'https://cdn.modrinth.com/data/reCfnRvJ/versions/c2Th4NIB/RyoamicLights-fo
 [update.modrinth]
 mod-id = 'reCfnRvJ'
 version = 'c2Th4NIB'
-
-[option]
-optional = true
-default = false

@@ -467,6 +467,11 @@ hash = "85dd2965ba267e1cdc84e8504f0740a5ce430152166a427ae7d99cc1e004f971"
 metafile = true
 
 [[files]]
+file = "mods/library/craterlib.pw.toml"
+hash = "01b2ee531c05a7e366eb4f03c64e8385f293e17a487698c0b39700857db04a41"
+metafile = true
+
+[[files]]
 file = "mods/library/creativecore.pw.toml"
 hash = "8fabff2554779bf685085ce8a7a1d250068b6a29a7a7ac7e517615e2da3c7188"
 metafile = true
@@ -724,6 +729,11 @@ metafile = true
 [[files]]
 file = "mods/misc/ping-wheel.pw.toml"
 hash = "0bea9e5d7442bafd734460d075a91e82d6392766cd63a55306d861a8aee1d08f"
+metafile = true
+
+[[files]]
+file = "mods/misc/simple-discord-rpc.pw.toml"
+hash = "94f698b15d006ed581be373f1c2dfc1ac5ad6025f1b14aeb1649a0a9bdb0f5e5"
 metafile = true
 
 [[files]]

@@ -187,6 +187,11 @@ hash = "cc7a989d7b23ec66d70e3d8dc952f7f7f4b867b88c43820ebdab725adcfc77ae"
 metafile = true
 
 [[files]]
+file = "mods/create/create-love-war.pw.toml"
+hash = "31613ec778ebb72cc1adfdd4624d29df537117232b80a26bb8a59fca207eb767"
+metafile = true
+
+[[files]]
 file = "mods/create/create-low-heated.pw.toml"
 hash = "d9c30a0a96193502cc9049120081dc37d2b8db6862045889841bab7ca72bbe3d"
 metafile = true
@@ -234,6 +239,11 @@ metafile = true
 [[files]]
 file = "mods/equipment/epic-samurais.pw.toml"
 hash = "676bccc2425236e8343dc51f6b5fe63209e0bfc0628827b571492ba1cf496544"
+metafile = true
+
+[[files]]
+file = "mods/equipment/flans-mod-reloaded.pw.toml"
+hash = "4798a51f665b25bbc1ef0276fe3a26511b530000a0a6e2367fd1e7562e566e94"
 metafile = true
 
 [[files]]
@@ -692,8 +702,18 @@ hash = "d27f3fe7da40ac6be06d617228c5d7901024e995656f84143d71133c7fc58ea9"
 metafile = true
 
 [[files]]
+file = "mods/misc/ice-and-fire-spellbooks.pw.toml"
+hash = "3eb119f0aaf25d2f79d3c9aefd5971b9f8879c406a190685ebadcc231f721570"
+metafile = true
+
+[[files]]
 file = "mods/misc/just-outdoor-stuffs.pw.toml"
 hash = "182ce4e5b392671d11e7f97eaf959cfb3d3235be25050221ab511606eb121f1e"
+metafile = true
+
+[[files]]
+file = "mods/misc/littletiles.pw.toml"
+hash = "ffe171e1956a26233f916d1193668edc7675483ee0d50181e90ee56b7c5ecc2a"
 metafile = true
 
 [[files]]
@@ -789,6 +809,11 @@ metafile = true
 [[files]]
 file = "mods/mobs/fungal-infectionspore.pw.toml"
 hash = "9bbabace13a84584abacf3481acb3e6f5208921d7dd3ca836935b7e02cfa62c7"
+metafile = true
+
+[[files]]
+file = "mods/mobs/ice-and-fire-dragons.pw.toml"
+hash = "2cef33acf3b8b02a05b2d67432919b0244068f8f6c0b2af43d4ae7f1eb362ba0"
 metafile = true
 
 [[files]]
@@ -1048,7 +1073,7 @@ metafile = true
 
 [[files]]
 file = "options.txt"
-hash = "d44a83e20a0b7dcc69d2e82576fc62c5e1a34eb3a61ee02de6566e0f48dcaccf"
+hash = "3e9ef9cc1b21b17e55b64cb026afe6c2cd8d6c3bd991f6b4c7ae7ef7ea3d194c"
 preserve = true
 
 [[files]]

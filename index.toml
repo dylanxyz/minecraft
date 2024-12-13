@@ -1002,11 +1002,6 @@ hash = "fdf506c08a12fceede80e7fdd81db0cfa0e0e9ea65f38441bc89209c6526239f"
 metafile = true
 
 [[files]]
-file = "mods/utilities/easylan.pw.toml"
-hash = "1ca08a045d849685f6667f72183aac20523133c1027539c90ac1997cbc415c49"
-metafile = true
-
-[[files]]
 file = "mods/utilities/enchantment-descriptions.pw.toml"
 hash = "a610a8fe53493114fe56d8388f6f88f6712665edac8cb3a719d64af7e0844ef4"
 metafile = true
@@ -1093,7 +1088,7 @@ metafile = true
 
 [[files]]
 file = "options.txt"
-hash = "3e9ef9cc1b21b17e55b64cb026afe6c2cd8d6c3bd991f6b4c7ae7ef7ea3d194c"
+hash = "584a23f5b8d8a9cd8bffff6f71e0a6a79776949ef33eb1d509fbd3d825a7796b"
 preserve = true
 
 [[files]]

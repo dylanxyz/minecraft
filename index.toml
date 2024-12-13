@@ -537,6 +537,11 @@ hash = "890a6d554fe317241bb60a1894038de071d68d6a90a725fac5693dd8c82ebd36"
 metafile = true
 
 [[files]]
+file = "mods/library/lexiconfig.pw.toml"
+hash = "85c55f8366e54763d4e65d602e4c8183fd0e0cf2a968c38b3d320f623f3fab12"
+metafile = true
+
+[[files]]
 file = "mods/library/majrusz-library.pw.toml"
 hash = "9c5639291dc6056ef748ae3cc4ebaac17e675ce9e67fb5c8a2e7ade015f49bf6"
 metafile = true
@@ -692,6 +697,11 @@ hash = "8de2d0f40a946fe898a45f0602403ebd1bc76242f321e0ec92f4fb550b90618f"
 metafile = true
 
 [[files]]
+file = "mods/misc/essential.pw.toml"
+hash = "4dff70e352de6fc5a21d0cc7059306f5ad3a7305d6a2c7c0372a3fc35fc18b15"
+metafile = true
+
+[[files]]
 file = "mods/misc/handcrafted.pw.toml"
 hash = "cab1eecd0d27269c0573fa77ef4c2461812f50aa941cceec389e50d5ad655f6f"
 metafile = true
@@ -754,6 +764,16 @@ metafile = true
 [[files]]
 file = "mods/misc/simple-discord-rpc.pw.toml"
 hash = "94f698b15d006ed581be373f1c2dfc1ac5ad6025f1b14aeb1649a0a9bdb0f5e5"
+metafile = true
+
+[[files]]
+file = "mods/misc/simple-voice-chat.pw.toml"
+hash = "077e3e691b00be9e4c9925279688935d2cad00d14579a352c41433937d6d218b"
+metafile = true
+
+[[files]]
+file = "mods/misc/simple-voice-radio.pw.toml"
+hash = "e87a227c14636c52fb27d3f77918736d0ed9f953d01124a55404dab781ec72d5"
 metafile = true
 
 [[files]]

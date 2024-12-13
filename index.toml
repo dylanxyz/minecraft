@@ -37,7 +37,7 @@ preserve = true
 
 [[files]]
 file = "config/incontrol/areas.json"
-hash = "0445b17c31769e5b7f9523ed2b882fa77d5dc9665a4a5ad05dd14f3b6b566a42"
+hash = "0239ab6b2c70e9d45a8aaeac92fcf375fcbea74838236dcafe12d469b00678b2"
 preserve = true
 
 [[files]]
@@ -187,6 +187,11 @@ hash = "cc7a989d7b23ec66d70e3d8dc952f7f7f4b867b88c43820ebdab725adcfc77ae"
 metafile = true
 
 [[files]]
+file = "mods/create/create-love-war.pw.toml"
+hash = "31613ec778ebb72cc1adfdd4624d29df537117232b80a26bb8a59fca207eb767"
+metafile = true
+
+[[files]]
 file = "mods/create/create-low-heated.pw.toml"
 hash = "d9c30a0a96193502cc9049120081dc37d2b8db6862045889841bab7ca72bbe3d"
 metafile = true
@@ -234,6 +239,11 @@ metafile = true
 [[files]]
 file = "mods/equipment/epic-samurais.pw.toml"
 hash = "676bccc2425236e8343dc51f6b5fe63209e0bfc0628827b571492ba1cf496544"
+metafile = true
+
+[[files]]
+file = "mods/equipment/flans-mod-reloaded.pw.toml"
+hash = "4798a51f665b25bbc1ef0276fe3a26511b530000a0a6e2367fd1e7562e566e94"
 metafile = true
 
 [[files]]
@@ -457,6 +467,11 @@ hash = "0aa28b4588606cb80966697f4a8201cf940594f26b4b0bf882b9ec5225789adc"
 metafile = true
 
 [[files]]
+file = "mods/library/craterlib.pw.toml"
+hash = "01b2ee531c05a7e366eb4f03c64e8385f293e17a487698c0b39700857db04a41"
+metafile = true
+
+[[files]]
 file = "mods/library/creativecore.pw.toml"
 hash = "8fabff2554779bf685085ce8a7a1d250068b6a29a7a7ac7e517615e2da3c7188"
 metafile = true
@@ -499,6 +514,16 @@ metafile = true
 [[files]]
 file = "mods/library/kotlin-for-forge.pw.toml"
 hash = "890a6d554fe317241bb60a1894038de071d68d6a90a725fac5693dd8c82ebd36"
+metafile = true
+
+[[files]]
+file = "mods/library/lexiconfig.pw.toml"
+hash = "85c55f8366e54763d4e65d602e4c8183fd0e0cf2a968c38b3d320f623f3fab12"
+metafile = true
+
+[[files]]
+file = "mods/library/majrusz-library.pw.toml"
+hash = "9c5639291dc6056ef748ae3cc4ebaac17e675ce9e67fb5c8a2e7ade015f49bf6"
 metafile = true
 
 [[files]]
@@ -587,6 +612,11 @@ hash = "c725379b0db02e005b782d529d171016a672f3d884c28ffbd9607045ef369831"
 metafile = true
 
 [[files]]
+file = "mods/mechanics/majruszs-progressive-difficulty.pw.toml"
+hash = "d0d60447ea6879db6297cac6f0b89bebeb5ffd41ac06731b5afae59f7da0558e"
+metafile = true
+
+[[files]]
 file = "mods/mechanics/minecraft-comes-alive-reborn.pw.toml"
 hash = "5727505d4ed8c6832c43e50ac8a3c3107d9f991e4eb4f2ad0b141c35bccbe482"
 metafile = true
@@ -642,6 +672,11 @@ hash = "8de2d0f40a946fe898a45f0602403ebd1bc76242f321e0ec92f4fb550b90618f"
 metafile = true
 
 [[files]]
+file = "mods/misc/essential.pw.toml"
+hash = "4dff70e352de6fc5a21d0cc7059306f5ad3a7305d6a2c7c0372a3fc35fc18b15"
+metafile = true
+
+[[files]]
 file = "mods/misc/handcrafted.pw.toml"
 hash = "cab1eecd0d27269c0573fa77ef4c2461812f50aa941cceec389e50d5ad655f6f"
 metafile = true
@@ -652,8 +687,18 @@ hash = "d27f3fe7da40ac6be06d617228c5d7901024e995656f84143d71133c7fc58ea9"
 metafile = true
 
 [[files]]
+file = "mods/misc/ice-and-fire-spellbooks.pw.toml"
+hash = "3eb119f0aaf25d2f79d3c9aefd5971b9f8879c406a190685ebadcc231f721570"
+metafile = true
+
+[[files]]
 file = "mods/misc/just-outdoor-stuffs.pw.toml"
 hash = "182ce4e5b392671d11e7f97eaf959cfb3d3235be25050221ab511606eb121f1e"
+metafile = true
+
+[[files]]
+file = "mods/misc/littletiles.pw.toml"
+hash = "ffe171e1956a26233f916d1193668edc7675483ee0d50181e90ee56b7c5ecc2a"
 metafile = true
 
 [[files]]
@@ -689,6 +734,21 @@ metafile = true
 [[files]]
 file = "mods/misc/ping-wheel.pw.toml"
 hash = "0bea9e5d7442bafd734460d075a91e82d6392766cd63a55306d861a8aee1d08f"
+metafile = true
+
+[[files]]
+file = "mods/misc/simple-discord-rpc.pw.toml"
+hash = "94f698b15d006ed581be373f1c2dfc1ac5ad6025f1b14aeb1649a0a9bdb0f5e5"
+metafile = true
+
+[[files]]
+file = "mods/misc/simple-voice-chat.pw.toml"
+hash = "077e3e691b00be9e4c9925279688935d2cad00d14579a352c41433937d6d218b"
+metafile = true
+
+[[files]]
+file = "mods/misc/simple-voice-radio.pw.toml"
+hash = "e87a227c14636c52fb27d3f77918736d0ed9f953d01124a55404dab781ec72d5"
 metafile = true
 
 [[files]]
@@ -744,6 +804,16 @@ metafile = true
 [[files]]
 file = "mods/mobs/fungal-infectionspore.pw.toml"
 hash = "9bbabace13a84584abacf3481acb3e6f5208921d7dd3ca836935b7e02cfa62c7"
+metafile = true
+
+[[files]]
+file = "mods/mobs/ice-and-fire-dragons.pw.toml"
+hash = "2cef33acf3b8b02a05b2d67432919b0244068f8f6c0b2af43d4ae7f1eb362ba0"
+metafile = true
+
+[[files]]
+file = "mods/mobs/lethal-company-mobs.pw.toml"
+hash = "7966ed6ca574a4e856bd977667500c1cbe09396c68c13aa85d17fb500ebd065a"
 metafile = true
 
 [[files]]
@@ -988,7 +1058,7 @@ metafile = true
 
 [[files]]
 file = "options.txt"
-hash = "f63cb3cf551063a1f6c8d6ad0d83ff2cdea4a3315d54cf6d42b76a09fdd98116"
+hash = "f9d7af9ec86b4340445a504bfd2b3e7fc60f4a4e2fb4421c66ab4a0a653986c8"
 preserve = true
 
 [[files]]
@@ -1010,3 +1080,13 @@ metafile = true
 file = "shaderpacks/ComplementaryReimagined_r5.3.zip.txt"
 hash = "e65100ef59e5a0876de63dcb57068b38d1fca562d34f875f25cc33bd55f2ce27"
 preserve = true
+
+[[files]]
+file = "shaderpacks/complementary-reimagined.pw.toml"
+hash = "f18e6196d79be05795c41658af6ea9ad77457bb65058bdd65a0ef5d3c6f30ca0"
+metafile = true
+
+[[files]]
+file = "shaderpacks/potato-shaders.pw.toml"
+hash = "8d82e4d8a24d901d5607eb5e329e7618e50d6f3f95806b61dac7a8edee999d3a"
+metafile = true

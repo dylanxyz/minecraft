@@ -701,11 +701,6 @@ hash = "182ce4e5b392671d11e7f97eaf959cfb3d3235be25050221ab511606eb121f1e"
 metafile = true
 
 [[files]]
-file = "mods/misc/littletiles.pw.toml"
-hash = "ffe171e1956a26233f916d1193668edc7675483ee0d50181e90ee56b7c5ecc2a"
-metafile = true
-
-[[files]]
 file = "mods/misc/lunar.pw.toml"
 hash = "2aca5c9e820f586ed96438943e129c9f017da5adde69db0d5e89da2550db503d"
 metafile = true

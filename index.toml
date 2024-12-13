@@ -36,6 +36,10 @@ hash = "b78e1a745d5080dc2e50dd192982aeb59f32b1645626b77ac38a2b725ea52122"
 preserve = true
 
 [[files]]
+file = "config/iceandfire-client.toml"
+hash = "a4dcf9cc2e7f541fe73ee2f9780694cb8e9c7738a0a06e2a456453c3a47a8b9d"
+
+[[files]]
 file = "config/incontrol/areas.json"
 hash = "0239ab6b2c70e9d45a8aaeac92fcf375fcbea74838236dcafe12d469b00678b2"
 preserve = true

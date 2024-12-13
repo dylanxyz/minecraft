@@ -1,0 +1,12 @@
+name = "CraterLib"
+filename = "../CraterLib-Forge-1.20-2.1.2+hotfix.1.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/Nn8Wasaq/versions/YMGr7fuO/CraterLib-Forge-1.20-2.1.2%2Bhotfix.1.jar"
+hash-format = "sha1"
+hash = "9323398b552040b0a88059737d67520b58a71784"
+
+[update.modrinth]
+mod-id = "Nn8Wasaq"
+version = "YMGr7fuO"

@@ -607,7 +607,7 @@ metafile = true
 
 [[files]]
 file = "mods/mechanics/cold-sweat.pw.toml"
-hash = "e686af728b75ad10d97c4a12f153f9728ee3d8fca7c1ce42f1f6219c46ff13f6"
+hash = "e28bf2a1ff000cd38c28738992e9b6de43d1eec2d8135a7d7c94bed99f08950c"
 metafile = true
 
 [[files]]
@@ -1072,7 +1072,7 @@ metafile = true
 
 [[files]]
 file = "mods/world/serene-seasons.pw.toml"
-hash = "610fa44ae1525923be278a192a09fd0bdc0580b07f103685d219658cabc6eb20"
+hash = "cd49a5a5e5343cbb824cc8dd187e19e3b4b75fb38c762d77f653f1204a9073b7"
 metafile = true
 
 [[files]]

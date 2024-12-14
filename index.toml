@@ -70,6 +70,10 @@ hash = "3744c847f5d4afff2068828918593ee503d60711128421296780207d5653e66c"
 preserve = true
 
 [[files]]
+file = "config/modernfix-mixins.properties"
+hash = "ec2a52cdcf5584bcaaaea8aa593771676dee75082a8c8a52ac54dd8e012ca21b"
+
+[[files]]
 file = "config/notreepunching.toml"
 hash = "3abb174adece0a1755cfc95ebda24981ba8e10b03128741aa1753fadf8caf018"
 preserve = true
@@ -1057,7 +1061,7 @@ metafile = true
 
 [[files]]
 file = "options.txt"
-hash = "f9d7af9ec86b4340445a504bfd2b3e7fc60f4a4e2fb4421c66ab4a0a653986c8"
+hash = "6f0c2e2cf795f49a33affc3246d6cf2d1a81211afec18c65db67f62142e4b6fe"
 preserve = true
 
 [[files]]

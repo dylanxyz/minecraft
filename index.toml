@@ -1016,11 +1016,6 @@ hash = "f8f716c430c0553c1e609ae1e88000e4bf126666b72843a899c2139db5572d9e"
 metafile = true
 
 [[files]]
-file = "mods/utilities/resource-pack-overrides.pw.toml"
-hash = "e09781b654ab7072a5ea1f0ecfe35af51bc60840949fd0e926b3c91fc7d97a83"
-metafile = true
-
-[[files]]
 file = "mods/utilities/resourcify.pw.toml"
 hash = "1976d51ea0d2621bbff8ece063422376979bd3878ab72b487df6cfc3346c3c74"
 metafile = true

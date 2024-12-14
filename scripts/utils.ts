@@ -1,5 +1,5 @@
-import { parse, stringify } from "@std/toml"
-import { basename } from "@std/path"
+import { parse, stringify } from "jsr:@std/toml"
+import { basename } from "jsr:@std/path"
 
 export interface MetaFile {
     filename: string

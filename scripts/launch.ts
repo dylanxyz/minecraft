@@ -1,4 +1,4 @@
-import { existsSync, ensureFileSync } from "@std/fs"
+import { existsSync, ensureFileSync } from "jsr:@std/fs"
 import { download, parseOptions } from "./utils.ts"
 
 const PackwizInstallerLink = "https://github.com/packwiz/packwiz-installer-bootstrap/releases/download/v0.0.3/packwiz-installer-bootstrap.jar"

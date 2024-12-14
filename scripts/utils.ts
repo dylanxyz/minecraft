@@ -1,4 +1,5 @@
 import { parse, stringify } from "@std/toml"
+import { basename } from "@std/path"
 
 export interface MetaFile {
     filename: string
@@ -50,4 +51,32 @@ export function readtoml<T>(path: string): T {
     const result = parse(decoder.decode(bytes)) as unknown
 
     return result as T
+}
+
+export async function download(url: string, filename?: string): Promise<Error | void> {
+    try {
+        filename ??= basename(url)
+        const res = await fetch(url)
+        const file = await Deno.open(filename, { create: true, write: true })
+        await res.body?.pipeTo(file.writable)
+        // https://github.com/denoland/deno/issues/15442
+        // file.close()
+    } catch (error) {
+        return error as Error
+    }
+}
+
+export function parseOptions(file: string) {
+    const result = new Map<string, string>()
+
+    for (const line of Deno.readTextFileSync(file).trim().split(/\r?\n/)) {
+        const index = line.indexOf(':')
+        const key = line.substring(0, index)
+        const val = line.substring(index + 1, line.length)
+
+        if (key.trim())
+            result.set(key.trim(), val.trim())
+    }
+
+    return result
 }

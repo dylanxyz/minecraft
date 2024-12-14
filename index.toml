@@ -80,10 +80,6 @@ hash = "37ddd5fc54fd8596ee6db292c6ee546e41a1e4ff950ce43295eba6ebe0bc7514"
 preserve = true
 
 [[files]]
-file = "config/overrides/options.txt"
-hash = "21e9d57e10173bd81128c5f81bdb1fec3ed691af0e57f154d4ce7bf6e63c566d"
-
-[[files]]
 file = "config/parcool-client.toml"
 hash = "37447e843b70a31848f897871236b358522a59299045518209dc00ffef86b77a"
 preserve = true
@@ -101,6 +97,10 @@ preserve = true
 file = "defaultconfigs/hourglass-server.toml"
 hash = "49273a00f74ddd44caf9c717f5dd644165a3d441c613692561625d27d430ced4"
 preserve = true
+
+[[files]]
+file = "keys.txt"
+hash = "37eb65e7e891401507a692f485688b9746d1b3431a7d517afd1be845697349d4"
 
 [[files]]
 file = "kubejs/README.txt"
@@ -1086,7 +1086,7 @@ metafile = true
 
 [[files]]
 file = "options.txt"
-hash = "8c5a388d1196670741fb77b149b0dd1a02336419433fa256ee5c04ed5450afa6"
+hash = "8d43c97fe1d0ce2b5ab35f18c21bb58cbe0b8708900cf10b2bbde3800a590c6e"
 preserve = true
 
 [[files]]

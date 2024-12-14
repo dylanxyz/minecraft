@@ -93,9 +93,17 @@ file = "config/resourcepackoverrides.json"
 hash = "dafe5830bcfa72bd47cbeb7cbe720128f26fa61ae0f38cd44155a09309491142"
 
 [[files]]
+file = "config/roughlyenoughitems/config.json5"
+hash = "d6c2b00b7b3edb3220ffcac39bb4b495ab22603e6b454c4c42990b328227e58e"
+
+[[files]]
 file = "defaultconfigs/hourglass-server.toml"
 hash = "49273a00f74ddd44caf9c717f5dd644165a3d441c613692561625d27d430ced4"
 preserve = true
+
+[[files]]
+file = "keys.txt"
+hash = "37eb65e7e891401507a692f485688b9746d1b3431a7d517afd1be845697349d4"
 
 [[files]]
 file = "kubejs/README.txt"
@@ -172,11 +180,6 @@ hash = "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
 [[files]]
 file = "mods/create/create-connected.pw.toml"
 hash = "4d510e5ac66c9afb762f7b36cba31f6973ad2e9c97d23607b24b7b15c46ced2c"
-metafile = true
-
-[[files]]
-file = "mods/create/create-dreams-and-desires.pw.toml"
-hash = "14e92938b12dd59d4bb403e25ac722deceb819370bc5dd2e8ee7e54fb4cd7518"
 metafile = true
 
 [[files]]
@@ -825,11 +828,6 @@ hash = "2cef33acf3b8b02a05b2d67432919b0244068f8f6c0b2af43d4ae7f1eb362ba0"
 metafile = true
 
 [[files]]
-file = "mods/mobs/lethal-company-mobs.pw.toml"
-hash = "7966ed6ca574a4e856bd977667500c1cbe09396c68c13aa85d17fb500ebd065a"
-metafile = true
-
-[[files]]
 file = "mods/mobs/mob-catalog.pw.toml"
 hash = "630cefd1a9cc19bac3662cba81744e74bacf2d4ca56976e653ad2a07c964892c"
 metafile = true
@@ -1061,7 +1059,7 @@ metafile = true
 
 [[files]]
 file = "options.txt"
-hash = "6f0c2e2cf795f49a33affc3246d6cf2d1a81211afec18c65db67f62142e4b6fe"
+hash = "becc168e44fcf243300c8df41140496ef6a55f1ab33995b899d8b11608add916"
 preserve = true
 
 [[files]]

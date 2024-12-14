@@ -80,6 +80,10 @@ hash = "37ddd5fc54fd8596ee6db292c6ee546e41a1e4ff950ce43295eba6ebe0bc7514"
 preserve = true
 
 [[files]]
+file = "config/overrides/options.txt"
+hash = "21e9d57e10173bd81128c5f81bdb1fec3ed691af0e57f154d4ce7bf6e63c566d"
+
+[[files]]
 file = "config/parcool-client.toml"
 hash = "37447e843b70a31848f897871236b358522a59299045518209dc00ffef86b77a"
 preserve = true
@@ -87,6 +91,11 @@ preserve = true
 [[files]]
 file = "config/resourcepackoverrides.json"
 hash = "676bb18e491e7b890c0b71ff2ca922bc903ab041ebf64bb807a0f16619064fe3"
+
+[[files]]
+file = "config/roughlyenoughitems/config.json5"
+hash = "d6c2b00b7b3edb3220ffcac39bb4b495ab22603e6b454c4c42990b328227e58e"
+preserve = true
 
 [[files]]
 file = "defaultconfigs/hourglass-server.toml"
@@ -168,11 +177,6 @@ hash = "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
 [[files]]
 file = "mods/create/create-connected.pw.toml"
 hash = "4d510e5ac66c9afb762f7b36cba31f6973ad2e9c97d23607b24b7b15c46ced2c"
-metafile = true
-
-[[files]]
-file = "mods/create/create-dreams-and-desires.pw.toml"
-hash = "14e92938b12dd59d4bb403e25ac722deceb819370bc5dd2e8ee7e54fb4cd7518"
 metafile = true
 
 [[files]]
@@ -833,11 +837,6 @@ metafile = true
 [[files]]
 file = "mods/mobs/ice-and-fire-dragons.pw.toml"
 hash = "2cef33acf3b8b02a05b2d67432919b0244068f8f6c0b2af43d4ae7f1eb362ba0"
-metafile = true
-
-[[files]]
-file = "mods/mobs/lethal-company-mobs.pw.toml"
-hash = "7966ed6ca574a4e856bd977667500c1cbe09396c68c13aa85d17fb500ebd065a"
 metafile = true
 
 [[files]]

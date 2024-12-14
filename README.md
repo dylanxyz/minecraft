@@ -3,11 +3,11 @@
 **Main**:
 
 ```shell
-"$INST_JAVA" -jar packwiz-installer-bootstrap.jar https://raw.githubusercontent.com/dylanxyz/minecraft/refs/heads/main/pack.toml
+deno --allow-read --allow-net --allow-write --allow-run https://raw.githubusercontent.com/dylanxyz/minecraft/refs/heads/main/scripts/launch.ts main "$INST_JAVA"
 ```
 
 **Optimized**:
 
 ```shell
-"$INST_JAVA" -jar packwiz-installer-bootstrap.jar https://raw.githubusercontent.com/dylanxyz/minecraft/refs/heads/optimized/pack.toml
+deno --allow-read --allow-net --allow-write --allow-run https://raw.githubusercontent.com/dylanxyz/minecraft/refs/heads/main/scripts/launch.ts optimized "$INST_JAVA"
 ```

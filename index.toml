@@ -183,11 +183,6 @@ hash = "4d510e5ac66c9afb762f7b36cba31f6973ad2e9c97d23607b24b7b15c46ced2c"
 metafile = true
 
 [[files]]
-file = "mods/create/create-food.pw.toml"
-hash = "420b44b7cb044f351766f5a589e54f2e03ca37e5c2fc420e2eea058935006453"
-metafile = true
-
-[[files]]
 file = "mods/create/create-ironworks.pw.toml"
 hash = "0bc727bebf39d7ea67ce6d7f1071ecea9d0e9989b6a86b6a0664e57f93dfff4a"
 metafile = true

@@ -128,7 +128,7 @@ hash = "dee1340c5e7927f5675987957c6b198f9ca2e1e731291d72396278dddc066a04"
 
 [[files]]
 file = "kubejs/client_scripts/src/tweaks.js"
-hash = "d59e7c79b996417ab4ad760e655cd350e62cbd8850755f6d8aa75ceacbc00588"
+hash = "80d2af5e3186da98f45d9ea0d6633b0d8c464b1dc6a5fe7790e6d87310b1cb33"
 
 [[files]]
 file = "kubejs/config/client.properties"

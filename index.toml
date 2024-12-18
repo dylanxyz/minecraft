@@ -94,6 +94,10 @@ hash = "d6c2b00b7b3edb3220ffcac39bb4b495ab22603e6b454c4c42990b328227e58e"
 preserve = true
 
 [[files]]
+file = "config/sporeconfig.toml"
+hash = "a5c6f2acefdc7dacd39c3e48ce1925e3583237e8628d13a7062a6478a9628794"
+
+[[files]]
 file = "defaultconfigs/hourglass-server.toml"
 hash = "49273a00f74ddd44caf9c717f5dd644165a3d441c613692561625d27d430ced4"
 preserve = true

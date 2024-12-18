@@ -869,11 +869,6 @@ hash = "beca9dc64c3735c027d25251a4de33f4fd00bd9a3abeb774cc50f4c7aacf575f"
 metafile = true
 
 [[files]]
-file = "mods/performance/achievements-optimizer.pw.toml"
-hash = "150a4120db05ba03739f5c5a5961d5bf2c12e432d5bf5ee9f407d1af8de0610a"
-metafile = true
-
-[[files]]
 file = "mods/performance/badoptimizations.pw.toml"
 hash = "5a2a4a35deeda32197127eacc4ca272650934062ee9e6ff71a46c9512e6b46fb"
 metafile = true

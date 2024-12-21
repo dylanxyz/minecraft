@@ -99,10 +99,6 @@ hash = "d6c2b00b7b3edb3220ffcac39bb4b495ab22603e6b454c4c42990b328227e58e"
 preserve = true
 
 [[files]]
-file = "config/sporeconfig.toml"
-hash = "9cd5c25d9d46e4e26c6587bc303c532191a69df4a931513dd61cbf19f72d7636"
-
-[[files]]
 file = "defaultconfigs/hourglass-server.toml"
 hash = "49273a00f74ddd44caf9c717f5dd644165a3d441c613692561625d27d430ced4"
 preserve = true
@@ -162,6 +158,10 @@ hash = "859b6113943be5159f47d22dacc6278c02a11f3383a60c342f8b481eca99acf6"
 [[files]]
 file = "kubejs/server_scripts/src/custom.js"
 hash = "d66d41af2d97b3de2f3d43f42afe09aace87d637c1315b058b724cc25cadabc2"
+
+[[files]]
+file = "kubejs/server_scripts/src/horde.js"
+hash = "ac6a20aec6fff1c87ea2c2de47d439f3cba23d8f6348d3ed0b702d6802f6cfed"
 
 [[files]]
 file = "kubejs/server_scripts/src/loot.js"
@@ -674,6 +674,11 @@ hash = "97bf21e57e3cd9ede0450aad27d066057c609cd0d56dd6aae7d0c2e633ca1bbc"
 metafile = true
 
 [[files]]
+file = "mods/mechanics/paranoia.pw.toml"
+hash = "7dca1648831573e4ec0c56814619dcbc862a78a5396474405e3d03f1e33dbc4a"
+metafile = true
+
+[[files]]
 file = "mods/mechanics/stardew-fishing.pw.toml"
 hash = "0b36d61d54c84f69575f51a7702118f1aad2ec3ece629de7acb60fb3c72088b9"
 metafile = true
@@ -849,11 +854,6 @@ hash = "17d5782a06d7ef5b53a45faf6c0672d4fd994534ee55ee80af7f6fd5a45c05c9"
 metafile = true
 
 [[files]]
-file = "mods/mobs/fungal-infectionspore.pw.toml"
-hash = "9bbabace13a84584abacf3481acb3e6f5208921d7dd3ca836935b7e02cfa62c7"
-metafile = true
-
-[[files]]
 file = "mods/mobs/ice-and-fire-dragons.pw.toml"
 hash = "2cef33acf3b8b02a05b2d67432919b0244068f8f6c0b2af43d4ae7f1eb362ba0"
 metafile = true
@@ -866,6 +866,11 @@ metafile = true
 [[files]]
 file = "mods/mobs/naturalist.pw.toml"
 hash = "0ab446667638a5db5e5de73fe852ef0d0ebb1cd5021feb13bb32d6fa17fe1e9f"
+metafile = true
+
+[[files]]
+file = "mods/mobs/sculk-horde.pw.toml"
+hash = "51f37714d652753b1b145e49f577c977f6c62e6181d5fdca333fd204c7e4be09"
 metafile = true
 
 [[files]]

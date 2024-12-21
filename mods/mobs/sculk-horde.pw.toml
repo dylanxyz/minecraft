@@ -1,0 +1,12 @@
+name = "Sculk Horde"
+filename = "../sculkhorde-1.20.1-0.9.22.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/tBbdvEJc/versions/rimKVY6y/sculkhorde-1.20.1-0.9.22.jar"
+hash-format = "sha1"
+hash = "8c2cf4ee34461cd08fbf42920224244e6853719f"
+
+[update.modrinth]
+mod-id = "tBbdvEJc"
+version = "rimKVY6y"

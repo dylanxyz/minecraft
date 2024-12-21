@@ -11,6 +11,11 @@ hash = "f8ad72ddb37e9182439d0b144192946e6cfe378ba9e2d4f29658b674e85f7df4"
 preserve = true
 
 [[files]]
+file = "config/clienttweaks-common.toml"
+hash = "f82806d671af8eb43a2b2f19aa71d226796069936574d9984e3ef6ed59776def"
+preserve = true
+
+[[files]]
 file = "config/curios-client.toml"
 hash = "39bb7f1fe0ade67096862baf348f2e28b84fd5226c165552fbc88d049c9d179e"
 preserve = true
@@ -132,7 +137,7 @@ hash = "dee1340c5e7927f5675987957c6b198f9ca2e1e731291d72396278dddc066a04"
 
 [[files]]
 file = "kubejs/client_scripts/src/tweaks.js"
-hash = "80d2af5e3186da98f45d9ea0d6633b0d8c464b1dc6a5fe7790e6d87310b1cb33"
+hash = "2bb0db9fcbf3ba1576798563bfba9a7c0b9b85c5f5e92cdb13b03966177f6dd8"
 
 [[files]]
 file = "kubejs/config/client.properties"
@@ -1001,6 +1006,11 @@ metafile = true
 [[files]]
 file = "mods/utilities/brb.pw.toml"
 hash = "0f8d91b2299eef4e90cca99c581c4fb92f1bcbe3de1859a76db4ffe0ee866a63"
+metafile = true
+
+[[files]]
+file = "mods/utilities/client-tweaks.pw.toml"
+hash = "0c67f80036f47d195951f51f2dda4e7c281f43e5a8b5cf9f1d3c3c9b0c2228da"
 metafile = true
 
 [[files]]

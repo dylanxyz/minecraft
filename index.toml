@@ -733,6 +733,11 @@ hash = "182ce4e5b392671d11e7f97eaf959cfb3d3235be25050221ab511606eb121f1e"
 metafile = true
 
 [[files]]
+file = "mods/misc/lets-do-camping.pw.toml"
+hash = "752fb4d8eee95e13d86a6a7095e43eaaa354a87d3b72ced7a9c01857696208b5"
+metafile = true
+
+[[files]]
 file = "mods/misc/lunar.pw.toml"
 hash = "2aca5c9e820f586ed96438943e129c9f017da5adde69db0d5e89da2550db503d"
 metafile = true

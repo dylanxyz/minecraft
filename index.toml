@@ -283,6 +283,11 @@ hash = "969d8daec1544fdfb4466538515a53114e5c31eab38b66bb7b1e7281c46ad867"
 metafile = true
 
 [[files]]
+file = "mods/equipment/scorched-guns-2.pw.toml"
+hash = "add64a374af6e283f733021a415989ebf4a670bdfe92d5458129027965ca9a90"
+metafile = true
+
+[[files]]
 file = "mods/equipment/shield-expansion.pw.toml"
 hash = "532f608a38703fdf86e5243e957629304f80ee2bf708c6c7e37aa9735758e58a"
 metafile = true
@@ -520,6 +525,11 @@ metafile = true
 [[files]]
 file = "mods/library/forgified-fabric-api.pw.toml"
 hash = "2b313250059120254c1bba3d0e9f65a3455e178a7d6c286c3d3cf96cdf84da65"
+metafile = true
+
+[[files]]
+file = "mods/library/framework.pw.toml"
+hash = "bc7880e2aa71e4d759bcb99dc9a3baef647d6ed6aaed83dc1d15c719bbb7c849"
 metafile = true
 
 [[files]]

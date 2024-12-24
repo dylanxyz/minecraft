@@ -815,6 +815,11 @@ hash = "f5569752296dc10838df9191266a8de1913185b9f1f147586cb595d832e5f9a8"
 metafile = true
 
 [[files]]
+file = "mods/misc/sparsestructuresreforged.pw.toml"
+hash = "1e48c9dbca80d0f4d15986c17725cd885c231ef5d15101b38f796fc1503a67fb"
+metafile = true
+
+[[files]]
 file = "mods/misc/storagedrawers.pw.toml"
 hash = "f3647fc73a843c793f19daf6d896ce47fe7bc2f39b9ce8a807272d60097f2b5f"
 metafile = true
@@ -931,7 +936,7 @@ metafile = true
 
 [[files]]
 file = "mods/performance/immediatelyfast.pw.toml"
-hash = "ec0c510370082305b0016b5754cf5392540b0325302ec1efd90ad0092e5b5db1"
+hash = "341c666cd254e628ccfec1f24093e6d1135929a59b8fce7517d393c2a3957172"
 metafile = true
 
 [[files]]

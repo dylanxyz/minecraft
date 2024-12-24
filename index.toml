@@ -563,11 +563,6 @@ hash = "85c55f8366e54763d4e65d602e4c8183fd0e0cf2a968c38b3d320f623f3fab12"
 metafile = true
 
 [[files]]
-file = "mods/library/majrusz-library.pw.toml"
-hash = "9c5639291dc6056ef748ae3cc4ebaac17e675ce9e67fb5c8a2e7ade015f49bf6"
-metafile = true
-
-[[files]]
 file = "mods/library/moonlight.pw.toml"
 hash = "e75d8a1242e4db5e7324c8037bda18a042195f24a66b5d34a13ad790fbe2f56d"
 metafile = true
@@ -655,11 +650,6 @@ metafile = true
 [[files]]
 file = "mods/mechanics/littletiles.pw.toml"
 hash = "fa9bb82572a0edfbb30bebd376e5270e9071a2ee658665ac116e447caacc69d7"
-metafile = true
-
-[[files]]
-file = "mods/mechanics/majruszs-progressive-difficulty.pw.toml"
-hash = "d0d60447ea6879db6297cac6f0b89bebeb5ffd41ac06731b5afae59f7da0558e"
 metafile = true
 
 [[files]]

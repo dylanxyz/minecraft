@@ -132,8 +132,8 @@ file = "kubejs/client_scripts/jsconfig.json"
 hash = "dee1340c5e7927f5675987957c6b198f9ca2e1e731291d72396278dddc066a04"
 
 [[files]]
-file = "kubejs/client_scripts/src/tweaks.js"
-hash = "2bb0db9fcbf3ba1576798563bfba9a7c0b9b85c5f5e92cdb13b03966177f6dd8"
+file = "kubejs/client_scripts/src/script.js"
+hash = "e8a0f6c4e9ab255e54f86abb90a9241c5436ba246c9a8ec531dd9b997ec57306"
 
 [[files]]
 file = "kubejs/config/client.properties"
@@ -148,28 +148,32 @@ file = "kubejs/config/probe-settings.json"
 hash = "41c742cd326bb8152cb278d4507b58983e30a234bd25791f82bd0c573777c47d"
 
 [[files]]
+file = "kubejs/data/fromtheshadows/forge/biome_modifier/entity_spawns.json"
+hash = "6884a93d475a13e10462bbfd3381fea0135fde85c773348a6f607161420b24e6"
+
+[[files]]
 file = "kubejs/data/superflat/dimension/superflat.json"
 hash = "5b59c1670d2deab14da6575b65eb654e794aadb06e863d3b24a4c53c5fb21a76"
 
 [[files]]
 file = "kubejs/server_scripts/jsconfig.json"
-hash = "859b6113943be5159f47d22dacc6278c02a11f3383a60c342f8b481eca99acf6"
+hash = "44dd54e4aec7d77ff5f86e1a73356438a529f81e548edee7ce4011e0b9281e55"
 
 [[files]]
 file = "kubejs/server_scripts/src/custom.js"
 hash = "d66d41af2d97b3de2f3d43f42afe09aace87d637c1315b058b724cc25cadabc2"
 
 [[files]]
-file = "kubejs/server_scripts/src/horde.js"
-hash = "ac6a20aec6fff1c87ea2c2de47d439f3cba23d8f6348d3ed0b702d6802f6cfed"
-
-[[files]]
 file = "kubejs/server_scripts/src/loot.js"
 hash = "2ea53adfaf057b96fd3a046a4b8e88c10b532a2d9ff5585c0e37c5f5a47b2988"
 
 [[files]]
-file = "kubejs/server_scripts/src/lunar.js"
-hash = "f631c3c2aabc6757aea1ce7c0f56e556afb6e3616fccfd5e6450b8e38fecd11d"
+file = "kubejs/server_scripts/src/sculk_horde.js"
+hash = "622bfdec2f2501c6087bcb9e500dd3e55b796598ee28374331f2615ef4055771"
+
+[[files]]
+file = "kubejs/server_scripts/src/spawn.js"
+hash = "f586b2568005c1df1c48bf621ff2b554cba527aaaa31eafa5b284b9823bdb2af"
 
 [[files]]
 file = "kubejs/server_scripts/src/tags.js"
@@ -1035,7 +1039,7 @@ metafile = true
 
 [[files]]
 file = "mods/utilities/in-control.pw.toml"
-hash = "6ddea6db3ad86caf6e8080907a71cb8dd0e4ac23b7e2d2f8fb4d2011c427124e"
+hash = "19f0ecb5df40365bf0e5d153952ecb3442b531a48b14a0ab6ee39b4ebac0287f"
 metafile = true
 
 [[files]]

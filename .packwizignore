@@ -1,10 +1,13 @@
 /.vscode
-/.probe
 /.temp
 /scripts
 /external
 /mods/.disabled
 /node_modules
+
+.probe
+
 deno.json
 deno.lock
+
 README.md

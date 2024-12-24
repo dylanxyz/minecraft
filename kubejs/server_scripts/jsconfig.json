@@ -7,10 +7,8 @@
             "ES2015"
         ],
         "rootDir": "./src",
-        "typeRoots": [
-            "../../.probe/server/probe-types"
-        ],
-        "baseUrl": "../../.probe/server/probe-types",
+        "typeRoots": ["../.probe/server/probe-types"],
+        "baseUrl": "../.probe/server/probe-types",
         "skipLibCheck": true
     },
     "include": [

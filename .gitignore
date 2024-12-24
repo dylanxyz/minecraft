@@ -4,5 +4,5 @@
 # Exclude exported Modrinth modpacks
 *.mrpack
 
-/.probe
+.probe
 /.temp

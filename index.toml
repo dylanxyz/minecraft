@@ -213,11 +213,6 @@ hash = "cc7a989d7b23ec66d70e3d8dc952f7f7f4b867b88c43820ebdab725adcfc77ae"
 metafile = true
 
 [[files]]
-file = "mods/create/create-love-war.pw.toml"
-hash = "31613ec778ebb72cc1adfdd4624d29df537117232b80a26bb8a59fca207eb767"
-metafile = true
-
-[[files]]
 file = "mods/create/create-low-heated.pw.toml"
 hash = "d9c30a0a96193502cc9049120081dc37d2b8db6862045889841bab7ca72bbe3d"
 metafile = true
@@ -265,11 +260,6 @@ metafile = true
 [[files]]
 file = "mods/equipment/epic-samurais.pw.toml"
 hash = "676bccc2425236e8343dc51f6b5fe63209e0bfc0628827b571492ba1cf496544"
-metafile = true
-
-[[files]]
-file = "mods/equipment/flans-mod-reloaded.pw.toml"
-hash = "4798a51f665b25bbc1ef0276fe3a26511b530000a0a6e2367fd1e7562e566e94"
 metafile = true
 
 [[files]]

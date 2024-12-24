@@ -10,3 +10,8 @@ hash = "93eb7a2d2853ef9cb1f7991006b2b2db6c4fb7ff"
 [update.modrinth]
 mod-id = "k2ZPuTBm"
 version = "seCSW6hP"
+
+[option]
+optional = true
+default = true
+description = "Ative esse mod para multiplayer"

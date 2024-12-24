@@ -633,11 +633,6 @@ hash = "8d5f842053893b2832bdb0ca52f22634a6521342923f1029250e43a77dc5438f"
 metafile = true
 
 [[files]]
-file = "mods/mechanics/exposure.pw.toml"
-hash = "e64a00b9f6e80b79533bb864f86fce5389bd4effc85ba9c8d2b0209af20df935"
-metafile = true
-
-[[files]]
 file = "mods/mechanics/immersive-aircraft.pw.toml"
 hash = "ca68a2e0c40cd1ae842c20690875091c12b5779e7046e72f4d83726f06a6189d"
 metafile = true
@@ -645,11 +640,6 @@ metafile = true
 [[files]]
 file = "mods/mechanics/irons-spells-n-spellbooks.pw.toml"
 hash = "c725379b0db02e005b782d529d171016a672f3d884c28ffbd9607045ef369831"
-metafile = true
-
-[[files]]
-file = "mods/mechanics/littletiles.pw.toml"
-hash = "fa9bb82572a0edfbb30bebd376e5270e9071a2ee658665ac116e447caacc69d7"
 metafile = true
 
 [[files]]
@@ -719,7 +709,7 @@ metafile = true
 
 [[files]]
 file = "mods/misc/essential.pw.toml"
-hash = "4dff70e352de6fc5a21d0cc7059306f5ad3a7305d6a2c7c0372a3fc35fc18b15"
+hash = "fd125aabd34f5d2946a54cd99a7cabbfbe83783d31c351f4169a3a6315142291"
 metafile = true
 
 [[files]]
@@ -784,12 +774,12 @@ metafile = true
 
 [[files]]
 file = "mods/misc/simple-voice-chat.pw.toml"
-hash = "077e3e691b00be9e4c9925279688935d2cad00d14579a352c41433937d6d218b"
+hash = "6180ae1ba65d34af9614867b379c4e0fe254c0767f2c699f257ff959738499cd"
 metafile = true
 
 [[files]]
 file = "mods/misc/simple-voice-radio.pw.toml"
-hash = "e87a227c14636c52fb27d3f77918736d0ed9f953d01124a55404dab781ec72d5"
+hash = "f5569752296dc10838df9191266a8de1913185b9f1f147586cb595d832e5f9a8"
 metafile = true
 
 [[files]]

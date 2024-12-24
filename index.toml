@@ -1,11 +1,6 @@
 hash-format = "sha256"
 
 [[files]]
-file = "config/biome_replacer.properties"
-hash = "53a925b3c95b75dfe92b25b250d63920948aced65ce00e35c90b135379763429"
-preserve = true
-
-[[files]]
 file = "config/brb.toml"
 hash = "f8ad72ddb37e9182439d0b144192946e6cfe378ba9e2d4f29658b674e85f7df4"
 preserve = true
@@ -1000,11 +995,6 @@ metafile = true
 [[files]]
 file = "mods/utilities/better-respawn.pw.toml"
 hash = "388cc190e2d94bdab422b0ade04c5e3531268a5c576b5087bab44d3fbdd86b49"
-metafile = true
-
-[[files]]
-file = "mods/utilities/biome-replacer.pw.toml"
-hash = "3b8e1760d5d2aa16547b6f240a99baab7f4e5de3cd9c2ba4b8c22bd77ba12516"
 metafile = true
 
 [[files]]

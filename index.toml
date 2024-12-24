@@ -40,6 +40,10 @@ file = "config/iceandfire-client.toml"
 hash = "a4dcf9cc2e7f541fe73ee2f9780694cb8e9c7738a0a06e2a456453c3a47a8b9d"
 
 [[files]]
+file = "config/immediatelyfast.json"
+hash = "6602fc832ec8ad88ebeaedb1dada2da12d0c18e07cca2209cc53a00338619091"
+
+[[files]]
 file = "config/incontrol/areas.json"
 hash = "0239ab6b2c70e9d45a8aaeac92fcf375fcbea74838236dcafe12d469b00678b2"
 preserve = true
@@ -143,6 +147,30 @@ file = "kubejs/config/probe-settings.json"
 hash = "41c742cd326bb8152cb278d4507b58983e30a234bd25791f82bd0c573777c47d"
 
 [[files]]
+file = "kubejs/data/create_ironworks/recipes/alloys/from_crushed/mixing_steel_from_charcoal.json"
+hash = "e227f5ef6af9b3cc47b5e3c45bdd1ea72dbb7f2e95e1977fa9198e8c64f06c75"
+
+[[files]]
+file = "kubejs/data/create_ironworks/recipes/alloys/from_crushed/mixing_steel_from_coal.json"
+hash = "424213ee59b8a6f5e0635bc586d6f42b6ca0a52724bba774d30ca65ec645ba96"
+
+[[files]]
+file = "kubejs/data/create_ironworks/recipes/alloys/from_ingots/mixing_steel_from_charcoal.json"
+hash = "4d8b502965ddb5fd75c29f6d36be51495c8df0e8decfc41eebba635ef05e906b"
+
+[[files]]
+file = "kubejs/data/create_ironworks/recipes/alloys/from_ingots/mixing_steel_from_coal.json"
+hash = "67336dcbaa260402f52552cadd1ebb2ab52e2f024abaa05df89f5ccd2f3863c3"
+
+[[files]]
+file = "kubejs/data/create_ironworks/recipes/alloys/from_nuggets/mixing_steel_from_charcoal.json"
+hash = "5c7ab7416763de5a578c31e8f18af55a9577aec324c3c32295cbd5a2fdab0b0a"
+
+[[files]]
+file = "kubejs/data/create_ironworks/recipes/alloys/from_nuggets/mixing_steel_from_coal.json"
+hash = "642ce4b4145a1b21af81f75fed0fc9418921367cfb211597e20866cfd5cbcea4"
+
+[[files]]
 file = "kubejs/data/fromtheshadows/forge/biome_modifier/entity_spawns.json"
 hash = "6884a93d475a13e10462bbfd3381fea0135fde85c773348a6f607161420b24e6"
 
@@ -156,19 +184,23 @@ hash = "44dd54e4aec7d77ff5f86e1a73356438a529f81e548edee7ce4011e0b9281e55"
 
 [[files]]
 file = "kubejs/server_scripts/src/custom.js"
-hash = "d66d41af2d97b3de2f3d43f42afe09aace87d637c1315b058b724cc25cadabc2"
+hash = "a15d7de92dfda4d2f357c50743dacce24e4aa9d1766bd93f74d1e8010735489e"
 
 [[files]]
 file = "kubejs/server_scripts/src/loot.js"
 hash = "2ea53adfaf057b96fd3a046a4b8e88c10b532a2d9ff5585c0e37c5f5a47b2988"
 
 [[files]]
+file = "kubejs/server_scripts/src/recipes.js"
+hash = "9883d5b4d1d49c9fa5fcd98508102dff969be346c1a4c577d84a53e30ba62cd8"
+
+[[files]]
 file = "kubejs/server_scripts/src/sculk_horde.js"
-hash = "622bfdec2f2501c6087bcb9e500dd3e55b796598ee28374331f2615ef4055771"
+hash = "df4e637296f2160e9165fa82cf59cfbc7258d5539a37d8cc427c598870692781"
 
 [[files]]
 file = "kubejs/server_scripts/src/spawn.js"
-hash = "f586b2568005c1df1c48bf621ff2b554cba527aaaa31eafa5b284b9823bdb2af"
+hash = "6c1ad5d3fa0d2abdaafd581c37aa979111d71a4e9d236051cc97180868b1b840"
 
 [[files]]
 file = "kubejs/server_scripts/src/tags.js"
@@ -176,7 +208,7 @@ hash = "8fd186fb99368efa9303d8ff4a67dace0b542434ab28ebf65a0c52fb5d217bd2"
 
 [[files]]
 file = "kubejs/startup_scripts/jsconfig.json"
-hash = "a9e6912b8515be242dd76c6c9a536a8d7c73f6b8b949787f538436ebeafbb7ee"
+hash = "44dd54e4aec7d77ff5f86e1a73356438a529f81e548edee7ce4011e0b9281e55"
 
 [[files]]
 file = "kubejs/startup_scripts/src/custom.js"
@@ -733,11 +765,6 @@ hash = "182ce4e5b392671d11e7f97eaf959cfb3d3235be25050221ab511606eb121f1e"
 metafile = true
 
 [[files]]
-file = "mods/misc/lets-do-camping.pw.toml"
-hash = "752fb4d8eee95e13d86a6a7095e43eaaa354a87d3b72ced7a9c01857696208b5"
-metafile = true
-
-[[files]]
 file = "mods/misc/lunar.pw.toml"
 hash = "2aca5c9e820f586ed96438943e129c9f017da5adde69db0d5e89da2550db503d"
 metafile = true
@@ -904,7 +931,7 @@ metafile = true
 
 [[files]]
 file = "mods/performance/immediatelyfast.pw.toml"
-hash = "5b2ce5e2ba95db10a626bad323a0c9bed4f57aa6ca20708c6bbd7ec6095883cf"
+hash = "ec0c510370082305b0016b5754cf5392540b0325302ec1efd90ad0092e5b5db1"
 metafile = true
 
 [[files]]
@@ -953,11 +980,6 @@ hash = "e5a76062f79ec074923307ebb61f72e670677739bd34b4fa14ff2f8547fda1d2"
 metafile = true
 
 [[files]]
-file = "mods/structures/create-structures-arise.pw.toml"
-hash = "aa4691336a2f27968a16186fb161c257c13f4934c377df0f40f1b4117aa81813"
-metafile = true
-
-[[files]]
 file = "mods/structures/integrated-api.pw.toml"
 hash = "41d6f94d798b52e2992b96be297b6010589cc52fde0ce44643ab3b2b60617c84"
 metafile = true
@@ -975,6 +997,11 @@ metafile = true
 [[files]]
 file = "mods/structures/tidal-towns.pw.toml"
 hash = "a8bf0dee281b990389c886c01c0388171150f7847cbb923d608d235ca154c9a7"
+metafile = true
+
+[[files]]
+file = "mods/utilities/almost-unified.pw.toml"
+hash = "7707f645353e0cc1823ec45993d4acfa8764fed7bd0d50adbc797e68bb47db14"
 metafile = true
 
 [[files]]

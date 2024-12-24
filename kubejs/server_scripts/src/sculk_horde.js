@@ -1,6 +1,5 @@
 // ---
 const Settings = {
-    checkDayTime: 2000,
     hordeTime: 5000,
 
     daysForActivation: 1,
@@ -12,7 +11,6 @@ const Settings = {
 }
 // ---
 
-// const Class = Java.loadClass("java.lang.Class")
 const SculkHorde = Java.loadClass("com.github.sculkhorde.core.SculkHorde")
 const ModSavedData = Java.loadClass("com.github.sculkhorde.core.ModSavedData")
 
@@ -42,6 +40,12 @@ function activateHorde() {
 
 const savedData = () => Utils.getServer().persistentData
 
+const timer =
+    Object.assign(() => savedData().getInt("m_HordeTimer"), {
+        reset: () => savedData().putInt("m_HordeTimer", 0),
+        update: () => savedData().putInt("m_HordeTimer", savedData().getInt("m_HordeTimer") + 1),
+    })
+
 const isHordeAwaken =
     Object.assign(() => savedData().getBoolean("m_isHordeAwaken"), {
         set: (value) => savedData().putBoolean("m_isHordeAwaken", value),
@@ -50,6 +54,11 @@ const isHordeAwaken =
 const daysInactive =
     Object.assign(() => savedData().getInt("m_daysInactive"), {
         set: (value) => savedData().putInt("m_daysInactive", value),
+    })
+
+const lastTimeCheck =
+    Object.assign(() => savedData().getInt("m_lastTimeActive"), {
+        set: (value) => savedData().putInt("m_lastTimeActive", value),
     })
 
 function calculateProbability(daysPassed, daysInactive) {
@@ -77,65 +86,72 @@ ServerEvents.tick((event) => {
     const level = event.server.getLevel('minecraft:overworld')
     const time = level.getDayTime()
     const currentDay = Math.floor(time / 24000)
-    const currentTime = time % 24000
-    const endTime = Settings.checkDayTime + Settings.hordeTime
 
-    if (isHordeAwaken() && isHordeActive() && currentDay > Settings.daysForEvolution)
+    const isAwaken = isHordeAwaken()
+    const isActive = isHordeActive()
+    const timeSinceActive = time - lastTimeCheck()
+
+    let probability = 0
+
+    const shouldSkip =
+        (isAwaken && isActive && currentDay > Settings.daysForEvolution) ||
+        (!isAwaken && currentDay < Settings.daysForActivation)
+
+    if (shouldSkip)
         return
 
-    if (!isHordeAwaken() && currentDay < Settings.daysForActivation)
-        return
-
-    if (currentTime != Settings.checkDayTime && currentTime != endTime)
-        return
-
-    if (!isHordeAwaken() && isHordeActive())
+    if (!isAwaken && isActive)
         isHordeAwaken.set(true)
 
-    console.log("Checking day")
-    console.log("   currentDay = " + currentDay)
-    console.log("   currentTime = " + currentTime)
-    console.log("   isHordeAwaken = " + isHordeAwaken())
-    console.log("   daysInactive = " + daysInactive())
+    if (isActive) {
+        timer.update()
+        lastTimeCheck.set(time)
 
-    if (!isHordeAwaken() && currentDay >= Settings.daysForActivation) {
+        if (timer() > Settings.hordeTime) {
+            console.log("Setting horde to inactive")
+            timer.reset()
+            lastTimeCheck.set(time)
+            daysInactive.set(0)
+            killInfectors(level)
+            setHordeState(HordeState.UNACTIVATED)
+        }
+    } else if (!isAwaken && currentDay >= Settings.daysForActivation && timeSinceActive > 18000) {
         console.log("The horde is not awaken but enough days passed")
         event.server.getPlayers().forEach(player => player.sendData("isTooLate"))
+        timer.reset()
+        lastTimeCheck.set(time)
         activateHorde()
     }
 
-    else if (isHordeActive() && currentTime == endTime) {
-        console.log("Setting horde to inactive")
-        daysInactive.set(0)
-        killInfectors(level)
-        setHordeState(HordeState.UNACTIVATED)
-    }
-
-    else if (!isHordeActive() && currentTime == Settings.checkDayTime) {
-        const probability = calculateProbability(currentDay, daysInactive())
-        const shouldActivate = (Math.random() < probability) || daysInactive() > 4
-
+    else if (!isActive && timeSinceActive > 18000) {
+        probability = calculateProbability(currentDay, daysInactive())
         console.log("Probability of activation: " + Math.floor(probability * 100) + "%")
 
-        if (shouldActivate) {
+        if ((Math.random() < probability) || daysInactive() > 4) {
             activateHorde()
+            timer.reset()
             daysInactive.set(0)
             console.log("Activating the horde...")
         } else {
             daysInactive.set(daysInactive() + 1)
             console.log("Not today...")
         }
+
+        lastTimeCheck.set(time)
     }
 })
 
-ServerEvents.customCommand("checkTime", (event) => {
+ServerEvents.customCommand("checkParams", (event) => {
     const level = event.server.getLevel('minecraft:overworld')
     const time = level.getDayTime()
     const currentDay = Math.floor(time / 24000)
     const currentTime = time % 24000
 
-    event.server.tell("currentDay = " + currentDay)
-    event.server.tell("currentTime = " + currentTime)
+    event.server.tell("---------------------------------")
+    event.server.tell(`currentDay = ${currentDay}, currentTime = ${currentTime}`)
+    event.server.tell(`isAwaken = ${isHordeAwaken()}, isActive = ${isHordeActive()}`)
+    event.server.tell(`daysInactive = ${daysInactive()}, lastCheck = ${lastTimeCheck()}`)
+    event.server.tell(`hordeTimer = ${timer()}, timeInactive = ${time - lastTimeCheck()}`)
 })
 
 ServerEvents.customCommand("toggleHorde", (event) => {

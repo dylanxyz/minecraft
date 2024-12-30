@@ -196,7 +196,7 @@ hash = "9883d5b4d1d49c9fa5fcd98508102dff969be346c1a4c577d84a53e30ba62cd8"
 
 [[files]]
 file = "kubejs/server_scripts/src/sculk_horde.js"
-hash = "df4e637296f2160e9165fa82cf59cfbc7258d5539a37d8cc427c598870692781"
+hash = "a93e0c064648440c3c40e7785b81b3a5c9d42fecf8013a4c94662fc1456dc185"
 
 [[files]]
 file = "kubejs/server_scripts/src/spawn.js"

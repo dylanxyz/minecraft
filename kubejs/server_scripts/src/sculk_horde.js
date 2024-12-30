@@ -9,6 +9,7 @@ const Settings = {
     daysPassedFactor: 0.005,
     daysInactiveFactor: 0.01,
 }
+
 // ---
 
 const SculkHorde = Java.loadClass("com.github.sculkhorde.core.SculkHorde")

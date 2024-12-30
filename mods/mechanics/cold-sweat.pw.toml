@@ -1,12 +1,14 @@
 name = "Cold Sweat"
 filename = "../ColdSweat-2.3.8.jar"
 side = "both"
+pin = true
 
 [download]
 url = "https://cdn.modrinth.com/data/uXhSmPjd/versions/AjaHvVAp/ColdSweat-2.3.8.jar"
 hash-format = "sha1"
 hash = "23b9389166274d7a55fcba4f9781f9f8ab87274f"
 
+[update]
 [update.modrinth]
 mod-id = "uXhSmPjd"
 version = "AjaHvVAp"

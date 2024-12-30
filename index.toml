@@ -271,7 +271,7 @@ metafile = true
 
 [[files]]
 file = "mods/create/protection-pixel.pw.toml"
-hash = "1475337ed5b17756972f1343526be5098e3828fdcb5090ba7fa06bb106e6fd95"
+hash = "9b48861410c18a13fb294c1c9f16bdac08566f54c17758d17a377ada0dc8d41c"
 metafile = true
 
 [[files]]
@@ -441,7 +441,7 @@ metafile = true
 
 [[files]]
 file = "mods/essentials/thirst-was-taken.pw.toml"
-hash = "9f6ba386032e73d205c870b7a71d6c06575088306be0b74cbfc1481ec24a283e"
+hash = "d20fe5d42f81b7cfc53b0d07d6cec456b30a0d400260d2e096a77541558f39a3"
 metafile = true
 
 [[files]]
@@ -491,12 +491,12 @@ metafile = true
 
 [[files]]
 file = "mods/library/azurelib.pw.toml"
-hash = "a1e73589c196f6c52cdda5cbfe4f8c7375d99289d7d06c5584f02741943735e3"
+hash = "270ba7713f4085fddeb7d73f2f8bc8de8ec2c9efdd2022b74da34ce6cc0cfa8c"
 metafile = true
 
 [[files]]
 file = "mods/library/balm.pw.toml"
-hash = "8eb6bee3aa902a57b54ec4034e12bc215c3cfc3b1a30869a1e49e4057d725d78"
+hash = "822f50e574d24acee0fa023bb4ea9b5f55cd0615b87547b33b9bdbf121025216"
 metafile = true
 
 [[files]]
@@ -511,7 +511,7 @@ metafile = true
 
 [[files]]
 file = "mods/library/citadel.pw.toml"
-hash = "189fc45bbf8f6f3e2c64bafe025532789b529f2bd613e591fa8781d6343552ec"
+hash = "aa350674f4d6d78522b352bd3c348a33461b10143100987e2a1ec0ab0a217915"
 metafile = true
 
 [[files]]
@@ -531,7 +531,7 @@ metafile = true
 
 [[files]]
 file = "mods/library/creativecore.pw.toml"
-hash = "cfd18d5ec8106622fa84c069b09e0b18a29416524e692799b26ef30aff2720ae"
+hash = "62c9d16a93a2dc0730b46bc3e9e9dfda1b014a3f7bcab82defed2912de3089c2"
 metafile = true
 
 [[files]]
@@ -596,7 +596,7 @@ metafile = true
 
 [[files]]
 file = "mods/library/moonlight.pw.toml"
-hash = "e75d8a1242e4db5e7324c8037bda18a042195f24a66b5d34a13ad790fbe2f56d"
+hash = "3779ae8c2dddbba9322d843978831c9e53b0dae4bc735c87bf72d448811d8655"
 metafile = true
 
 [[files]]
@@ -640,6 +640,11 @@ hash = "97a938e790bd3e035e9d4ae72861f8dc2bd625fe83af7e126d2b2f7254152f56"
 metafile = true
 
 [[files]]
+file = "mods/library/toadlib.pw.toml"
+hash = "99e716537136d74140b1d8afd11c9044275b93ce8647d4d6cbce64a639c55614"
+metafile = true
+
+[[files]]
 file = "mods/mechanics/aquaculture.pw.toml"
 hash = "5a9d250343ee4a42c1a4576b60f63e5c541febbc6b60693a2021c0670cc3131c"
 metafile = true
@@ -651,7 +656,7 @@ metafile = true
 
 [[files]]
 file = "mods/mechanics/cold-sweat.pw.toml"
-hash = "e28bf2a1ff000cd38c28738992e9b6de43d1eec2d8135a7d7c94bed99f08950c"
+hash = "aec6e1fa790c8a9d2affd926549c2937d55914410ea1817f6381598bdd286115"
 metafile = true
 
 [[files]]
@@ -722,6 +727,11 @@ metafile = true
 [[files]]
 file = "mods/misc/automobility.pw.toml"
 hash = "4e969399064d3cd8962adc2f8a52b1172aaa5f69fc97b56557213c14f48155ee"
+metafile = true
+
+[[files]]
+file = "mods/misc/better-bundle.pw.toml"
+hash = "a71d7f7687f310296c0cba5d5168c59b67ccf2ff2179e4539ac98a4f17b7ede0"
 metafile = true
 
 [[files]]
@@ -806,7 +816,7 @@ metafile = true
 
 [[files]]
 file = "mods/misc/simple-voice-chat.pw.toml"
-hash = "6180ae1ba65d34af9614867b379c4e0fe254c0767f2c699f257ff959738499cd"
+hash = "30272f21fe8a8e59896f235ace7074cc8f27b9436099c69aabbcb560812a1ab7"
 metafile = true
 
 [[files]]
@@ -910,6 +920,11 @@ hash = "f4b7eaf4dcc19ab0a16c1539aa2e78d574c24994d5ccca4c2b20fe4ef002f931"
 metafile = true
 
 [[files]]
+file = "mods/performance/ebe-forge.pw.toml"
+hash = "fd852217fddd46ca40b3542d4e949891268aab444684a08ef61b78465eb489df"
+metafile = true
+
+[[files]]
 file = "mods/performance/embeddium.pw.toml"
 hash = "f462e8414189e4a8e43515c138daaea626921ea0daaa49a4c197a2058f669546"
 metafile = true
@@ -930,8 +945,8 @@ hash = "1536803a2e20807d6baa8c5d65cb1f1f6485393265bc34d935178d240f3c17a8"
 metafile = true
 
 [[files]]
-file = "mods/performance/gputape.pw.toml"
-hash = "5fd7f612f7985ed7faef8c9e516d62ce6e44866f7924d235c889272847a018a6"
+file = "mods/performance/icterine.pw.toml"
+hash = "6c3332656d505ed884c3dff5115b6a6f6fc78eaf5aea8abd088cc8b60ee3e3b0"
 metafile = true
 
 [[files]]
@@ -956,7 +971,7 @@ metafile = true
 
 [[files]]
 file = "mods/performance/packet-fixer.pw.toml"
-hash = "7a8ed6f524f0f073aadbb2103b3488d010faafbd8a84a54df854771f379076f8"
+hash = "bab680237733e3e6330a71fe6c23a1917c12895ff9c0c97de29f7b38246de535"
 metafile = true
 
 [[files]]
@@ -1111,7 +1126,7 @@ metafile = true
 
 [[files]]
 file = "mods/world/serene-seasons.pw.toml"
-hash = "cd49a5a5e5343cbb824cc8dd187e19e3b4b75fb38c762d77f653f1204a9073b7"
+hash = "ab8468fc0911269c26620c87ae7a5937bbf6bc87b62fe76d1a2c13ae20594f86"
 metafile = true
 
 [[files]]

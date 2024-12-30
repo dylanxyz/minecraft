@@ -1,17 +1,17 @@
 name = "Simple Voice Chat"
-filename = "../voicechat-forge-1.20.1-2.5.26.jar"
+filename = "../voicechat-forge-1.20.1-2.5.27.jar"
 side = "both"
 
 [download]
-url = "https://cdn.modrinth.com/data/9eGKb6K1/versions/tMbKtqzI/voicechat-forge-1.20.1-2.5.26.jar"
+url = "https://cdn.modrinth.com/data/9eGKb6K1/versions/GRa3Q3uZ/voicechat-forge-1.20.1-2.5.27.jar"
 hash-format = "sha1"
-hash = "22cd1ce238ac6b4992674f63bb0e5a4f072ae7f3"
+hash = "30ad941c8839fce217cb88645957a6e23afeba2b"
 
 [update.modrinth]
 mod-id = "9eGKb6K1"
-version = "tMbKtqzI"
+version = "GRa3Q3uZ"
 
 [option]
 optional = true
-default = true
 description = "Ative este mod para usar o chat de voz"
+default = true

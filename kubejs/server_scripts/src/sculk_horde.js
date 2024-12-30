@@ -146,30 +146,34 @@ ServerEvents.customCommand("checkParams", (event) => {
     const time = level.getDayTime()
     const currentDay = Math.floor(time / 24000)
     const currentTime = time % 24000
+    const count = event.level.getEntities()
+        .filter(entity => entity.type === "sculkhorde:cursor_surface_infector")
+        .size()
 
     event.server.tell("---------------------------------")
     event.server.tell(`currentDay = ${currentDay}, currentTime = ${currentTime}`)
     event.server.tell(`isAwaken = ${isHordeAwaken()}, isActive = ${isHordeActive()}`)
     event.server.tell(`daysInactive = ${daysInactive()}, lastCheck = ${lastTimeCheck()}`)
     event.server.tell(`hordeTimer = ${timer()}, timeInactive = ${time - lastTimeCheck()}`)
+    event.server.tell(`number of cursor entities = ${count}`)
 })
 
-ServerEvents.customCommand("toggleHorde", (event) => {
-    if (isHordeActive()) {
-        killInfectors(event.level)
-        setHordeState(HordeState.UNACTIVATED)
-    }
+// ServerEvents.customCommand("toggleHorde", (event) => {
+//     if (isHordeActive()) {
+//         killInfectors(event.level)
+//         setHordeState(HordeState.UNACTIVATED)
+//     }
 
-    else setHordeState(HordeState.ACTIVE)
-})
+//     else setHordeState(HordeState.ACTIVE)
+// })
 
-ServerEvents.customCommand("cursorCount", (event) => {
-    const count = event.level.getEntities()
-        .filter(entity => entity.type === "sculkhorde:cursor_surface_infector")
-        .size()
+// ServerEvents.customCommand("cursorCount", (event) => {
+//     const count = event.level.getEntities()
+//         .filter(entity => entity.type === "sculkhorde:cursor_surface_infector")
+//         .size()
 
-    event.server.tell("Infectors count = " + count)
-})
+//     event.server.tell("Infectors count = " + count)
+// })
 
 EntityEvents.spawned("sculkhorde:cursor_surface_infector", (event) => {
     const count = event.level.getEntities()

@@ -1,12 +1,14 @@
 name = "Serene Seasons"
 filename = "../SereneSeasons-forge-1.20.1-9.3.0.27.jar"
 side = "both"
+pin = true
 
 [download]
 url = "https://cdn.modrinth.com/data/e0bNACJD/versions/ZJZq3fLy/SereneSeasons-forge-1.20.1-9.3.0.27.jar"
 hash-format = "sha1"
 hash = "55ee331d55f77d71c38311da92f50081014e7ff3"
 
+[update]
 [update.modrinth]
 mod-id = "e0bNACJD"
 version = "ZJZq3fLy"

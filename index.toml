@@ -90,7 +90,7 @@ preserve = true
 
 [[files]]
 file = "config/resourcepackoverrides.json"
-hash = "676bb18e491e7b890c0b71ff2ca922bc903ab041ebf64bb807a0f16619064fe3"
+hash = "9f7f1f6af6573192e907901f663e92e19977e8a2d5f452c9a928242f8f8a69db"
 
 [[files]]
 file = "config/roughlyenoughitems/config.json5"
@@ -272,11 +272,6 @@ metafile = true
 [[files]]
 file = "mods/create/protection-pixel.pw.toml"
 hash = "9b48861410c18a13fb294c1c9f16bdac08566f54c17758d17a377ada0dc8d41c"
-metafile = true
-
-[[files]]
-file = "mods/create/trackwork.pw.toml"
-hash = "704475786268760ebc8e333c7e4f5b2d73f5fd3e89656d26994d1819ed424b01"
 metafile = true
 
 [[files]]
@@ -1145,6 +1140,11 @@ hash = "1347f65d6d573689fc0fa4ad32644e09be237188b2bf774a22c88d24bba0cd36"
 preserve = true
 
 [[files]]
+file = "resourcepacks/create-immersive-aircrafts-resource-pack.pw.toml"
+hash = "f3a4bb5d89c7d9a554aca934d729611a3bad37c01ab374caf7af6cbc1de4fab0"
+metafile = true
+
+[[files]]
 file = "resourcepacks/create_new_age_refrubished.pw.toml"
 hash = "b83b4f10794469b11497e18590c9ddc2ae97641fc9f7fed193689b6c9eed2e0e"
 metafile = true
@@ -1190,6 +1190,11 @@ hash = "aa56be6f3d456e088058c70c428a5a2b3fce9654eb8a04147560feed0871e2fd"
 [[files]]
 file = "resourcepacks/no-enchant-glint.pw.toml"
 hash = "00974626850138f5cca69e8e7eeb8f6fbc6a5545519f69c2b6014c45936ae136"
+metafile = true
+
+[[files]]
+file = "resourcepacks/tool-belt-retextured.pw.toml"
+hash = "447a75920192f1e57ad35fc30c7803396bddbbb0cd0ac190443568c8917dddf5"
 metafile = true
 
 [[files]]

@@ -1,0 +1,84 @@
+# --*--*--*--*--*--* from_crushed --*--*--*--*--*--*
+
+---
+id: create_ironworks:alloys/from_crushed/mixing_steel_from_charcoal
+type: create:mixing
+heatRequirement: heated
+ingredients:
+  - { item: create:crushed_raw_iron, count: 2 }
+  - { item: create_ironworks:charcoal_dust, count: 7 }
+results:
+  - { item: create_ironworks:steel_ingot }
+  - { item: create_ironworks:steel_nugget, count: 2 }
+  - { item: minecraft:iron_nugget, chance: 0.8 }
+  - { item: create:experience_nugget, chance: 0.95 }
+
+---
+id: create_ironworks:alloys/from_crushed/mixing_steel_from_coal
+type: create:mixing
+heatRequirement: heated
+ingredients:
+  - { item: create:crushed_raw_iron, count: 2 }
+  - { item: create_ironworks:coal_dust, count: 7 }
+results:
+  - { item: create_ironworks:steel_ingot }
+  - { item: create_ironworks:steel_nugget, count: 5 }
+  - { item: minecraft:iron_nugget, chance: 0.2 }
+  - { item: create:experience_nugget, chance: 0.95 }
+
+# --*--*--*--*--*--* from_ingots --*--*--*--*--*--*
+
+---
+id: create_ironworks:alloys/from_ingots/mixing_steel_from_charcoal
+type: create:mixing
+heatRequirement: heated
+ingredients:
+  - { item: minecraft:iron_ingot, count: 2 }
+  - { item: create_ironworks:charcoal_dust, count: 7 }
+results:
+  - { item: create_ironworks:steel_ingot }
+  - { item: create_ironworks:steel_nugget, count: 2 }
+  - { item: minecraft:iron_nugget, chance: 0.8 }
+  - { item: create:experience_nugget, chance: 0.95 }
+
+---
+id: create_ironworks:alloys/from_ingots/mixing_steel_from_coal
+type: create:mixing
+heatRequirement: heated
+ingredients:
+  - { item: minecraft:iron_ingot, count: 2 }
+  - { item: create_ironworks:coal_dust, count: 7 }
+results:
+  - { item: create_ironworks:steel_ingot }
+  - { item: create_ironworks:steel_nugget, count: 5 }
+  - { item: minecraft:iron_nugget, chance: 0.2 }
+  - { item: create:experience_nugget, chance: 0.95 }
+
+
+# --*--*--*--*--*--* from_nuggets --*--*--*--*--*--*
+
+---
+id: create_ironworks:alloys/from_nuggets/mixing_steel_from_charcoal
+type: create:mixing
+heatRequirement: heated
+ingredients:
+  - { item: minecraft:iron_nugget, count: 2 }
+  - { item: create_ironworks:charcoal_dust }
+results:
+  - { item: create_ironworks:steel_nugget }
+  - { item: create_ironworks:steel_nugget, chance: 0.07 }
+  - { item: minecraft:iron_nugget, chance: 0.3 }
+  - { item: create:experience_nugget, chance: 0.19 }
+
+---
+id: create_ironworks:alloys/from_nuggets/mixing_steel_from_coal
+type: create:mixing
+heatRequirement: heated
+ingredients:
+  - { item: minecraft:iron_nugget, count: 2 }
+  - { item: create_ironworks:coal_dust }
+results:
+  - { item: create_ironworks:steel_nugget }
+  - { item: create_ironworks:steel_nugget, chance: 0.13 }
+  - { item: minecraft:iron_nugget, chance: 0.07 }
+  - { item: create:experience_nugget, chance: 0.19 }

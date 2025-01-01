@@ -1,0 +1,13 @@
+name = "Toni's Immersive Lanterns"
+filename = "../immersivelanterns-forge-1.0.5-1.20.1.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/vskzdsyT/versions/cqsBjv7t/immersivelanterns-forge-1.0.5-1.20.1.jar"
+hash-format = "sha1"
+hash = "6a846dacf7c4e8a360efc78122113e5a1296ce4c"
+
+[update]
+[update.modrinth]
+mod-id = "vskzdsyT"
+version = "cqsBjv7t"

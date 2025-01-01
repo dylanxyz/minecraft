@@ -1,0 +1,11 @@
+{
+  "tasks": {
+    "datagen": "deno run -A scripts/datagen/main.ts"
+  },
+  "imports": {
+    "@std/assert": "jsr:@std/assert@1",
+    "@std/fs": "jsr:@std/fs@^1.0.8",
+    "@std/path": "jsr:@std/path@^1.0.8",
+    "@std/yaml": "jsr:@std/yaml@^1.0.5"
+  }
+}

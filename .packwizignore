@@ -4,6 +4,7 @@
 /external
 /mods/.disabled
 /node_modules
+/datagen
 
 .probe
 

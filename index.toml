@@ -90,7 +90,7 @@ preserve = true
 
 [[files]]
 file = "config/resourcepackoverrides.json"
-hash = "676bb18e491e7b890c0b71ff2ca922bc903ab041ebf64bb807a0f16619064fe3"
+hash = "a8036768c985fc48126455ab530d86a8543def5c15230c484ebbd809178aec9b"
 
 [[files]]
 file = "config/roughlyenoughitems/config.json5"
@@ -105,114 +105,6 @@ preserve = true
 [[files]]
 file = "keys.txt"
 hash = "6d5b3e6b3b8c631704d02bc1f8d6d55f416654d070e625a6eaba39164282bc92"
-
-[[files]]
-file = "kubejs/README.txt"
-hash = "989f3737ae4621b8ff6730bce4cbeeee756921e7e510e0c281c8a350501d98af"
-
-[[files]]
-file = "kubejs/assets/emi/index/stacks/remove.json"
-hash = "6e1256ca3e86c924ec67b92bb04eb62e5dba208b6be0f30de85fad915a21b87e"
-
-[[files]]
-file = "kubejs/assets/emi/recipe/additions/campfire.json"
-hash = "b26241a36b5f6e992eb28425dbbbd80beefcc669d66fddd3ddf18f4acdb4c316"
-
-[[files]]
-file = "kubejs/assets/emi/recipe/additions/flint_shard.json"
-hash = "9771bfa894e68edb631035cd10b3fd6b770cc9e9eae52a2e6f9d2dfb85b04768"
-
-[[files]]
-file = "kubejs/assets/emi/recipe/additions/plant_fiber.json"
-hash = "79a4ee38aeb556bd016548b85073aaac28df907d4be93b7b63e1b0fefd032482"
-
-[[files]]
-file = "kubejs/client_scripts/jsconfig.json"
-hash = "dee1340c5e7927f5675987957c6b198f9ca2e1e731291d72396278dddc066a04"
-
-[[files]]
-file = "kubejs/client_scripts/src/script.js"
-hash = "e8a0f6c4e9ab255e54f86abb90a9241c5436ba246c9a8ec531dd9b997ec57306"
-
-[[files]]
-file = "kubejs/config/client.properties"
-hash = "3496b3ba1199cea43b2860936f2917eb273504825b6e6cee0a20e0b1c8d4220c"
-
-[[files]]
-file = "kubejs/config/common.properties"
-hash = "1081b9d5577a80bdfb86ed8fe92a7ea21164a8825e54269ffdfadcc317a84b9e"
-
-[[files]]
-file = "kubejs/config/probe-settings.json"
-hash = "41c742cd326bb8152cb278d4507b58983e30a234bd25791f82bd0c573777c47d"
-
-[[files]]
-file = "kubejs/data/create_ironworks/recipes/alloys/from_crushed/mixing_steel_from_charcoal.json"
-hash = "e227f5ef6af9b3cc47b5e3c45bdd1ea72dbb7f2e95e1977fa9198e8c64f06c75"
-
-[[files]]
-file = "kubejs/data/create_ironworks/recipes/alloys/from_crushed/mixing_steel_from_coal.json"
-hash = "424213ee59b8a6f5e0635bc586d6f42b6ca0a52724bba774d30ca65ec645ba96"
-
-[[files]]
-file = "kubejs/data/create_ironworks/recipes/alloys/from_ingots/mixing_steel_from_charcoal.json"
-hash = "4d8b502965ddb5fd75c29f6d36be51495c8df0e8decfc41eebba635ef05e906b"
-
-[[files]]
-file = "kubejs/data/create_ironworks/recipes/alloys/from_ingots/mixing_steel_from_coal.json"
-hash = "67336dcbaa260402f52552cadd1ebb2ab52e2f024abaa05df89f5ccd2f3863c3"
-
-[[files]]
-file = "kubejs/data/create_ironworks/recipes/alloys/from_nuggets/mixing_steel_from_charcoal.json"
-hash = "5c7ab7416763de5a578c31e8f18af55a9577aec324c3c32295cbd5a2fdab0b0a"
-
-[[files]]
-file = "kubejs/data/create_ironworks/recipes/alloys/from_nuggets/mixing_steel_from_coal.json"
-hash = "642ce4b4145a1b21af81f75fed0fc9418921367cfb211597e20866cfd5cbcea4"
-
-[[files]]
-file = "kubejs/data/fromtheshadows/forge/biome_modifier/entity_spawns.json"
-hash = "6884a93d475a13e10462bbfd3381fea0135fde85c773348a6f607161420b24e6"
-
-[[files]]
-file = "kubejs/data/superflat/dimension/superflat.json"
-hash = "5b59c1670d2deab14da6575b65eb654e794aadb06e863d3b24a4c53c5fb21a76"
-
-[[files]]
-file = "kubejs/server_scripts/jsconfig.json"
-hash = "44dd54e4aec7d77ff5f86e1a73356438a529f81e548edee7ce4011e0b9281e55"
-
-[[files]]
-file = "kubejs/server_scripts/src/custom.js"
-hash = "a15d7de92dfda4d2f357c50743dacce24e4aa9d1766bd93f74d1e8010735489e"
-
-[[files]]
-file = "kubejs/server_scripts/src/loot.js"
-hash = "2ea53adfaf057b96fd3a046a4b8e88c10b532a2d9ff5585c0e37c5f5a47b2988"
-
-[[files]]
-file = "kubejs/server_scripts/src/recipes.js"
-hash = "9883d5b4d1d49c9fa5fcd98508102dff969be346c1a4c577d84a53e30ba62cd8"
-
-[[files]]
-file = "kubejs/server_scripts/src/sculk_horde.js"
-hash = "986160e650c2bfc03cf7e5995ab6e88b1fe11373461c1601efaad546e766a524"
-
-[[files]]
-file = "kubejs/server_scripts/src/spawn.js"
-hash = "6c1ad5d3fa0d2abdaafd581c37aa979111d71a4e9d236051cc97180868b1b840"
-
-[[files]]
-file = "kubejs/server_scripts/src/tags.js"
-hash = "8fd186fb99368efa9303d8ff4a67dace0b542434ab28ebf65a0c52fb5d217bd2"
-
-[[files]]
-file = "kubejs/startup_scripts/jsconfig.json"
-hash = "44dd54e4aec7d77ff5f86e1a73356438a529f81e548edee7ce4011e0b9281e55"
-
-[[files]]
-file = "kubejs/startup_scripts/src/custom.js"
-hash = "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
 
 [[files]]
 file = "mods/create/create-connected.pw.toml"
@@ -272,11 +164,6 @@ metafile = true
 [[files]]
 file = "mods/create/protection-pixel.pw.toml"
 hash = "9b48861410c18a13fb294c1c9f16bdac08566f54c17758d17a377ada0dc8d41c"
-metafile = true
-
-[[files]]
-file = "mods/create/trackwork.pw.toml"
-hash = "704475786268760ebc8e333c7e4f5b2d73f5fd3e89656d26994d1819ed424b01"
 metafile = true
 
 [[files]]
@@ -475,6 +362,16 @@ hash = "94d03f560b2b67fa27191283d0a362b173ebde7fa51f106c74e3889fdfd68f60"
 metafile = true
 
 [[files]]
+file = "mods/library/accessories-cc-layer.pw.toml"
+hash = "2513c8f11ef91f4dbab1ec75f2950c47c1a3fab7f44a535a83cbdfe6a32921e8"
+metafile = true
+
+[[files]]
+file = "mods/library/accessories.pw.toml"
+hash = "6864ac369ccc55d990880451c2f6513c086ebc0bda098b2cf139c90a5d292652"
+metafile = true
+
+[[files]]
 file = "mods/library/almanac-lib.pw.toml"
 hash = "0b0fb87b6dfe67ee12a4f7519f525b872ff4b69d77789d9624f3d32f8a7681a5"
 metafile = true
@@ -537,11 +434,6 @@ metafile = true
 [[files]]
 file = "mods/library/cupboard.pw.toml"
 hash = "c4f6ac2e93d8185fd617fe0530ce68c38a6e78a51e4c8645a0e5ab5b508e5fac"
-metafile = true
-
-[[files]]
-file = "mods/library/curios.pw.toml"
-hash = "189a8b53a9d78345804171a599a77bccce389a7b96863c0541929ba3af472f83"
 metafile = true
 
 [[files]]
@@ -640,8 +532,18 @@ hash = "97a938e790bd3e035e9d4ae72861f8dc2bd625fe83af7e126d2b2f7254152f56"
 metafile = true
 
 [[files]]
+file = "mods/library/sodium-dynamic-lights.pw.toml"
+hash = "8e268da1671171d6386445dd5d22899b1281696d2aa051488675a8939df3056c"
+metafile = true
+
+[[files]]
 file = "mods/library/toadlib.pw.toml"
 hash = "99e716537136d74140b1d8afd11c9044275b93ce8647d4d6cbce64a639c55614"
+metafile = true
+
+[[files]]
+file = "mods/library/txnilib.pw.toml"
+hash = "762d53f5127160b8e900bf7fff366c2adfd5bea5815d8370d9935f668df787f8"
 metafile = true
 
 [[files]]
@@ -767,6 +669,11 @@ metafile = true
 [[files]]
 file = "mods/misc/ice-and-fire-spellbooks.pw.toml"
 hash = "3eb119f0aaf25d2f79d3c9aefd5971b9f8879c406a190685ebadcc231f721570"
+metafile = true
+
+[[files]]
+file = "mods/misc/immersive-lanterns.pw.toml"
+hash = "7a0d0c6daa1dbbc28cef8b85be516720daac5b49eb18803c4c46f5042be6e620"
 metafile = true
 
 [[files]]
@@ -1060,6 +967,11 @@ hash = "a610a8fe53493114fe56d8388f6f88f6712665edac8cb3a719d64af7e0844ef4"
 metafile = true
 
 [[files]]
+file = "mods/utilities/globalpacks.pw.toml"
+hash = "bbbd6fcd485120a6326d49baf7027de5fe911e732180727fb723ecdc630765ff"
+metafile = true
+
+[[files]]
 file = "mods/utilities/in-control.pw.toml"
 hash = "19f0ecb5df40365bf0e5d153952ecb3442b531a48b14a0ab6ee39b4ebac0287f"
 metafile = true
@@ -1082,6 +994,11 @@ metafile = true
 [[files]]
 file = "mods/utilities/lootjs.pw.toml"
 hash = "0521611d71061de91153fbfc0e2eab1ec1f1b1660299e6223e814f6f25f4e9bd"
+metafile = true
+
+[[files]]
+file = "mods/utilities/lychee.pw.toml"
+hash = "22345923a642c84a91abe6809e3c156e377921dc8e8f75255e8b3ae8074769a9"
 metafile = true
 
 [[files]]
@@ -1145,6 +1062,94 @@ hash = "1347f65d6d573689fc0fa4ad32644e09be237188b2bf774a22c88d24bba0cd36"
 preserve = true
 
 [[files]]
+file = "resourcepacks/@integrated/assets/create_new_age/textures/block/thorium_ore_e.png"
+hash = "e3bc07c530e9107e081ac136299ada339ccaad1cc5f8ab39243915a1078d58e0"
+
+[[files]]
+file = "resourcepacks/@integrated/data/@modpack/recipes/leather.json"
+hash = "8a3bf9183de466968879b16c4885658ebddd4ce0051262c6dbfa2058b1dc0820"
+
+[[files]]
+file = "resourcepacks/@integrated/data/@modpack/recipes/lychee/campfire.json"
+hash = "e5748fc5528bd3e456c5a002583262ee604071637eb4818d1920437462c64a80"
+
+[[files]]
+file = "resourcepacks/@integrated/data/create_ironworks/recipes/alloys/from_crushed/mixing_steel_from_charcoal.json"
+hash = "13b72e47d93d9881aaf2922d43f33f4c0ff736a504eb60c54a46c50b2c8ccf81"
+
+[[files]]
+file = "resourcepacks/@integrated/data/create_ironworks/recipes/alloys/from_crushed/mixing_steel_from_coal.json"
+hash = "03ba202cd91bf7eac2339a347cd3e35ec40be6980a824cc403de258aae256d1e"
+
+[[files]]
+file = "resourcepacks/@integrated/data/create_ironworks/recipes/alloys/from_ingots/mixing_steel_from_charcoal.json"
+hash = "21ad5ee8e04bab6e0f44640ba0b278ba26ddd76dc88a86cd6146c2c5b262ae8c"
+
+[[files]]
+file = "resourcepacks/@integrated/data/create_ironworks/recipes/alloys/from_ingots/mixing_steel_from_coal.json"
+hash = "36f6cc44f1bdffedd0a137c52047426241c3b2d9b4f0bdf53d8ddfd808c62b83"
+
+[[files]]
+file = "resourcepacks/@integrated/data/create_ironworks/recipes/alloys/from_nuggets/mixing_steel_from_charcoal.json"
+hash = "f93fb81eeac3927e7fa08bb169ff0bc364f0243e116820af98159facf584236b"
+
+[[files]]
+file = "resourcepacks/@integrated/data/create_ironworks/recipes/alloys/from_nuggets/mixing_steel_from_coal.json"
+hash = "63ee9a83455d19cc541cfe551e8644cfdba68bd7535af47126d0b46e9cc3d14b"
+
+[[files]]
+file = "resourcepacks/@integrated/data/fromtheshadows/forge/biome_modifier/spawns.json"
+hash = "58e8baef0fcad01fa29c074afbed63c3c456d8185333c1cbb03ddeaddd1684be"
+
+[[files]]
+file = "resourcepacks/@integrated/data/minecraft/recipes/campfire.json"
+hash = "ceb532a53341c546ad09d52fe803caf8a2a5716fc531ab6fa7682ecb370dc8ab"
+
+[[files]]
+file = "resourcepacks/@integrated/data/minecraft/recipes/glass.json"
+hash = "9c0417d6981acb1e9df4df69242e39aea4c661c3e0e9a9ac7a69e599fdf8e36c"
+
+[[files]]
+file = "resourcepacks/@integrated/data/notreepunching/recipes/diamond_knife.json"
+hash = "a7ee4a60c272df9889d13d98d5bc895974b587121b6d75c8e6e39e2f2f8e4d37"
+
+[[files]]
+file = "resourcepacks/@integrated/data/notreepunching/recipes/diamond_mattock.json"
+hash = "a7ee4a60c272df9889d13d98d5bc895974b587121b6d75c8e6e39e2f2f8e4d37"
+
+[[files]]
+file = "resourcepacks/@integrated/data/notreepunching/recipes/gold_knife.json"
+hash = "a7ee4a60c272df9889d13d98d5bc895974b587121b6d75c8e6e39e2f2f8e4d37"
+
+[[files]]
+file = "resourcepacks/@integrated/data/notreepunching/recipes/gold_mattock.json"
+hash = "a7ee4a60c272df9889d13d98d5bc895974b587121b6d75c8e6e39e2f2f8e4d37"
+
+[[files]]
+file = "resourcepacks/@integrated/data/notreepunching/recipes/iron_knife.json"
+hash = "a7ee4a60c272df9889d13d98d5bc895974b587121b6d75c8e6e39e2f2f8e4d37"
+
+[[files]]
+file = "resourcepacks/@integrated/data/notreepunching/recipes/iron_mattock.json"
+hash = "a7ee4a60c272df9889d13d98d5bc895974b587121b6d75c8e6e39e2f2f8e4d37"
+
+[[files]]
+file = "resourcepacks/@integrated/data/notreepunching/recipes/netherite_knife.json"
+hash = "a7ee4a60c272df9889d13d98d5bc895974b587121b6d75c8e6e39e2f2f8e4d37"
+
+[[files]]
+file = "resourcepacks/@integrated/data/notreepunching/recipes/netherite_mattock.json"
+hash = "a7ee4a60c272df9889d13d98d5bc895974b587121b6d75c8e6e39e2f2f8e4d37"
+
+[[files]]
+file = "resourcepacks/@integrated/data/superflat/dimension/superflat.json"
+hash = "5b59c1670d2deab14da6575b65eb654e794aadb06e863d3b24a4c53c5fb21a76"
+
+[[files]]
+file = "resourcepacks/@integrated/pack.mcmeta"
+hash = "fd15bf8b2e9c1a9c6f4163a6622aab52b85a579ae0c973e7eb4b6f4acf4d790d"
+
+[[files]]
 file = "resourcepacks/create_new_age_refrubished.pw.toml"
 hash = "b83b4f10794469b11497e18590c9ddc2ae97641fc9f7fed193689b6c9eed2e0e"
 metafile = true
@@ -1178,14 +1183,6 @@ metafile = true
 file = "resourcepacks/improved-crafting-table-squarzy.pw.toml"
 hash = "6e7ac2628d07769bb1458e91c0c00bc57e555c9b66ab7a5b2b2245ac3f9e2eff"
 metafile = true
-
-[[files]]
-file = "resourcepacks/modpackfix/assets/create_new_age/textures/block/thorium_ore_e.png"
-hash = "e3bc07c530e9107e081ac136299ada339ccaad1cc5f8ab39243915a1078d58e0"
-
-[[files]]
-file = "resourcepacks/modpackfix/pack.mcmeta"
-hash = "aa56be6f3d456e088058c70c428a5a2b3fce9654eb8a04147560feed0871e2fd"
 
 [[files]]
 file = "resourcepacks/no-enchant-glint.pw.toml"

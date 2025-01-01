@@ -1,0 +1,47 @@
+---
+id: "minecraft:glass"
+type: "create:mixing"
+heatRequirement: "heated"
+
+ingredients:
+  - item: "#minecraft:coals"
+  - item: "#minecraft:sand"
+  - item: "minecraft:dried_kelp"
+
+results:
+  - { item: "minecraft:glass", count: 2 }
+  - { item: "minecraft:glass", count: 2, chance: 0.5 }
+
+---
+id: "@modpack:leather"
+type: "create:mixing"
+heatRequirement: "heated"
+
+ingredients:
+  - item: "#minecraft:coals"
+  - item: "#minecraft:sand"
+  -
+    - item: minecraft:beef
+    - item: minecraft:mutton
+    - item: minecraft:porkchop
+    - item: minecraft:rotten_flesh
+
+results:
+  - { item: "minecraft:leather", count: 2 }
+  - { item: "minecraft:leather", count: 2, chance: 0.5 }
+
+---
+id: minecraft:campfire
+type: minecraft:crafting_shaped
+pattern:
+  - "--"
+  - "=="
+key:
+  "-":
+    - item: notreepunching:plant_fiber
+    - tag: "#minecraft:saplings"
+    - tag: "#minecraft:planks"
+    - item: minecraft:stick
+
+  "=":
+    tag: "#minecraft:logs_that_burn"

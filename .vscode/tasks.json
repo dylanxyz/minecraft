@@ -111,13 +111,7 @@
             "label": "scripts.modrinth.add",
             "type": "shell",
             "command": [
-                "deno",
-                "--allow-env",
-                "--allow-read",
-                "--allow-write",
-                "--allow-sys",
-                "--allow-run",
-                "${workspaceFolder}/scripts/install.ts",
+                "${workspaceFolder}/scripts/install.ps1",
                 "modrinth",
                 "${input:category}",
                 "${input:modspec}"
@@ -128,19 +122,13 @@
             "label": "scripts.curseforge.add",
             "type": "shell",
             "command": [
-                "deno",
-                "--allow-env",
-                "--allow-read",
-                "--allow-write",
-                "--allow-sys",
-                "--allow-run",
-                "${workspaceFolder}/scripts/install.ts",
+                "${workspaceFolder}/scripts/install.ps1",
                 "curseforge",
                 "${input:category}",
                 "${input:modspec}"
             ],
             "hide": true
-        }
+        },
     ],
     "inputs": [
         {
@@ -155,6 +143,7 @@
             "options": [
                 "resourcepacks",
                 "shaderpacks",
+                "datapacks",
                 "create",
                 "equipment",
                 "essentials",

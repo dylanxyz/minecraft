@@ -1,0 +1,26 @@
+{
+    "type": "create:mixing",
+    "heatRequirement": "heated",
+    "ingredients": [
+        {
+            "item": "#minecraft:coals"
+        },
+        {
+            "item": "#minecraft:sand"
+        },
+        {
+            "item": "minecraft:dried_kelp"
+        }
+    ],
+    "results": [
+        {
+            "item": "minecraft:glass",
+            "count": 2
+        },
+        {
+            "item": "minecraft:glass",
+            "count": 2,
+            "chance": 0.5
+        }
+    ]
+}

@@ -1,0 +1,24 @@
+{
+    "type": "forge:add_spawns",
+    "biomes": "#forge:is_overworld",
+    "spawners": [
+        {
+            "type": "fromtheshadows:nehemoth",
+            "weight": 50,
+            "minCount": 1,
+            "maxCount": 4
+        },
+        {
+            "type": "fromtheshadows:froglin",
+            "weight": 50,
+            "minCount": 1,
+            "maxCount": 3
+        },
+        {
+            "type": "fromtheshadows:bulldrogioth",
+            "weight": 10,
+            "minCount": 1,
+            "maxCount": 2
+        }
+    ]
+}

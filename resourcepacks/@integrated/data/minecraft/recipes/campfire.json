@@ -1,0 +1,26 @@
+{
+    "type": "minecraft:crafting_shaped",
+    "pattern": [
+        "--",
+        "=="
+    ],
+    "key": {
+        "-": [
+            {
+                "item": "notreepunching:plant_fiber"
+            },
+            {
+                "tag": "#minecraft:saplings"
+            },
+            {
+                "tag": "#minecraft:planks"
+            },
+            {
+                "item": "minecraft:stick"
+            }
+        ],
+        "=": {
+            "tag": "#minecraft:logs_that_burn"
+        }
+    }
+}

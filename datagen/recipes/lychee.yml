@@ -1,0 +1,14 @@
+---
+id: "@modpack:lychee/campfire"
+type: lychee:block_interacting
+item_in:
+  - item: minecraft:torch
+block_in: minecraft:campfire
+post:
+  - type: prevent_default
+  - type: cycle_state_property
+    block:
+      blocks: minecraft:campfire
+      state:
+        LIT: false
+    property: LIT

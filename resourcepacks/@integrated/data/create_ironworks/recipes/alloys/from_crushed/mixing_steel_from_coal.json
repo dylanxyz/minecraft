@@ -1,0 +1,31 @@
+{
+    "type": "create:mixing",
+    "heatRequirement": "heated",
+    "ingredients": [
+        {
+            "item": "create:crushed_raw_iron",
+            "count": 2
+        },
+        {
+            "item": "create_ironworks:coal_dust",
+            "count": 7
+        }
+    ],
+    "results": [
+        {
+            "item": "create_ironworks:steel_ingot"
+        },
+        {
+            "item": "create_ironworks:steel_nugget",
+            "count": 5
+        },
+        {
+            "item": "minecraft:iron_nugget",
+            "chance": 0.2
+        },
+        {
+            "item": "create:experience_nugget",
+            "chance": 0.95
+        }
+    ]
+}

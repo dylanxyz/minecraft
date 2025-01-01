@@ -1,6 +1,0 @@
-{
-    "type": "emi:world_interaction",
-    "left": "item:minecraft:torch",
-    "right": "item:minecraft:campfire{Lit:false}",
-    "output": "item:minecraft:campfire{Lit:true}"
-}

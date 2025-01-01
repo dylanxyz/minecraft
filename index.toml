@@ -796,6 +796,11 @@ hash = "51f37714d652753b1b145e49f577c977f6c62e6181d5fdca333fd204c7e4be09"
 metafile = true
 
 [[files]]
+file = "mods/mobs/sons-of-sins.pw.toml"
+hash = "bb52cf06e0325b0930618bc4034e4adac7ab81e766bc0389985b93a078e60b60"
+metafile = true
+
+[[files]]
 file = "mods/mobs/spawn-mod.pw.toml"
 hash = "beca9dc64c3735c027d25251a4de33f4fd00bd9a3abeb774cc50f4c7aacf575f"
 metafile = true

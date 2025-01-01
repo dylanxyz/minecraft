@@ -1,5 +1,5 @@
 ---
-id: "@modpack:lychee/campfire"
+id: "modpack:lychee/campfire"
 type: lychee:block_interacting
 item_in:
   - item: minecraft:torch

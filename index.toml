@@ -1045,14 +1045,6 @@ file = "resourcepacks/@integrated/assets/create_new_age/textures/block/thorium_o
 hash = "e3bc07c530e9107e081ac136299ada339ccaad1cc5f8ab39243915a1078d58e0"
 
 [[files]]
-file = "resourcepacks/@integrated/data/@modpack/recipes/leather.json"
-hash = "8a3bf9183de466968879b16c4885658ebddd4ce0051262c6dbfa2058b1dc0820"
-
-[[files]]
-file = "resourcepacks/@integrated/data/@modpack/recipes/lychee/campfire.json"
-hash = "e5748fc5528bd3e456c5a002583262ee604071637eb4818d1920437462c64a80"
-
-[[files]]
 file = "resourcepacks/@integrated/data/create_ironworks/recipes/alloys/from_crushed/mixing_steel_from_charcoal.json"
 hash = "13b72e47d93d9881aaf2922d43f33f4c0ff736a504eb60c54a46c50b2c8ccf81"
 
@@ -1087,6 +1079,14 @@ hash = "ceb532a53341c546ad09d52fe803caf8a2a5716fc531ab6fa7682ecb370dc8ab"
 [[files]]
 file = "resourcepacks/@integrated/data/minecraft/recipes/glass.json"
 hash = "9c0417d6981acb1e9df4df69242e39aea4c661c3e0e9a9ac7a69e599fdf8e36c"
+
+[[files]]
+file = "resourcepacks/@integrated/data/modpack/recipes/leather.json"
+hash = "8a3bf9183de466968879b16c4885658ebddd4ce0051262c6dbfa2058b1dc0820"
+
+[[files]]
+file = "resourcepacks/@integrated/data/modpack/recipes/lychee/campfire.json"
+hash = "e5748fc5528bd3e456c5a002583262ee604071637eb4818d1920437462c64a80"
 
 [[files]]
 file = "resourcepacks/@integrated/data/notreepunching/recipes/diamond_knife.json"

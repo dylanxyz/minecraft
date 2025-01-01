@@ -991,6 +991,11 @@ hash = "a079a50b1b22391b4b48a6284934fdc95838b47994420cbf835e7fdfbc1a3429"
 metafile = true
 
 [[files]]
+file = "mods/utilities/structurify.pw.toml"
+hash = "2b0cb21d6b98e0e3e61c415785705f1c5eaac8d93b9cd4f3999bf0ea70c0fddc"
+metafile = true
+
+[[files]]
 file = "mods/utilities/wits.pw.toml"
 hash = "efae7db58221428950ad0f2294efb5e8040ac62fc01d8235f5681a8110cd7de6"
 metafile = true

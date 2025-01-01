@@ -1,51 +1,38 @@
 [
     {
-        "result"    : "deny",
+        "result"    : "default",
         "hostile"   : true,
-        "area"      : "island",
+        "height"    : "lt(50)",
+        "dimension" : "overworld"
+    },
+    {
+        "result"    : "default",
+        "hostile"   : true,
+        "height"    : "gt(50)",
+        "biometags" : ["forge:caves"],
+        "dimension" : "overworld"
+    },
+    {
+        "result"    : "default",
+        "mod"       : "sculkhorde",
         "dimension" : "overworld"
     },
     {
         "result"    : "deny",
-        "mod"       : "spore",
-        "area"      : "island",
+        "hostile"   : true,
+        "height"    : "gt(200)",
         "dimension" : "overworld"
     },
     {
-        "result"    : "allow",
+        "result"    : "deny",
         "hostile"   : true,
-        "minheight" : 50,
+        "height"    : "gt(50)",
         "dimension" : "overworld",
-        "number"    : {
-            "name"       : "lunarPhase",
-            "expression" : "equal(3)"
-        }
+        "phase"     : "safe_phase"
     },
     {
-        "result"    : "allow",
+        "result"    : "default",
         "hostile"   : true,
-        "minheight" : 50,
-        "dimension" : "overworld",
-        "number"    : {
-            "name"       : "lunarPhase",
-            "expression" : "equal(4)"
-        }
-    },
-    {
-        "result"    : "allow",
-        "hostile"   : true,
-        "minheight" : 50,
-        "biometags" : ["is_cave"],
         "dimension" : "overworld"
-    },
-    {
-        "result"    : "deny",
-        "hostile"   : true,
-        "minheight" : 50,
-        "dimension" : "overworld"
-    },
-    {
-        "result"  : "allow",
-        "hostile" : true
     }
 ]

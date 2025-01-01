@@ -44,13 +44,8 @@ file = "config/immediatelyfast.json"
 hash = "6602fc832ec8ad88ebeaedb1dada2da12d0c18e07cca2209cc53a00338619091"
 
 [[files]]
-file = "config/incontrol/areas.json"
-hash = "0239ab6b2c70e9d45a8aaeac92fcf375fcbea74838236dcafe12d469b00678b2"
-preserve = true
-
-[[files]]
 file = "config/incontrol/spawn.json"
-hash = "c79cd6d0a7500267f49ad1339682f49497dfa05c70605520e8d6bb03a34bc7b4"
+hash = "9e921debed34ba10652b1ffbc0fbaaf75398a5f36b8781718e014ab6101c1729"
 preserve = true
 
 [[files]]
@@ -96,6 +91,10 @@ hash = "a8036768c985fc48126455ab530d86a8543def5c15230c484ebbd809178aec9b"
 file = "config/roughlyenoughitems/config.json5"
 hash = "d6c2b00b7b3edb3220ffcac39bb4b495ab22603e6b454c4c42990b328227e58e"
 preserve = true
+
+[[files]]
+file = "config/thirst/item_settings.toml"
+hash = "10fd2ce4c28691113d6ce76d0a3252799fa476a0f5694088e7e8aaad1e873a00"
 
 [[files]]
 file = "defaultconfigs/hourglass-server.toml"
@@ -522,11 +521,6 @@ hash = "48b3e29dd4800b6c38b0837ccc7b14aa7663a44f2488faeb1bc52348ddd11001"
 metafile = true
 
 [[files]]
-file = "mods/library/rhino.pw.toml"
-hash = "1cbf629957e36196117f46c7c319f6ec92914494aa800886ae3148c6b513a2d6"
-metafile = true
-
-[[files]]
 file = "mods/library/searchables.pw.toml"
 hash = "97a938e790bd3e035e9d4ae72861f8dc2bd625fe83af7e126d2b2f7254152f56"
 metafile = true
@@ -589,11 +583,6 @@ metafile = true
 [[files]]
 file = "mods/mechanics/no-tree-punching.pw.toml"
 hash = "97bf21e57e3cd9ede0450aad27d066057c609cd0d56dd6aae7d0c2e633ca1bbc"
-metafile = true
-
-[[files]]
-file = "mods/mechanics/paranoia.pw.toml"
-hash = "7dca1648831573e4ec0c56814619dcbc862a78a5396474405e3d03f1e33dbc4a"
 metafile = true
 
 [[files]]
@@ -729,11 +718,6 @@ metafile = true
 [[files]]
 file = "mods/misc/simple-voice-radio.pw.toml"
 hash = "f5569752296dc10838df9191266a8de1913185b9f1f147586cb595d832e5f9a8"
-metafile = true
-
-[[files]]
-file = "mods/misc/sparsestructuresreforged.pw.toml"
-hash = "1e48c9dbca80d0f4d15986c17725cd885c231ef5d15101b38f796fc1503a67fb"
 metafile = true
 
 [[files]]
@@ -952,11 +936,6 @@ hash = "0c67f80036f47d195951f51f2dda4e7c281f43e5a8b5cf9f1d3c3c9b0c2228da"
 metafile = true
 
 [[files]]
-file = "mods/utilities/disable-structures.pw.toml"
-hash = "f733921b08119b47a7873329c666510514468f05bf84f61a3e08b1d5701b39e0"
-metafile = true
-
-[[files]]
 file = "mods/utilities/easy-anvils.pw.toml"
 hash = "fdf506c08a12fceede80e7fdd81db0cfa0e0e9ea65f38441bc89209c6526239f"
 metafile = true
@@ -979,21 +958,6 @@ metafile = true
 [[files]]
 file = "mods/utilities/inventory-sorter.pw.toml"
 hash = "0e1e0b229d27ff6da663064203fe9fe9afa16f6512f74fa2c178f45af39654ce"
-metafile = true
-
-[[files]]
-file = "mods/utilities/kubejs-create.pw.toml"
-hash = "20b6b33c442f00c3ab50353e5aa6cbec5a74befbafe0b781945e46054c4b3b35"
-metafile = true
-
-[[files]]
-file = "mods/utilities/kubejs.pw.toml"
-hash = "b2497f911009b26c22533bbf3fae30c0f99920995cdacee45682401d39007b53"
-metafile = true
-
-[[files]]
-file = "mods/utilities/lootjs.pw.toml"
-hash = "0521611d71061de91153fbfc0e2eab1ec1f1b1660299e6223e814f6f25f4e9bd"
 metafile = true
 
 [[files]]

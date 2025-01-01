@@ -1,7 +1,7 @@
 $PACKWIZ_DOWNLOAD_URL = "https://github.com/packwiz/packwiz-installer-bootstrap/releases/download/v0.0.3/packwiz-installer-bootstrap.jar"
 
-$java = $args[0]
-$link = $args[1]
+$java = $env:INST_JAVA
+$link = $env:SOURCE
 
 if (Test-Path -Path "packwiz-installer-bootstrap.jar") {
     Write-Output "Packwiz installer already downloaded..."
@@ -12,8 +12,7 @@ else {
     Invoke-WebRequest -Uri $PACKWIZ_DOWNLOAD_URL -OutFile "packwiz-installer-bootstrap.jar"
 }
 
-$process = Start-Process -FilePath $java -ArgumentList "-jar packwiz-installer-bootstrap.jar $link"
-$process.WaitForExit()
+$process = Start-Process -PassThru -Wait -FilePath $java -ArgumentList "-jar packwiz-installer-bootstrap.jar $link"
 
 if ($process.ExitCode -ne 0) {
     exit $process.ExitCode

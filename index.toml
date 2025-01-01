@@ -541,6 +541,11 @@ hash = "762d53f5127160b8e900bf7fff366c2adfd5bea5815d8370d9935f668df787f8"
 metafile = true
 
 [[files]]
+file = "mods/library/yacl.pw.toml"
+hash = "9307f4fd9deb656c9966e4136c9b21971b51d39090b4f9c6aa091750056fdaef"
+metafile = true
+
+[[files]]
 file = "mods/mechanics/aquaculture.pw.toml"
 hash = "5a9d250343ee4a42c1a4576b60f63e5c541febbc6b60693a2021c0670cc3131c"
 metafile = true

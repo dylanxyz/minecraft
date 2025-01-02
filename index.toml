@@ -93,6 +93,11 @@ hash = "d6c2b00b7b3edb3220ffcac39bb4b495ab22603e6b454c4c42990b328227e58e"
 preserve = true
 
 [[files]]
+file = "config/sodiumdynamiclights-client.toml"
+hash = "505b7eab2b103cbdefa8be934b30d1839ce710ca35d725a372dfc16f0664fdf1"
+preserve = true
+
+[[files]]
 file = "config/thirst/item_settings.toml"
 hash = "10fd2ce4c28691113d6ce76d0a3252799fa476a0f5694088e7e8aaad1e873a00"
 

@@ -1104,7 +1104,7 @@ hash = "e2cb36a597e2166d67f6afcc83fb5a17c54ece44ccd577a163cbd8d7896c5c12"
 
 [[files]]
 file = "resourcepacks/@integrated/data/modpack/recipes/lychee/campfire.json"
-hash = "e5748fc5528bd3e456c5a002583262ee604071637eb4818d1920437462c64a80"
+hash = "bc034e0f4d831bac05cdafdb16c6b29bbd92045b756bc3b0e6111f2e5963d8ea"
 
 [[files]]
 file = "resourcepacks/@integrated/data/notreepunching/recipes/diamond_knife.json"

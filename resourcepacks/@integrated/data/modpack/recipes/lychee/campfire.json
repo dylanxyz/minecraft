@@ -1,24 +1,24 @@
 {
     "type": "lychee:block_interacting",
-    "item_in": [
-        {
-            "item": "minecraft:torch"
+    "item_in": {
+        "item": "minecraft:torch"
+    },
+    "block_in": {
+        "blocks": [
+            "minecraft:campfire"
+        ],
+        "state": {
+            "lit": false
         }
-    ],
-    "block_in": "minecraft:campfire",
+    },
     "post": [
         {
             "type": "prevent_default"
         },
         {
             "type": "cycle_state_property",
-            "block": {
-                "blocks": "minecraft:campfire",
-                "state": {
-                    "LIT": false
-                }
-            },
-            "property": "LIT"
+            "block": "minecraft:campfire",
+            "property": "lit"
         }
     ]
 }

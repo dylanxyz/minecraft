@@ -1099,15 +1099,15 @@ hash = "58e8baef0fcad01fa29c074afbed63c3c456d8185333c1cbb03ddeaddd1684be"
 
 [[files]]
 file = "resourcepacks/@integrated/data/minecraft/recipes/campfire.json"
-hash = "ceb532a53341c546ad09d52fe803caf8a2a5716fc531ab6fa7682ecb370dc8ab"
+hash = "cc544eada1dc3b7fc0776f52963db776211cd24433b0b4a7961549e4ef42c362"
 
 [[files]]
 file = "resourcepacks/@integrated/data/minecraft/recipes/glass.json"
-hash = "9c0417d6981acb1e9df4df69242e39aea4c661c3e0e9a9ac7a69e599fdf8e36c"
+hash = "b56d17fadc2bf54d12a14e4b499f261b4320dc1a336c586f5a831a5dfff00f64"
 
 [[files]]
 file = "resourcepacks/@integrated/data/modpack/recipes/leather.json"
-hash = "8a3bf9183de466968879b16c4885658ebddd4ce0051262c6dbfa2058b1dc0820"
+hash = "e2cb36a597e2166d67f6afcc83fb5a17c54ece44ccd577a163cbd8d7896c5c12"
 
 [[files]]
 file = "resourcepacks/@integrated/data/modpack/recipes/lychee/campfire.json"

@@ -3,10 +3,10 @@
     "heatRequirement": "heated",
     "ingredients": [
         {
-            "item": "#minecraft:coals"
+            "tag": "minecraft:coals"
         },
         {
-            "item": "#minecraft:sand"
+            "tag": "minecraft:sand"
         },
         {
             "item": "minecraft:dried_kelp"

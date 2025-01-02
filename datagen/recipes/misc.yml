@@ -1,25 +1,25 @@
 ---
-id: "minecraft:glass"
-type: "create:mixing"
-heatRequirement: "heated"
+id: minecraft:glass
+type: create:mixing
+heatRequirement: heated
 
 ingredients:
-  - item: "#minecraft:coals"
-  - item: "#minecraft:sand"
-  - item: "minecraft:dried_kelp"
+  - tag: minecraft:coals
+  - tag: minecraft:sand
+  - item: minecraft:dried_kelp
 
 results:
-  - { item: "minecraft:glass", count: 2 }
-  - { item: "minecraft:glass", count: 2, chance: 0.5 }
+  - { item: minecraft:glass, count: 2 }
+  - { item: minecraft:glass, count: 2, chance: 0.5 }
 
 ---
-id: "modpack:leather"
-type: "create:mixing"
-heatRequirement: "heated"
+id: modpack:leather
+type: create:mixing
+heatRequirement: heated
 
 ingredients:
-  - item: "#minecraft:coals"
-  - item: "#minecraft:sand"
+  - tag: minecraft:coals
+  - tag: minecraft:sand
   -
     - item: minecraft:beef
     - item: minecraft:mutton
@@ -27,8 +27,8 @@ ingredients:
     - item: minecraft:rotten_flesh
 
 results:
-  - { item: "minecraft:leather", count: 2 }
-  - { item: "minecraft:leather", count: 2, chance: 0.5 }
+  - { item: minecraft:leather, count: 2 }
+  - { item: minecraft:leather, count: 2, chance: 0.5 }
 
 ---
 id: minecraft:campfire
@@ -39,9 +39,9 @@ pattern:
 key:
   "-":
     - item: notreepunching:plant_fiber
-    - tag: "#minecraft:saplings"
-    - tag: "#minecraft:planks"
+    - tag: minecraft:saplings
+    - tag: minecraft:planks
     - item: minecraft:stick
 
   "=":
-    tag: "#minecraft:logs_that_burn"
+    tag: minecraft:logs_that_burn

@@ -10,17 +10,17 @@
                 "item": "notreepunching:plant_fiber"
             },
             {
-                "tag": "#minecraft:saplings"
+                "tag": "minecraft:saplings"
             },
             {
-                "tag": "#minecraft:planks"
+                "tag": "minecraft:planks"
             },
             {
                 "item": "minecraft:stick"
             }
         ],
         "=": {
-            "tag": "#minecraft:logs_that_burn"
+            "tag": "minecraft:logs_that_burn"
         }
     }
 }

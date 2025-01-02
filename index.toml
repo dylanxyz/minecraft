@@ -110,6 +110,11 @@ file = "keys.txt"
 hash = "6d5b3e6b3b8c631704d02bc1f8d6d55f416654d070e625a6eaba39164282bc92"
 
 [[files]]
+file = "mods/create/copycats.pw.toml"
+hash = "0e9e0c07820d75286e657574775a20447f033685131605f3d64bcbaf2d9ecaf3"
+metafile = true
+
+[[files]]
 file = "mods/create/create-connected.pw.toml"
 hash = "4d510e5ac66c9afb762f7b36cba31f6973ad2e9c97d23607b24b7b15c46ced2c"
 metafile = true
@@ -156,7 +161,12 @@ metafile = true
 
 [[files]]
 file = "mods/create/create.pw.toml"
-hash = "0af10af11e16557aa809798e8dc6fd57208dd86fd67cfc19c893023582407356"
+hash = "354e0c24c442944c43779581596f360261d0e00b867ece435ddbd3ad3b014432"
+metafile = true
+
+[[files]]
+file = "mods/create/createaddoncompatibility.pw.toml"
+hash = "46e644067f8bad0b5f935362040b7d85f9c3aa5f01b68a874c48779f70d8afd2"
 metafile = true
 
 [[files]]
@@ -417,6 +427,11 @@ metafile = true
 [[files]]
 file = "mods/library/craterlib.pw.toml"
 hash = "01b2ee531c05a7e366eb4f03c64e8385f293e17a487698c0b39700857db04a41"
+metafile = true
+
+[[files]]
+file = "mods/library/create-sabers.pw.toml"
+hash = "2827271ddd7238b3d485e30c81a5e14018e59f553098c3dbb1dd934af9ba60a1"
 metafile = true
 
 [[files]]
@@ -1130,6 +1145,11 @@ hash = "5b59c1670d2deab14da6575b65eb654e794aadb06e863d3b24a4c53c5fb21a76"
 [[files]]
 file = "resourcepacks/@integrated/pack.mcmeta"
 hash = "fd15bf8b2e9c1a9c6f4163a6622aab52b85a579ae0c973e7eb4b6f4acf4d790d"
+
+[[files]]
+file = "resourcepacks/create-immersive-aircrafts-data-pack.pw.toml"
+hash = "9bbd764bc260954610ba2b03f74d782293914adb44edfd1d058b6b215d6265d2"
+metafile = true
 
 [[files]]
 file = "resourcepacks/create_new_age_refrubished.pw.toml"

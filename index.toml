@@ -44,6 +44,10 @@ file = "config/immediatelyfast.json"
 hash = "6602fc832ec8ad88ebeaedb1dada2da12d0c18e07cca2209cc53a00338619091"
 
 [[files]]
+file = "config/incontrol/phases.json"
+hash = "bcaced578a90f121aeaac8b7660d7e0f7f285f1ebaf83612658e4f7b9dbdac66"
+
+[[files]]
 file = "config/incontrol/spawn.json"
 hash = "c87c304d0dc5db6ebc462a3703e90f800a8be8580539bdc31391598645e36936"
 preserve = true

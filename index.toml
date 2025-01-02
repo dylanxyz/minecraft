@@ -1139,6 +1139,10 @@ file = "resourcepacks/@integrated/data/notreepunching/recipes/netherite_mattock.
 hash = "a7ee4a60c272df9889d13d98d5bc895974b587121b6d75c8e6e39e2f2f8e4d37"
 
 [[files]]
+file = "resourcepacks/@integrated/data/samurai_dynasty/recipes/steel_ingot_from_blasting_iron_ingot.json"
+hash = "a7ee4a60c272df9889d13d98d5bc895974b587121b6d75c8e6e39e2f2f8e4d37"
+
+[[files]]
 file = "resourcepacks/@integrated/data/superflat/dimension/superflat.json"
 hash = "5b59c1670d2deab14da6575b65eb654e794aadb06e863d3b24a4c53c5fb21a76"
 

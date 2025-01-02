@@ -27,3 +27,7 @@ type: notreepunching:empty
 ---
 id: immersive_weathering:glass_from_vitrified_sand_smelting
 type: notreepunching:empty
+
+---
+id: samurai_dynasty:steel_ingot_from_blasting_iron_ingot
+type: notreepunching:empty

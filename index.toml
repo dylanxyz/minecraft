@@ -846,11 +846,6 @@ hash = "f4b7eaf4dcc19ab0a16c1539aa2e78d574c24994d5ccca4c2b20fe4ef002f931"
 metafile = true
 
 [[files]]
-file = "mods/performance/ebe-forge.pw.toml"
-hash = "fd852217fddd46ca40b3542d4e949891268aab444684a08ef61b78465eb489df"
-metafile = true
-
-[[files]]
 file = "mods/performance/embeddium.pw.toml"
 hash = "f462e8414189e4a8e43515c138daaea626921ea0daaa49a4c197a2058f669546"
 metafile = true
@@ -1096,6 +1091,10 @@ hash = "63ee9a83455d19cc541cfe551e8644cfdba68bd7535af47126d0b46e9cc3d14b"
 [[files]]
 file = "resourcepacks/@integrated/data/fromtheshadows/forge/biome_modifier/spawns.json"
 hash = "58e8baef0fcad01fa29c074afbed63c3c456d8185333c1cbb03ddeaddd1684be"
+
+[[files]]
+file = "resourcepacks/@integrated/data/immersive_weathering/recipes/glass_from_vitrified_sand_smelting.json"
+hash = "a7ee4a60c272df9889d13d98d5bc895974b587121b6d75c8e6e39e2f2f8e4d37"
 
 [[files]]
 file = "resourcepacks/@integrated/data/minecraft/recipes/campfire.json"

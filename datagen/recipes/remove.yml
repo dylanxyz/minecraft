@@ -23,3 +23,7 @@ type: notreepunching:empty
 ---
 id: notreepunching:netherite_knife
 type: notreepunching:empty
+
+---
+id: immersive_weathering:glass_from_vitrified_sand_smelting
+type: notreepunching:empty

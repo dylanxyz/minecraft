@@ -93,11 +93,6 @@ hash = "d6c2b00b7b3edb3220ffcac39bb4b495ab22603e6b454c4c42990b328227e58e"
 preserve = true
 
 [[files]]
-file = "config/sodiumdynamiclights-client.toml"
-hash = "505b7eab2b103cbdefa8be934b30d1839ce710ca35d725a372dfc16f0664fdf1"
-preserve = true
-
-[[files]]
 file = "config/thirst/item_settings.toml"
 hash = "10fd2ce4c28691113d6ce76d0a3252799fa476a0f5694088e7e8aaad1e873a00"
 
@@ -172,7 +167,7 @@ metafile = true
 
 [[files]]
 file = "mods/equipment/curios.pw.toml"
-hash = "e51d7ea3c0cbca688564871df5bf673867cbbc4672dd12f9f3363ec10e2b7682"
+hash = "189a8b53a9d78345804171a599a77bccce389a7b96863c0541929ba3af472f83"
 metafile = true
 
 [[files]]
@@ -366,16 +361,6 @@ hash = "94d03f560b2b67fa27191283d0a362b173ebde7fa51f106c74e3889fdfd68f60"
 metafile = true
 
 [[files]]
-file = "mods/library/accessories-cc-layer.pw.toml"
-hash = "2513c8f11ef91f4dbab1ec75f2950c47c1a3fab7f44a535a83cbdfe6a32921e8"
-metafile = true
-
-[[files]]
-file = "mods/library/accessories.pw.toml"
-hash = "6864ac369ccc55d990880451c2f6513c086ebc0bda098b2cf139c90a5d292652"
-metafile = true
-
-[[files]]
 file = "mods/library/almanac-lib.pw.toml"
 hash = "0b0fb87b6dfe67ee12a4f7519f525b872ff4b69d77789d9624f3d32f8a7681a5"
 metafile = true
@@ -531,11 +516,6 @@ hash = "97a938e790bd3e035e9d4ae72861f8dc2bd625fe83af7e126d2b2f7254152f56"
 metafile = true
 
 [[files]]
-file = "mods/library/sodium-dynamic-lights.pw.toml"
-hash = "8e268da1671171d6386445dd5d22899b1281696d2aa051488675a8939df3056c"
-metafile = true
-
-[[files]]
 file = "mods/library/toadlib.pw.toml"
 hash = "99e716537136d74140b1d8afd11c9044275b93ce8647d4d6cbce64a639c55614"
 metafile = true
@@ -676,11 +656,6 @@ hash = "3eb119f0aaf25d2f79d3c9aefd5971b9f8879c406a190685ebadcc231f721570"
 metafile = true
 
 [[files]]
-file = "mods/misc/immersive-lanterns.pw.toml"
-hash = "7a0d0c6daa1dbbc28cef8b85be516720daac5b49eb18803c4c46f5042be6e620"
-metafile = true
-
-[[files]]
 file = "mods/misc/just-outdoor-stuffs.pw.toml"
 hash = "182ce4e5b392671d11e7f97eaf959cfb3d3235be25050221ab511606eb121f1e"
 metafile = true
@@ -698,11 +673,6 @@ metafile = true
 [[files]]
 file = "mods/misc/miners-delight.pw.toml"
 hash = "9fde9c990dbfd29deb05b0471efd57164c7c1c0863740e8941ad6e3692abd6aa"
-metafile = true
-
-[[files]]
-file = "mods/misc/mob-sunscreen.pw.toml"
-hash = "2b3b106c00f628567d4c31e9d678558bbf8dd8532cb979b55caef988e99d8e1f"
 metafile = true
 
 [[files]]

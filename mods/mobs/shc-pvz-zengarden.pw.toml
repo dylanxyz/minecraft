@@ -1,0 +1,13 @@
+name = "SHC: PVZ ZenGarden"
+filename = "../pvz_zengarden-1.5.2.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "075901cd0c0f83beb82a8a4043d43c57e8ac5429"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 5889999
+project-id = 1014131

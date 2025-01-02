@@ -1,5 +1,10 @@
 [
     {
+        "result"    : "deny",
+        "mob"       : "minecraft:skeleton",
+        "dimension" : "overworld"
+    },
+    {
         "result"    : "default",
         "hostile"   : true,
         "height"    : "lt(50)",
@@ -10,11 +15,6 @@
         "hostile"   : true,
         "height"    : "gt(50)",
         "biometags" : ["forge:caves"],
-        "dimension" : "overworld"
-    },
-    {
-        "result"    : "default",
-        "mod"       : "sculkhorde",
         "dimension" : "overworld"
     },
     {

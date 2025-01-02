@@ -45,7 +45,7 @@ hash = "6602fc832ec8ad88ebeaedb1dada2da12d0c18e07cca2209cc53a00338619091"
 
 [[files]]
 file = "config/incontrol/spawn.json"
-hash = "9e921debed34ba10652b1ffbc0fbaaf75398a5f36b8781718e014ab6101c1729"
+hash = "c87c304d0dc5db6ebc462a3703e90f800a8be8580539bdc31391598645e36936"
 preserve = true
 
 [[files]]
@@ -651,6 +651,11 @@ hash = "fd125aabd34f5d2946a54cd99a7cabbfbe83783d31c351f4169a3a6315142291"
 metafile = true
 
 [[files]]
+file = "mods/misc/explosive-enhancement-forge.pw.toml"
+hash = "a3b3fb75b0d3b89be36989152d4b54e617ca0e8fde3af9e9d7fcdd07dea54102"
+metafile = true
+
+[[files]]
 file = "mods/misc/handcrafted.pw.toml"
 hash = "cab1eecd0d27269c0573fa77ef4c2461812f50aa941cceec389e50d5ad655f6f"
 metafile = true
@@ -781,6 +786,16 @@ hash = "2cef33acf3b8b02a05b2d67432919b0244068f8f6c0b2af43d4ae7f1eb362ba0"
 metafile = true
 
 [[files]]
+file = "mods/mobs/illagers-wear-armor.pw.toml"
+hash = "199b63aa649d62d10797754293e7165cf0982ac6d5306bfd0885cf51701ca2aa"
+metafile = true
+
+[[files]]
+file = "mods/mobs/it-takes-a-pillage.pw.toml"
+hash = "7e6a4449a36797070648202759570c27a3b9b315aee5415b082b4793a3647027"
+metafile = true
+
+[[files]]
 file = "mods/mobs/mob-catalog.pw.toml"
 hash = "630cefd1a9cc19bac3662cba81744e74bacf2d4ca56976e653ad2a07c964892c"
 metafile = true
@@ -791,8 +806,13 @@ hash = "0ab446667638a5db5e5de73fe852ef0d0ebb1cd5021feb13bb32d6fa17fe1e9f"
 metafile = true
 
 [[files]]
-file = "mods/mobs/sculk-horde.pw.toml"
-hash = "51f37714d652753b1b145e49f577c977f6c62e6181d5fdca333fd204c7e4be09"
+file = "mods/mobs/pillagers-gun.pw.toml"
+hash = "0db515275b595a51ac04244b4f3875b91194477dfcb8c110818e0b5f0fb3f740"
+metafile = true
+
+[[files]]
+file = "mods/mobs/shc-pvz-zengarden.pw.toml"
+hash = "d0126fe4a13b9f178230dbb34391c4d6ec96d22007f3aaecbeaa58e44a32a148"
 metafile = true
 
 [[files]]
@@ -803,6 +823,11 @@ metafile = true
 [[files]]
 file = "mods/mobs/spawn-mod.pw.toml"
 hash = "beca9dc64c3735c027d25251a4de33f4fd00bd9a3abeb774cc50f4c7aacf575f"
+metafile = true
+
+[[files]]
+file = "mods/mobs/theundead.pw.toml"
+hash = "9ba394da57257a9806c2b73161e43753a922d14cf2bd5c1ba0231c2e7ffca403"
 metafile = true
 
 [[files]]
